@@ -1,0 +1,35 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>UK Colocation Dashboard</title>
+  <meta name="description" content="UK colocation dashboard using Facebook colocation data">
+  <meta name="author" content="Hamish Gibbs">
+
+  <link rel="stylesheet" href="css/page_base.css">
+  <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.16.0/d3.min.js"></script>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+
+  <!-- select2 menu package -->
+  <link href="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/css/select2.min.css" rel="stylesheet" />
+  <script src="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/js/select2.min.js"></script>
+
+</head>
+
+<body>
+	<div class="header">
+		<div id="dropdown-c" class="header-container"></div>
+  		<div id="panel-select-c" class="header-container"></div>
+	</div>
+    <div class="main">
+  		<div id="map-c" class="main-container"></div>
+  		<div id="panel-c" class="main-container"></div>
+    </div>
+    <!-- concat js files for production -->
+	<script type="text/javascript" src="js/map_setup.js"></script>
+	<script type="text/javascript" src="js/panel_setup.js"></script>
+</body>
+</html>

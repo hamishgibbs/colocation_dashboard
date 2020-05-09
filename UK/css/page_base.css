@@ -1,0 +1,46 @@
+body { 
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 12px;
+}
+
+.header {
+	display: flex;
+}
+
+.main {
+	display: flex;
+}
+
+.header-container {
+	flex: 50%;
+  	height: 25px;
+}
+
+.main-container {
+  flex: 50%;
+  height: 800px;
+}
+
+.area-dropdown {
+	width: 100%;
+  	height: 100%;
+}
+
+.main-map {
+	width: 100%;
+  	height: 100%;
+}
+
+.panel-button {
+    background-color: white; /* Green */
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    height: 25px;
+}
+
+.panel-button:hover {
+	background-color: #cfcfcf;
+}
