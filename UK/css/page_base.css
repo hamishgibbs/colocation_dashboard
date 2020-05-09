@@ -16,9 +16,35 @@ body {
   	height: 25px;
 }
 
+.area-title-container {
+	height: 50px;
+	width: 100%;
+	font-size: 20px;
+	line-height: 50px;
+	padding-left: 40px;
+
+}
+
+.ts-container {
+	height: 350px;
+	width: 100%;
+}
+
+.ts-plot {
+	height: 100%;
+	width: 100%;
+}
+
+.ts-plot-content {
+	fill: none;
+    stroke: steelblue;
+    stroke-width: 2px;
+}
+
 .main-container {
   flex: 50%;
   height: 800px;
+  display: inline;
 }
 
 .area-dropdown {
@@ -39,6 +65,7 @@ body {
     text-decoration: none;
     display: inline-block;
     height: 25px;
+    font-size: 12px;
 }
 
 .panel-button:hover {

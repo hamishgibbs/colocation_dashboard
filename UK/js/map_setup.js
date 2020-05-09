@@ -15,23 +15,21 @@ d3.select("#dropdown-c")
 	.attr("class", "area-dropdown")
 	.attr("id", "area-d");
 
-addDropdownElement = function(value, label, cls, dropdown_id){
-
-	d3.select("#" + dropdown_id)
-		.append("option")
-		.attr("value", value)
-		.text(label)
-		.attr("class", cls)
-
-};
-
-/* select actual data elements here */
-choices = [[1, "A"], [2, "B"], [3, "C"]]
-
-for (choice in choices){
-	addDropdownElement(choices[choice][0], choices[choice][1], "dropdown-element", "area-d")
-}
-
 $(document).ready(function() {
     $('.area-dropdown').select2();
 });
+
+$('select').on('change', function() {
+
+    area_name = this.value
+
+	ts_plot1.removePlotContent()
+
+	ts_plot1.addPlotContent(area_name)
+
+	ts_plot2.addPlotContent(area_name)
+
+	d3.select("#area-title-c")
+		.text(area_name)
+});
+
