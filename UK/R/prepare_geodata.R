@@ -18,11 +18,7 @@ uk <- uk %>% select(NAME_1, GID_2, NAME_2, TYPE_2)
 
 d <- rbind(irl, uk)
 
-ds <- st_simplify(d, dTolerance = 1, preserveTopology = T)
-st_simplify(d) %>% 
-  ggplot() +
-  geom_sf()
-
-
 st_write(d, '/Users/hamishgibbs/Documents/Covid-19/colocation_dashboard/geodata/UK.geojson')
 
+ds <- st_read('/Users/hamishgibbs/Documents/Covid-19/colocation_dashboard/geodata/UK_simple.shp')
+st_write(d, '/Users/hamishgibbs/Documents/Covid-19/colocation_dashboard/geodata/UK_simple.geojson')
