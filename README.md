@@ -1,8 +1,6 @@
 # colocation_dashboard
 Interactive dashboard of Facebook colocation data
 
-Data not published publicly. 
-
 ### To do items:
 
 * User testing
