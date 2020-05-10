@@ -72,7 +72,7 @@ for (i in 1:length(poly_names)){
   
   name <- poly_names[i]
   
-  top_10_data[[name]] <- mean_top_10 %>% filter(polygon1_name == name) %>% arrange(-mean_colocation) %>% slice(1:10)
+  top_10_data[[name]] <- mean_top_10 %>% filter(polygon1_name == name) %>% arrange(-mean_colocation) %>% slice(1:15)
 }
 mean_top_10 <- do.call(rbind, top_10_data)
 
