@@ -1,5 +1,5 @@
 ac_panel = function(){
-	this.data_url = "https://raw.githubusercontent.com/hamishgibbs/colocation_dashboard/master/UK/data/top_n_between.csv?token=AMBPN755TZE7C4JQP76XJIK6YFS6O"
+	this.data_url = "https://raw.githubusercontent.com/hamishgibbs/colocation_dashboard/master/UK/data/top_n_between.csv?token=AMBPN72AOWQ7XQQ77Q7P35K6YHDES"
 
 	this.data = null
 
