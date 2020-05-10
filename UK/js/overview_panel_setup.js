@@ -1,6 +1,6 @@
 ov_panel = function(){
 	this.image_url = "https://raw.githubusercontent.com/hamishgibbs/colocation_dashboard/master/UK/images/colocation_plot.png?token=AMBPN77L7MVIQHY5KOXUTVC6YBTRO"
-
+	this.image_svg_url = "https://raw.githubusercontent.com/hamishgibbs/colocation_dashboard/master/UK/images/colocation_plot.svg?token=AMBPN72Q3JPY4GHSSRTLM226YDTVE"
 	this.setupOvPanel = function(){
 
 		this.container = d3.select("#panel-c")
@@ -16,7 +16,7 @@ ov_panel = function(){
 
 		this.container 
 			.append("img")
-				.attr("src", this.image_url)
+				.attr("src", this.image_svg_url)
 				.attr("class", "ov-image")
 
 		this.container.append("div")
