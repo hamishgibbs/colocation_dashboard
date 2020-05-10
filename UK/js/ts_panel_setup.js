@@ -181,7 +181,7 @@ createTsSummaryButtons = function(panel_id){
 
 summaryButtonClick = function(){
 
-	d3.selectAll("#summary-button")
+	d3.selectAll(".summary-button")
 		.attr("id", null)
 
 	d3.select(this)
