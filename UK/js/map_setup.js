@@ -31,5 +31,10 @@ $('select').on('change', function() {
 
 	d3.select("#area-title-c")
 		.text(area_name)
+
+	ac_panel1.removePlotContent(area_name)
+
+	ac_panel1.addPlotContent(area_name)
+
 });
 

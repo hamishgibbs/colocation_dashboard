@@ -1,9 +1,11 @@
 ac_panel = function(){
-	this.data_url = "https://raw.githubusercontent.com/hamishgibbs/colocation_dashboard/master/UK/data/top_n_between.csv?token=AMBPN72MOG4JL3AHNZWOTH26YFKNA"
+	this.data_url = "https://raw.githubusercontent.com/hamishgibbs/colocation_dashboard/master/UK/data/top_n_between.csv?token=AMBPN755TZE7C4JQP76XJIK6YFS6O"
 
 	this.data = null
 
-	this.margin = {top: 100, right: 50, bottom: 0, left: 50};
+	this.default_area = "Greater London"
+
+	this.margin = {top: 10, right: 50, bottom: 0, left: 40};
 	this.containerDims = d3.select("#panel-c").node().getBoundingClientRect()
 	this.width = this.containerDims.width - this.margin.left - this.margin.right;
     this.height = this.containerDims.height - this.margin.top - this.margin.bottom;
@@ -16,12 +18,13 @@ ac_panel = function(){
 			.attr("class", "ac-plot-content")
 
 		this.sankey = d3.sankey()
-		    .nodeWidth(36)
-		    .nodePadding(40)
+		    .nodeWidth(30)	
+		    .nodePadding(50)
 		    .size([this.width, this.height]);
 
 		/* this may cause an error */
-		this.path = this.sankey.links();
+		this.path = this.sankey.link();
+;
 
 
 
@@ -29,7 +32,11 @@ ac_panel = function(){
 
 	this.addPlotContent = function(area){
 
+		console.log(area)
+
 		plot_data = this.data.filter(function(d){ return d.polygon1_name == area;})
+
+		console.log(plot_data)
 
 		graph = {"nodes" : [], "links" : []};
 
@@ -66,13 +73,17 @@ ac_panel = function(){
 		      .links(graph.links)
 		      .layout(32);
 
-			var link = this.svg.append("g").selectAll(".link")
+			// add in the links
+		  var link = this.svg.append("g").selectAll(".link")
 		      .data(graph.links)
 		    .enter().append("path")
 		      .attr("class", "link")
 		      .attr("d", this.path)
+		      .attr("value", function(d){return d.target.name; })
 		      .style("stroke-width", function(d) { return Math.max(1, d.dy); })
-		      .sort(function(a, b) { return b.dy - a.dy; });
+		      .sort(function(a, b) { return b.dy - a.dy; })
+		      .on("mouseover", this.linkMouseOver)
+		      .on("mouseout", this.linkMouseOut);
 
 		// add the link titles
 		  link.append("title")
@@ -86,55 +97,61 @@ ac_panel = function(){
 		    .enter().append("g")
 		      .attr("class", "node")
 		      .attr("transform", function(d) {
-		      	 
-				  return "translate(" + d.x + "," + d.y + ")"; })
-		      .call(d3.drag()
-		        .subject(function(d) {
-		          return d;
-		        })
-		        .on("start", function() {
-		          this.parentNode.appendChild(this);
-		        })
-		        .on("drag", dragmove));
+				  return "translate(" + d.x + "," + d.y + ")"; });
 
 		node.append("rect")
-	      .attr("height", function(d) {console.log(d.dy); return d.dy; })
-	      .attr("width", sankey.nodeWidth())
-	      .style("fill", function(d) { 
-			  return d.color = color(d.name.replace(/ .*/, "")); })
-	      .style("stroke", function(d) { 
-			  return d3.rgb(d.color).darker(2); })
+	      .attr("height", function(d) { return d.dy; })
+	      .attr("width", this.sankey.nodeWidth())
+	      .style("fill", "lightgrey")
 	    .append("title")
 	      .text(function(d) { 
-			  return d.name + "\n" + format(d.value); });
+			  return d.name + "\n" + d.value; });
 
-		// add in the title for the nodes
+			// add in the title for the nodes
 		  node.append("text")
-		      .attr("x", -6)
+		      .attr("x", function(d){if(d.name == area){return 36;}else{return -6;}})
 		      .attr("y", function(d) { return d.dy / 2; })
 		      .attr("dy", ".35em")
-		      .attr("text-anchor", "end")
+		      .attr("text-anchor", function(d){if(d.name == area){return"beginning";}else{return "end";}})
 		      .attr("transform", null)
-		      .text(function(d) { return d.name; })
-		    .filter(function(d) { return d.x < width / 2; })
-		      .attr("x", 6 + sankey.nodeWidth())
+		      .text(function(d) { return d.name + " " + parseFloat(d.value.toFixed(7)).toExponential(); })
+		    .filter(function(d) { return d.x < this.width / 2; })
+		      .attr("x", 6 + this.sankey.nodeWidth())
 		      .attr("text-anchor", "start");
 
-		// the function for moving the nodes
-		  function dragmove(d) {
-		    d3.select(this)
-		      .attr("transform", 
-		            "translate(" 
-		               + d.x + "," 
-		               + (d.y = Math.max(
-		                  0, Math.min(this.height - d.dy, d3.event.y))
-		                 ) + ")");
-		    sankey.relayout();
-		    link.attr("d", path);
-		  }
 
-		  console.log(graph)
 	}
+
+	this.removePlotContent = function(){
+    	d3.selectAll('.ac-plot-content').remove()
+
+    	this.svg = d3.selectAll(".ac-plot")
+			.append("g")
+			.attr("class", "ac-plot-content")
+    }
+
+    this.linkMouseOver = function(){
+    	hovered_area = d3.select(this).attr("value")
+
+    	area_polygons = d3.selectAll(".country")._groups[0]
+    	for(i in area_polygons){
+
+    		if(area_polygons[i].getAttribute("polygon-name") == hovered_area){
+    			console.log(area_polygons[i].setAttribute("class", "area-selected"))
+    		}
+    	}
+
+    }
+
+    this.linkMouseOut = function(){
+    	selected_area = d3.selectAll(".area-selected")
+
+    	country = selected_area.attr("country-name")
+
+    	selected_area.attr("class", "country " + country)
+
+    	
+    }
 
 }
 

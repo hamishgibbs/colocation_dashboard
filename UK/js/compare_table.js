@@ -3,7 +3,7 @@ table_panel = function(){
 
 	this.data_url = "https://raw.githubusercontent.com/hamishgibbs/colocation_dashboard/master/UK/data/top_10_between.csv?token=AMBPN7ZDWA3POX6HUHNOFWS6YBXZU"
 	
-	this.default_area = "Aberdeen";
+	this.default_area = "Greater London";
 
 	this.createTable = function(){
 		this.container = d3.select("#panel-c")

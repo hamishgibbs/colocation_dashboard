@@ -13,7 +13,7 @@ ts_plot = function(){
 
 	this.dataset_type = null;
 
-	this.default_area = "Aberdeen";
+	this.default_area = "Greater London";
 
 	this.margin = {top: 0, right: 30, bottom: 50, left: 70}
 
@@ -52,6 +52,7 @@ ts_plot = function(){
 		this.x.domain(d3.extent(data, function(d) { return d.ds; }));
   		this.y.domain([0, d3.max(data, function(d) { return d.mean_colocation; })]);
   		
+
   		var x = this.x
   		var y = this.y
 
@@ -90,7 +91,7 @@ ts_plot = function(){
 	};
 
     this.addPlotContent = function(area){
-    	
+
     	if (['England', 'Wales', 'Scotland', 'Northern Ireland'].includes(area)){
     		plot_data = this.data.filter(function(d){ return d.NAME_1 == area;})
 

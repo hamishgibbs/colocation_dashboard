@@ -1,4 +1,6 @@
-/* reduce the size of the map data */
+
+/* refactor into a module asap */
+
 geodata_url = "https://raw.githubusercontent.com/hamishgibbs/colocation_dashboard/master/geodata/UK_simple.geojson?token=AMBPN7YM2VWD5RVOGNE5GHS6X6I3E"
 
 map_svg = d3.select("#main-m")
@@ -9,7 +11,9 @@ map_svg_dims = document.getElementById('main-m').getBoundingClientRect()
 var projection = d3.geoMercator()
 					.translate([map_svg_dims.width/2, map_svg_dims.height/2])
 					.scale(2200)
-					.center([-4.5, 53]);
+					.center([-4.5, 55]);
+
+console.log(map_svg_dims.width * 5.5)
 
 var path = d3.geoPath().projection(projection);
 
@@ -29,6 +33,7 @@ Promise.all([d3.json(geodata_url)]).then(function(data){
       	.attr("stroke", "white")
       	.attr("class", mapCountryClass)
       	.attr("polygon-name", function(d){ return d.properties.NAME_2; })
+      	.attr("country-name", function(d){ return d.properties.NAME_1; })
       	.on("click", mainMapClick)
       	.on("mousein", d3.selection.prototype.moveToFront)
 
@@ -37,7 +42,7 @@ Promise.all([d3.json(geodata_url)]).then(function(data){
 
 
 sizeChange = function() {
-    d3.select(".areas").attr("transform", "scale(" + $("#map-c").width()/400 + ")");
+    d3.select(".areas").attr("transform", "scale(" + $("#map-c").width()/700 + ")");
     $(".areas").height($("#map-c").width()*0.618);
 }
 
@@ -70,5 +75,10 @@ mainMapClick = function(){
 
 	d3.select("#area-title-c")
 		.text(area_name)
+
+	ac_panel1.removePlotContent(area_name)
+
+	ac_panel1.addPlotContent(area_name)
+
 
 }
