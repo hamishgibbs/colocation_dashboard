@@ -9,16 +9,16 @@ map_svg_dims = document.getElementById('main-m').getBoundingClientRect()
 var projection = d3.geoMercator()
 					.translate([map_svg_dims.width/2, map_svg_dims.height/2])
 					.scale(2200)
-					.center([-3, 53]);
+					.center([-4.5, 53]);
 
 var path = d3.geoPath().projection(projection);
+
 
 Promise.all([d3.json(geodata_url)]).then(function(data){
 	data = data[0]
 	
 	country_class = data.features.map(function(d) { return "country " + d.properties.NAME_1; })
-
-
+    
     map_svg.append("g")
       .attr("class", "areas")
     	.selectAll("path")
@@ -30,9 +30,20 @@ Promise.all([d3.json(geodata_url)]).then(function(data){
       	.attr("class", mapCountryClass)
       	.attr("polygon-name", function(d){ return d.properties.NAME_2; })
       	.on("click", mainMapClick)
+      	.on("mousein", d3.selection.prototype.moveToFront)
 
     
 });
+
+
+sizeChange = function() {
+    d3.select(".areas").attr("transform", "scale(" + $("#map-c").width()/400 + ")");
+    $(".areas").height($("#map-c").width()*0.618);
+}
+
+d3.select(window)
+    .on("resize", sizeChange);
+
 
 mapCountryClass = function(d){
 
@@ -48,7 +59,7 @@ mapCountryClass = function(d){
 }
 
 mainMapClick = function(){
-		
+
 	area_name = d3.select(this).attr("polygon-name")
 
 	ts_plot1.removePlotContent()

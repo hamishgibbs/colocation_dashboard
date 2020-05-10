@@ -1,6 +1,6 @@
 /* add panel select buttons */
 
-panelButtonClick = function(){
+/*aCompareButtonClick = function(){
 
 	d3.selectAll(".panel-button")
 		.attr("id", null)
@@ -8,9 +8,11 @@ panelButtonClick = function(){
 	d3.select(this)
 		.attr("id", "active-button")
 
-	/* if value = ts, setup ts panel */
+	refreshPanel()
 
-}
+	table_panel1.createTable()
+
+}*/
 
 tsButtonClick = function(){
 	d3.selectAll(".panel-button")
@@ -19,18 +21,12 @@ tsButtonClick = function(){
 	d3.select(this)
 		.attr("id", "active-button")
 
-	d3.select("#panel-c").remove()
-
-	d3.select(".main")
-		.append("div")
-		.attr("class", "panel-container")
-		.attr("id", "panel-c")
+	refreshPanel()
 
 	d3.select("#panel-c")
 		.append("div")
 		.attr("class", "area-title-container")
 		.attr("id", "area-title-c")
-
 
 	ts_plot1.appendSVG('panel-c', 'ts1-c', 'ts-container', 'ts1', 'ts-plot')
 
@@ -42,7 +38,11 @@ tsButtonClick = function(){
 	d3.select("#area-title-c")
 		.text(ts_plot1.default_area)
 
+	createTsSummaryButtons("panel-c")
 }
+
+
+ov_panel1 = new ov_panel
 
 ovButtonClick = function(){
 
@@ -52,9 +52,10 @@ ovButtonClick = function(){
 	d3.select(this)
 		.attr("id", "active-button")
 
-	d3.select("#panel-c").remove()
+	refreshPanel()
 
-	
+	ov_panel1.setupOvPanel()
+
 }
 
 /*in this panel - just give premade pngs */
@@ -63,6 +64,7 @@ d3.select("#panel-select-c")
 		.attr("value", "ov")
 		.text("Overview")
 		.attr("class", "panel-button")
+		.attr("id", "active-button")
 		.on("click", ovButtonClick);
 
 
@@ -71,17 +73,16 @@ d3.select("#panel-select-c")
 		.attr("value", "ts")
 		.text("Time series")
 		.attr("class", "panel-button")
-		.attr("id", "active-button")
 		.on("click", tsButtonClick);
 
-d3.select("#panel-select-c")
+/*d3.select("#panel-select-c")
 		.append("button")
 		.attr("value", "ac")
 		.text("Area comparison")
 		.attr("class", "panel-button")
-		.on("click", panelButtonClick);
+		.on("click", aCompareButtonClick);*/
 
-
+$("#active-button").click()
 
 
 /* within each button click - hold the panel setup function */

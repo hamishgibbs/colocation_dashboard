@@ -1,18 +1,18 @@
 
 .country.England {
-	fill: red;
+	fill: #00C9A7;
 }
 
 .country.Scotland {
-	fill: green;
+	fill: #008E9B;
 }
 
 .country.Wales {
-	fill: blue;
+	fill: #E2F0F7;
 }
 
 .country.Northern.Ireland {
-	fill: purple;
+	fill: #845EC2;
 }
 
 .country.Ireland {
@@ -21,9 +21,10 @@
 
 .country {
 	stroke: black;
+	stroke-width: 0.1px;
 }
 
 .country:hover {
-	stroke-width: 4px;
+	stroke-width: 0.5px;
 }
 

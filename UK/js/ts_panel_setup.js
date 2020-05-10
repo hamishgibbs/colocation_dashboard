@@ -11,6 +11,8 @@ ts_plot = function(){
 
 	this.y_label = null;
 
+	this.dataset_type = null;
+
 	this.default_area = "Aberdeen";
 
 	this.margin = {top: 0, right: 30, bottom: 50, left: 70}
@@ -18,6 +20,8 @@ ts_plot = function(){
 	this.printData = function(){console.log(this.data)};
 
 	this.appendSVG = function(panel_id, container_id, container_cls, svg_id, svg_cls){
+
+		this.panel = d3.select("#" + panel_id)
 
 		d3.select("#" + panel_id)
 			.append('div')
@@ -47,6 +51,8 @@ ts_plot = function(){
 		this.x.domain(d3.extent(data, function(d) { return d.ds; }));
   		this.y.domain([0, d3.max(data, function(d) { return d.mean_colocation; })]);
   		
+  		console.log(d3.max(data, function(d) { return d.mean_colocation; }))
+
   		var x = this.x
   		var y = this.y
 
@@ -82,13 +88,16 @@ ts_plot = function(){
 
     this.addPlotContent = function(area){
     	
+    	if (['England', 'Wales', 'Scotland', 'NI'].includes(area)){
+    		console.log(area)
+    	}
     	plot_data = this.data.filter(function(d){ return d.polygon1_name == area;})
     	console.log(plot_data)
     	/* line not appearing correctly here - style issue?*/ 
     	this.svg
     		.append("path")
       		.data([plot_data])
-      		.attr("class", "ts-plot-content")
+      		.attr("class", "ts-plot-content" + " " + this.dataset_type)
       		.attr("d", this.plotLine);
 
     };
@@ -100,6 +109,39 @@ ts_plot = function(){
 }
 
 /*add div to hold title */
+createTsSummaryButtons = function(panel_id){
+		d3.select("#" + panel_id)
+			.append("button")
+			.attr("value", "England")
+			.text("England")
+			.attr("class", "summary-button")
+			.on("click", summaryButtonClick)
+
+		d3.select("#" + panel_id)
+			.append("button")
+			.attr("value", "Wales")
+			.text("Wales")
+			.attr("class", "summary-button")
+			.on("click", summaryButtonClick)
+
+		d3.select("#" + panel_id)
+			.append("button")
+			.attr("value", "Scotland")
+			.text("Scotland")
+			.attr("class", "summary-button")
+			.on("click", summaryButtonClick)
+
+		d3.select("#" + panel_id)
+			.append("button")
+			.attr("value", "NI")
+			.text("Northern Ireland")
+			.attr("class", "summary-button")
+			.on("click", summaryButtonClick)
+}
+
+summaryButtonClick = function(){
+	console.log(this.value)
+}
 
 
 var ts_plot1 = new ts_plot()
@@ -113,6 +155,10 @@ var ts_plot2 = new ts_plot()
 ts_plot2.y_label = "Probabilty of colocation within home area"
 
 ts_plot2.appendSVG('panel-c', 'ts2-c', 'ts-container', 'ts2', 'ts-plot')
+
+ts_plot1.dataset_type = 'between'
+
+ts_plot2.dataset_type = 'within'
 
 /* remember to parse up here */
 Promise.all([d3.csv(ts_data_url, d3.autoType)]).then(function(data){
@@ -128,21 +174,33 @@ Promise.all([d3.csv(ts_data_url, d3.autoType)]).then(function(data){
 	}
 
 	within_data = data.filter(function(d){ return d.type == 'Within';})
+	console.log(within_data)
+	/* threshold within data so that it is < 0.025 (remove outliers) */
+	within_data = within_data.filter(function(d){ return d.mean_colocation < 0.025;})
+
+	console.log(within_data)
+
 	between_data = data.filter(function(d){ return d.type == 'Between';})
 	
+
+
 	/* divide data within and between */
 	ts_plot1.data = between_data
 	ts_plot2.data = within_data
 
 
 	ts_plot1.defineAxes('ts1-c', between_data)
-	ts_plot1.layoutPlot()
 
 	ts_plot2.defineAxes('ts2-c', within_data)
-	ts_plot2.layoutPlot()
 
 	d3.select("#area-title-c")
 		.text(ts_plot1.default_area)
-
-	$("#active-button").click()
 })
+
+/* add buttons for country summaries */
+
+
+
+
+
+

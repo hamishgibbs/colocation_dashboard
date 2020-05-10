@@ -25,8 +25,27 @@ body {
 
 }
 
+.ov-container {
+	width: 100%;
+	height: 100%;
+}
+
+.ov-image {
+	max-width:100%;
+	max-height:100%;
+}
+
+.ov-blurb {
+	text-align: center;
+	line-height: 200px;
+	height: 200px;
+	width: 100%;
+	font-size: 15px;
+	color: #7C7C7C;
+}
+
 .ts-container {
-	height: 350px;
+	height: 300px;
 	width: 100%;
 }
 
@@ -37,8 +56,15 @@ body {
 
 .ts-plot-content {
 	fill: none;
-    stroke: steelblue;
-    stroke-width: 2px;
+    stroke-width: 1px;
+}
+
+.ts-plot-content.within {
+    stroke: #00A4DE;
+}
+
+.ts-plot-content.between {
+    stroke: #4E78CF;
 }
 
 .main-container {
@@ -68,6 +94,29 @@ body {
     font-size: 12px;
 }
 
+#active-button {
+	background-color: #cfcfcf;
+}
+
 .panel-button:hover {
 	background-color: #cfcfcf;
 }
+
+.summary-button {
+	background-color: white; /* Green */
+    border: none;
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    height: 25px;
+    font-size: 12px;
+    border-radius: 30px;
+}
+
+.summary-button:hover {
+	background-color: #cfcfcf;
+}
+
+
+
