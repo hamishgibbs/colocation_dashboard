@@ -83,6 +83,11 @@ body {
     stroke: #4E78CF;
 }
 
+.ac-plot {
+	width: 100%;
+  	height: 700px;
+}
+
 .description-text {
 	width: 100%;
   	height: 400px;
@@ -112,7 +117,7 @@ body {
 
 .main-container {
   flex: 50%;
-  height: 800px;
+  height: 700px;
   display: inline;
 }
 

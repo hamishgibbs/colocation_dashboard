@@ -74,6 +74,20 @@ ddButtonClick = function(){
 
 }
 
+acButtonClick = function(){
+	d3.selectAll(".panel-button")
+		.attr("id", null)
+
+	d3.select(this)
+		.attr("id", "active-button")
+
+	refreshPanel()
+
+	ac_panel1.setupAcPanel()
+
+	ac_panel1.addPlotContent("Greater London")
+}
+
 /*in this panel - just give premade pngs */
 d3.select("#panel-select-c")
 		.append("button")
@@ -96,6 +110,7 @@ d3.select("#panel-select-c")
 		.attr("value", "ac")
 		.text("Area Comparison")
 		.attr("class", "panel-button")
+		.on("click", acButtonClick);
 
 d3.select("#panel-select-c")
 		.append("button")

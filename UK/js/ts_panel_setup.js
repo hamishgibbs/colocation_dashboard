@@ -52,8 +52,6 @@ ts_plot = function(){
 		this.x.domain(d3.extent(data, function(d) { return d.ds; }));
   		this.y.domain([0, d3.max(data, function(d) { return d.mean_colocation; })]);
   		
-  		console.log(d3.max(data, function(d) { return d.mean_colocation; }))
-
   		var x = this.x
   		var y = this.y
 
@@ -123,7 +121,6 @@ ts_plot = function(){
 
     	}
     	
-    	console.log(plot_data)
     	/* line not appearing correctly here - style issue?*/ 
 
     };
@@ -232,11 +229,9 @@ Promise.all([d3.csv(ts_data_url, d3.autoType)]).then(function(data){
 	}
 
 	within_data = data.filter(function(d){ return d.type == 'Within';})
-	console.log(within_data)
 	/* threshold within data so that it is < 0.025 (remove outliers) */
 	within_data = within_data.filter(function(d){ return d.mean_colocation < 0.025;})
 
-	console.log(within_data)
 
 	between_data = data.filter(function(d){ return d.type == 'Between';})
 	

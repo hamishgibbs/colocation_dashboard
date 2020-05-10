@@ -45,7 +45,3 @@ table_panel = function(){
 
 var table_panel1 = new table_panel
 
-
-Promise.all([d3.csv(table_panel1.data_url, d3.autoType)]).then(function(data){
-	table_panel1.data = data[0]
-})
