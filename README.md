@@ -12,3 +12,5 @@ Interactive dashboard of Facebook colocation data
 * Blurb text
 
 * Dataset description text
+
+* Concat .js files
