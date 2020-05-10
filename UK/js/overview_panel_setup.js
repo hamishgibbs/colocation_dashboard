@@ -16,7 +16,7 @@ ov_panel = function(){
 
 		this.container 
 			.append("img")
-				.attr("src", this.image_svg_url)
+				.attr("src", this.image_url)
 				.attr("class", "ov-image")
 
 		this.container.append("div")
