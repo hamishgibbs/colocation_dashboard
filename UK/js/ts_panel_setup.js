@@ -22,6 +22,7 @@ ts_plot = function(){
 	this.appendSVG = function(panel_id, container_id, container_cls, svg_id, svg_cls){
 
 		this.panel = d3.select("#" + panel_id)
+		this.container = d3.select("#" + container_id)
 
 		d3.select("#" + panel_id)
 			.append('div')
@@ -83,30 +84,71 @@ ts_plot = function(){
 	        .text(this.y_label);
 
 	    this.addPlotContent(this.default_area)
+
+	    this.tooltip_div = this.container.append("div")	
+    		.attr("class", "tooltip")				
+    		.style("opacity", 0);
 	      
 	};
 
     this.addPlotContent = function(area){
     	
-    	if (['England', 'Wales', 'Scotland', 'NI'].includes(area)){
-    		console.log(area)
+    	if (['England', 'Wales', 'Scotland', 'Northern Ireland'].includes(area)){
+    		plot_data = this.data.filter(function(d){ return d.NAME_1 == area;})
+
+    		area_names = plot_data.map(function(d){ return d.polygon1_name }).filter( onlyUnique )
+
+    		for(i in area_names){
+    			area_data = plot_data.filter(function(d){ return d.polygon1_name == area_names[i];})
+
+    			this.svg
+	    		.append("path")
+	      		.data([area_data])
+	      		.attr("class", "ts-plot-content summary" + " " + this.dataset_type)
+	      		.attr("d", this.plotLine)
+	      		.attr("value", area_names[i])
+	      		.on("mouseover", this.changeTitle)
+	      		.on("mouseout", this.resetTitle);
+
+    		}
+
+    	}else{
+    		plot_data = this.data.filter(function(d){ return d.polygon1_name == area;})
+
+    		this.svg
+	    		.append("path")
+	      		.data([plot_data])
+	      		.attr("class", "ts-plot-content" + " " + this.dataset_type)
+	      		.attr("d", this.plotLine);
+
     	}
-    	plot_data = this.data.filter(function(d){ return d.polygon1_name == area;})
+    	
     	console.log(plot_data)
     	/* line not appearing correctly here - style issue?*/ 
-    	this.svg
-    		.append("path")
-      		.data([plot_data])
-      		.attr("class", "ts-plot-content" + " " + this.dataset_type)
-      		.attr("d", this.plotLine);
 
     };
+
+    this.changeTitle = function(){
+
+    	d3.select("#area-title-c")
+			.text(d3.select(this).attr("value"))
+
+	}
+
+	this.resetTitle = function(){
+		console.log(d3.select("#summary-button-active").text())
+    	d3.select("#area-title-c")
+			.text(d3.select("#summary-button-active").text())
+
+	}
+
 
     this.removePlotContent = function(){
     	d3.selectAll('.ts-plot-content').remove()
     }
 
 }
+
 
 /*add div to hold title */
 createTsSummaryButtons = function(panel_id){
@@ -133,14 +175,30 @@ createTsSummaryButtons = function(panel_id){
 
 		d3.select("#" + panel_id)
 			.append("button")
-			.attr("value", "NI")
+			.attr("value", "Northern Ireland")
 			.text("Northern Ireland")
 			.attr("class", "summary-button")
 			.on("click", summaryButtonClick)
 }
 
 summaryButtonClick = function(){
-	console.log(this.value)
+
+	d3.selectAll("#summary-button")
+		.attr("id", null)
+
+	d3.select(this)
+		.attr("id", "summary-button-active")
+
+	ts_plot1.removePlotContent()
+
+	ts_plot2.removePlotContent()
+
+	ts_plot1.addPlotContent(this.value)
+
+	ts_plot2.addPlotContent(this.value)
+
+	d3.select("#area-title-c")
+		.text(this.value)
 }
 
 

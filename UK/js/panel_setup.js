@@ -58,6 +58,22 @@ ovButtonClick = function(){
 
 }
 
+description_panel1 = new description_panel
+
+ddButtonClick = function(){
+	d3.selectAll(".panel-button")
+		.attr("id", null)
+
+	d3.select(this)
+		.attr("id", "active-button")
+
+	refreshPanel()
+
+	description_panel1.setupDdPanel()
+
+
+}
+
 /*in this panel - just give premade pngs */
 d3.select("#panel-select-c")
 		.append("button")
@@ -74,6 +90,19 @@ d3.select("#panel-select-c")
 		.text("Time series")
 		.attr("class", "panel-button")
 		.on("click", tsButtonClick);
+
+d3.select("#panel-select-c")
+		.append("button")
+		.attr("value", "ac")
+		.text("Area Comparison")
+		.attr("class", "panel-button")
+
+d3.select("#panel-select-c")
+		.append("button")
+		.attr("value", "dd")
+		.text("Dataset Description")
+		.attr("class", "panel-button")
+		.on("click", ddButtonClick);
 
 /*d3.select("#panel-select-c")
 		.append("button")

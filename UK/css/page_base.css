@@ -59,12 +59,55 @@ body {
     stroke-width: 1px;
 }
 
+.ts-plot-content.summary.between {
+	stroke: #cfcfcf;
+}
+
+.ts-plot-content.summary.between:hover {
+	stroke: #303030;
+}
+
+.ts-plot-content.summary.within {
+	stroke: #cfcfcf;
+}
+
+.ts-plot-content.summary.within:hover {
+	stroke: #303030;
+}
+
 .ts-plot-content.within {
     stroke: #00A4DE;
 }
 
 .ts-plot-content.between {
     stroke: #4E78CF;
+}
+
+.description-text {
+	width: 100%;
+  	height: 400px;
+  	text-align: center;
+	line-height: 400px;
+	font-size: 15px;
+	color: #7C7C7C;
+}
+
+.image-container {
+	height: 100%;
+	width: 50%;
+	padding: 20px;
+}
+
+.credit-image {
+	max-height: 100%;
+	max-width: 100%;
+	vertical-align: middle;
+}
+
+.credits-container {
+	width: 100%;
+  	height: 60px;
+	display: flex;
 }
 
 .main-container {
