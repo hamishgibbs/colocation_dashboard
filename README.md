@@ -5,9 +5,9 @@ Data not published publicly.
 
 ### To do items:
 
-User testing
+* User testing
 
-Design notes/changes
+* Design notes/changes
 
 Check that processed data can be released
 
