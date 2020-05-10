@@ -9,8 +9,8 @@ Data not published publicly.
 
 * Design notes/changes
 
-Check that processed data can be released
+* Check that processed data can be released
 
-Blurb text
+* Blurb text
 
-Dataset description text
+* Dataset description text
