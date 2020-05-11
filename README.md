@@ -7,7 +7,7 @@ Interactive dashboard of Facebook colocation data
 
 * Design notes/changes
 
-* Check if processed data can be released
+* Check processed data can be released
 
 * Blurb text
 
