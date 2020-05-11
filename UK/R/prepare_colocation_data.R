@@ -1,9 +1,6 @@
 require(tidyverse)
 require(sf)
 
-#JUST JOIN BY NAMES
-
-#the premise is just to do what is recommended - join and alter any that don't match out of the box. 
 
 colocation <- read_csv('/Users/hamishgibbs/Documents/Covid-19/covid_facebook_mobility/plot_colocation_data/output/colocation_country_referenced.csv')
 
