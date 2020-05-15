@@ -6,13 +6,18 @@ PLOTDIR := ${PROJDIR}/UK/data
 
 R = /usr/local/bin/Rscript $^ $@
 
-default: update_data create_plot_datasets
+default: push_data
 
 update_data: ${INPUTDIR}/colocation_country_referenced.csv \
 			${INPUTDIR}/colocation_gadm_names.csv
 
 create_plot_datasets: ${PLOTDIR}/mean_ts.csv \
 					${PLOTDIR}/top_n_between.csv
+
+push_data: create_plot_datasets
+	git add . 
+	git commit -m "automated update"
+	git push
 
 ${INPUTDIR}/colocation_country_referenced.csv: ${PROJDIR}/UK/R/assign_countries.R ${RAWDIR}
 	${R}
