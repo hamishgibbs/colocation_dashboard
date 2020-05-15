@@ -15,7 +15,8 @@ create_plot_datasets: ${PLOTDIR}/mean_ts.csv \
 					${PLOTDIR}/top_n_between.csv
 
 push_data: create_plot_datasets
-	git add . 
+	git add ${PLOTDIR}/mean_ts.csv
+	git add ${PLOTDIR}/top_n_between.csv
 	git commit -m "automated update"
 	git push
 
