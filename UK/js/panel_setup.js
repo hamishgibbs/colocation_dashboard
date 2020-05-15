@@ -90,6 +90,10 @@ acButtonClick = function(){
 
 /*in this panel - just give premade pngs */
 d3.select("#panel-select-c")
+	.append("div")
+	.attr("class", "button-spacer")
+
+d3.select("#panel-select-c")
 		.append("button")
 		.attr("value", "ov")
 		.text("Overview")
@@ -97,6 +101,9 @@ d3.select("#panel-select-c")
 		.attr("id", "active-button")
 		.on("click", ovButtonClick);
 
+d3.select("#panel-select-c")
+	.append("div")
+	.attr("class", "button-spacer")
 
 d3.select("#panel-select-c")
 		.append("button")
@@ -106,11 +113,19 @@ d3.select("#panel-select-c")
 		.on("click", tsButtonClick);
 
 d3.select("#panel-select-c")
+	.append("div")
+	.attr("class", "button-spacer")
+
+d3.select("#panel-select-c")
 		.append("button")
 		.attr("value", "ac")
 		.text("Area Comparison")
 		.attr("class", "panel-button")
 		.on("click", acButtonClick);
+
+d3.select("#panel-select-c")
+	.append("div")
+	.attr("class", "button-spacer")
 
 d3.select("#panel-select-c")
 		.append("button")

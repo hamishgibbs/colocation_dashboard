@@ -50,7 +50,7 @@ ts_plot = function(){
 		this.y = d3.scaleLinear().range([this.height, 0]);
 
 		this.x.domain(d3.extent(data, function(d) { return d.ds; }));
-  		this.y.domain([0, d3.max(data, function(d) { return d.mean_colocation; })]);
+  		this.y.domain([d3.min(data, function(d) { return d.mean_colocation; }), d3.max(data, function(d) { return d.mean_colocation; })]);
   		
 
   		var x = this.x
@@ -150,6 +150,11 @@ ts_plot = function(){
 
 /*add div to hold title */
 createTsSummaryButtons = function(panel_id){
+		
+		d3.select("#" + panel_id)
+			.append("div")
+		    .attr("class", "button-spacer")
+
 		d3.select("#" + panel_id)
 			.append("button")
 			.attr("value", "England")
@@ -158,11 +163,19 @@ createTsSummaryButtons = function(panel_id){
 			.on("click", summaryButtonClick)
 
 		d3.select("#" + panel_id)
+			.append("div")
+		    .attr("class", "button-spacer")
+
+		d3.select("#" + panel_id)
 			.append("button")
 			.attr("value", "Wales")
 			.text("Wales")
 			.attr("class", "summary-button")
 			.on("click", summaryButtonClick)
+	
+		d3.select("#" + panel_id)
+			.append("div")
+		    .attr("class", "button-spacer")
 
 		d3.select("#" + panel_id)
 			.append("button")
@@ -171,6 +184,10 @@ createTsSummaryButtons = function(panel_id){
 			.attr("class", "summary-button")
 			.on("click", summaryButtonClick)
 
+		d3.select("#" + panel_id)
+			.append("div")
+		    .attr("class", "button-spacer")
+		 
 		d3.select("#" + panel_id)
 			.append("button")
 			.attr("value", "Northern Ireland")
@@ -202,13 +219,13 @@ summaryButtonClick = function(){
 
 var ts_plot1 = new ts_plot()
 
-ts_plot1.y_label = "Probabilty of colocation outside home area"
+ts_plot1.y_label = "% change of colocation probabilty outside home area"
 
 ts_plot1.appendSVG('panel-c', 'ts1-c', 'ts-container', 'ts1', 'ts-plot')
 
 var ts_plot2 = new ts_plot()
 
-ts_plot2.y_label = "Probabilty of colocation within home area"
+ts_plot2.y_label = "Probabilty of colocation outside home area"
 
 ts_plot2.appendSVG('panel-c', 'ts2-c', 'ts-container', 'ts2', 'ts-plot')
 
@@ -218,7 +235,7 @@ ts_plot2.dataset_type = 'within'
 
 /* remember to parse up here */
 Promise.all([d3.csv(ts_data_url, d3.autoType)]).then(function(data){
-	
+
 	data = data[0]
 	/*parsing issue */
 	area_names = data.map(function(d){ return d.polygon1_name }).filter( onlyUnique )
@@ -229,23 +246,23 @@ Promise.all([d3.csv(ts_data_url, d3.autoType)]).then(function(data){
 		addDropdownElement(area_names[i], area_names[i], "dropdown-element", "area-d")
 	}
 
-	within_data = data.filter(function(d){ return d.type == 'Within';})
+	perc_data = data.filter(function(d){ return d.type == 'perc_change';})
 	/* threshold within data so that it is < 0.025 (remove outliers) */
-	within_data = within_data.filter(function(d){ return d.mean_colocation < 0.025;})
+	perc_data = perc_data.filter(function(d){ return d.mean_colocation <= 200;})
 
-
-	between_data = data.filter(function(d){ return d.type == 'Between';})
+	abs_data = data.filter(function(d){ return d.type == 'abs_value';})
 	
-
+	console.log(perc_data)
+	console.log(abs_data)
 
 	/* divide data within and between */
-	ts_plot1.data = between_data
-	ts_plot2.data = within_data
+	ts_plot1.data = perc_data
+	ts_plot2.data = abs_data
 
 
-	ts_plot1.defineAxes('ts1-c', between_data)
+	ts_plot1.defineAxes('ts1-c', perc_data)
 
-	ts_plot2.defineAxes('ts2-c', within_data)
+	ts_plot2.defineAxes('ts2-c', abs_data)
 
 	d3.select("#area-title-c")
 		.text(ts_plot1.default_area)
