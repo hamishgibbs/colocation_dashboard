@@ -769,12 +769,6 @@ Between,Isle of Wight,2020-04-14,4.8102397630533014e-8,England,GBR.1.42_1,Unitar
 Between,Isle of Wight,2020-04-21,9.324640516243298e-8,England,GBR.1.42_1,Unitary Authority,abs_value
 Between,Isle of Wight,2020-04-28,1.1072616837100509e-7,England,GBR.1.42_1,Unitary Authority,abs_value
 Between,Isle of Wight,2020-05-05,1.1852273282543297e-7,England,GBR.1.42_1,Unitary Authority,abs_value
-Between,Isles of Scilly,2020-03-03,6.352366580418255e-7,England,GBR.1.43_1,Unitary Authority,abs_value
-Between,Isles of Scilly,2020-03-10,1.9118906848506014e-6,England,GBR.1.43_1,Unitary Authority,abs_value
-Between,Isles of Scilly,2020-03-17,8.050267155748102e-7,England,GBR.1.43_1,Unitary Authority,abs_value
-Between,Isles of Scilly,2020-03-24,6.31194868789375e-7,England,GBR.1.43_1,Unitary Authority,abs_value
-Between,Isles of Scilly,2020-03-31,1.5169935460892478e-6,England,GBR.1.43_1,Unitary Authority,abs_value
-Between,Isles of Scilly,2020-04-07,6.211829640686432e-6,England,GBR.1.43_1,Unitary Authority,abs_value
 Between,Kent,2020-03-03,9.693980287312374e-7,England,GBR.1.44_1,Administrative County,abs_value
 Between,Kent,2020-03-10,9.694380463796138e-7,England,GBR.1.44_1,Administrative County,abs_value
 Between,Kent,2020-03-17,7.540080918875298e-7,England,GBR.1.44_1,Administrative County,abs_value
@@ -1155,16 +1149,6 @@ Between,Oldham,2020-04-14,9.436255861046292e-7,England,GBR.1.68_1,Metropolitan B
 Between,Oldham,2020-04-21,1.1456081711617185e-6,England,GBR.1.68_1,Metropolitan Borough,abs_value
 Between,Oldham,2020-04-28,1.231460133394223e-6,England,GBR.1.68_1,Metropolitan Borough,abs_value
 Between,Oldham,2020-05-05,1.3687901444105316e-6,England,GBR.1.68_1,Metropolitan Borough,abs_value
-Between,Orkney Islands,2020-03-03,5.790439910880028e-7,Scotland,GBR.3.23_1,Island area,abs_value
-Between,Orkney Islands,2020-03-10,4.057909934503949e-7,Scotland,GBR.3.23_1,Island area,abs_value
-Between,Orkney Islands,2020-03-17,1.7313689315128847e-6,Scotland,GBR.3.23_1,Island area,abs_value
-Between,Orkney Islands,2020-03-24,2.397212987584479e-7,Scotland,GBR.3.23_1,Island area,abs_value
-Between,Orkney Islands,2020-03-31,2.7824469165517986e-8,Scotland,GBR.3.23_1,Island area,abs_value
-Between,Orkney Islands,2020-04-07,9.572132553105083e-8,Scotland,GBR.3.23_1,Island area,abs_value
-Between,Orkney Islands,2020-04-14,1.1563391531733235e-7,Scotland,GBR.3.23_1,Island area,abs_value
-Between,Orkney Islands,2020-04-21,5.292177513611158e-8,Scotland,GBR.3.23_1,Island area,abs_value
-Between,Orkney Islands,2020-04-28,7.357173105607297e-7,Scotland,GBR.3.23_1,Island area,abs_value
-Between,Orkney Islands,2020-05-05,1.5476308318209862e-6,Scotland,GBR.3.23_1,Island area,abs_value
 Between,Oxfordshire,2020-03-03,1.4320433334253924e-6,England,GBR.1.69_1,Administrative County,abs_value
 Between,Oxfordshire,2020-03-10,1.4791907074377558e-6,England,GBR.1.69_1,Administrative County,abs_value
 Between,Oxfordshire,2020-03-17,1.2530270345491282e-6,England,GBR.1.69_1,Administrative County,abs_value
@@ -2595,12 +2579,6 @@ Between,Isle of Wight,2020-04-14,8.575500377474537,England,GBR.1.42_1,Unitary Au
 Between,Isle of Wight,2020-04-21,16.623590965474435,England,GBR.1.42_1,Unitary Authority,perc_change
 Between,Isle of Wight,2020-04-28,19.739812263726893,England,GBR.1.42_1,Unitary Authority,perc_change
 Between,Isle of Wight,2020-05-05,21.129752156858373,England,GBR.1.42_1,Unitary Authority,perc_change
-Between,Isles of Scilly,2020-03-03,100,England,GBR.1.43_1,Unitary Authority,perc_change
-Between,Isles of Scilly,2020-03-10,300.9729776527975,England,GBR.1.43_1,Unitary Authority,perc_change
-Between,Isles of Scilly,2020-03-17,126.72863024882379,England,GBR.1.43_1,Unitary Authority,perc_change
-Between,Isles of Scilly,2020-03-24,99.36373488505691,England,GBR.1.43_1,Unitary Authority,perc_change
-Between,Isles of Scilly,2020-03-31,238.8076202600646,England,GBR.1.43_1,Unitary Authority,perc_change
-Between,Isles of Scilly,2020-04-07,977.876443691861,England,GBR.1.43_1,Unitary Authority,perc_change
 Between,Kent,2020-03-03,100,England,GBR.1.44_1,Administrative County,perc_change
 Between,Kent,2020-03-10,100.00412809260905,England,GBR.1.44_1,Administrative County,perc_change
 Between,Kent,2020-03-17,77.78106304531967,England,GBR.1.44_1,Administrative County,perc_change
@@ -2981,16 +2959,6 @@ Between,Oldham,2020-04-14,21.76035238939507,England,GBR.1.68_1,Metropolitan Boro
 Between,Oldham,2020-04-21,26.41814494195509,England,GBR.1.68_1,Metropolitan Borough,perc_change
 Between,Oldham,2020-04-28,28.397922704459717,England,GBR.1.68_1,Metropolitan Borough,perc_change
 Between,Oldham,2020-05-05,31.5648031678123,England,GBR.1.68_1,Metropolitan Borough,perc_change
-Between,Orkney Islands,2020-03-03,100,Scotland,GBR.3.23_1,Island area,perc_change
-Between,Orkney Islands,2020-03-10,70.0794757731495,Scotland,GBR.3.23_1,Island area,perc_change
-Between,Orkney Islands,2020-03-17,299.0047316197349,Scotland,GBR.3.23_1,Island area,perc_change
-Between,Orkney Islands,2020-03-24,41.399496834086854,Scotland,GBR.3.23_1,Island area,perc_change
-Between,Orkney Islands,2020-03-31,4.8052427093210675,Scotland,GBR.3.23_1,Island area,perc_change
-Between,Orkney Islands,2020-04-07,16.530924593690006,Scotland,GBR.3.23_1,Island area,perc_change
-Between,Orkney Islands,2020-04-14,19.96979799411447,Scotland,GBR.3.23_1,Island area,perc_change
-Between,Orkney Islands,2020-04-21,9.139508560769876,Scotland,GBR.3.23_1,Island area,perc_change
-Between,Orkney Islands,2020-04-28,127.05723949890981,Scotland,GBR.3.23_1,Island area,perc_change
-Between,Orkney Islands,2020-05-05,267.27344651535776,Scotland,GBR.3.23_1,Island area,perc_change
 Between,Oxfordshire,2020-03-03,100,England,GBR.1.69_1,Administrative County,perc_change
 Between,Oxfordshire,2020-03-10,103.29231475835223,England,GBR.1.69_1,Administrative County,perc_change
 Between,Oxfordshire,2020-03-17,87.49924009296114,England,GBR.1.69_1,Administrative County,perc_change
