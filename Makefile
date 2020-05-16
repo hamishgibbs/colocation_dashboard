@@ -17,9 +17,10 @@ create_plot_datasets: ${PLOTDIR}/data/mean_ts.csv \
 
 transform_text_files: ${PLOTDIR}/text/blurb.html
 
-push_data: create_plot_datasets
+push_data: create_plot_datasets transform_text_files
 	git add ${PLOTDIR}/data/mean_ts.csv
 	git add ${PLOTDIR}/data/top_n_between.csv
+	git add ${PLOTDIR}/text/blurb.html
 	git commit -m "automated update"
 	git push
 
