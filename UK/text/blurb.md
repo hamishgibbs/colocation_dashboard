@@ -1,3 +1,1 @@
-
-#### Hamish Gibbs
-
+Facebook colocation data uses aggregated mobile phone trajectories to understand the probabiltiy of "colocations" over time. Explore the network of colocation probabilities in the UK  

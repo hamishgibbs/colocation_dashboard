@@ -29,8 +29,10 @@ ov_panel = function(){
 	this.blurb_text = null
 }
 
+var blurb_url = "https://raw.githubusercontent.com/hamishgibbs/colocation_dashboard/master/UK/text/blurb.html?token=AMBPN76YXBH2X477JHLXUY26ZB364"
+
 $.ajax({
-    url : "text/blurb.html",
+    url : blurb_url,
     dataType: "text",
     success : function (data) {
     	ov_panel1.blurb_text = data

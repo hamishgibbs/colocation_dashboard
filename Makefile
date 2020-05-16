@@ -5,7 +5,7 @@ PROJDIR := ~/Documents/Covid-19/colocation_dashboard
 PLOTDIR := ${PROJDIR}/UK
 
 R = /usr/local/bin/Rscript $^ $@
-NODE = node $^
+NODE = node $^ $@
 
 default: push_data
 
@@ -15,12 +15,14 @@ update_data: ${INPUTDIR}/colocation_country_referenced.csv \
 create_plot_datasets: ${PLOTDIR}/data/mean_ts.csv \
 					${PLOTDIR}/data/top_n_between.csv
 
-transform_text_files: ${PLOTDIR}/text/blurb.html
+transform_text_files: ${PLOTDIR}/text/blurb.html \
+					${PLOTDIR}/text/description.html
 
 push_data: create_plot_datasets transform_text_files
 	git add ${PLOTDIR}/data/mean_ts.csv
 	git add ${PLOTDIR}/data/top_n_between.csv
 	git add ${PLOTDIR}/text/blurb.html
+	git add ${PLOTDIR}/text/description.html
 	git commit -m "automated update"
 	git push
 
@@ -37,4 +39,7 @@ ${PLOTDIR}/data/top_n_between.csv: ${PROJDIR}/UK/R/create_top_n_data.R ${INPUTDI
 	${R}
 
 ${PLOTDIR}/text/blurb.html: ${PLOTDIR}/js/write_blurb.js
+	${NODE}
+
+${PLOTDIR}/text/description.html: ${PLOTDIR}/js/write_description.js
 	${NODE}

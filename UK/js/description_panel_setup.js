@@ -7,6 +7,8 @@ description_panel = function(){
 	this.cmmid_url = "https://www.lshtm.ac.uk/research/centres/centre-mathematical-modelling-infectious-diseases"
 	this.lshtm_url = "https://www.lshtm.ac.uk/"
 
+	this.description_text = null
+
 	this.setupDdPanel = function(){
 
 
@@ -21,7 +23,6 @@ description_panel = function(){
 			.append("div")
 			.attr("class", "description-text")
 			.attr("id", "description-t")
-			.text("- dataset description here -")
 
 		
 		this.credits_panel = this.container
@@ -65,5 +66,18 @@ description_panel = function(){
 			.attr("id", "author-panel")
 			.text("Visualisation by Hamish Gibbs. Supported by CMMID Covid-19 Working Group, Rosalind M Eggo, and Adam Kucharski.")
 
+		$(".description-text").html(this.description_text)
+		
 	}
 }
+
+var description_url = "https://raw.githubusercontent.com/hamishgibbs/colocation_dashboard/master/UK/text/description.html?token=AMBPN75TSPROKJZZP4WJPDS6ZB4EQ"
+
+$.ajax({
+    url : description_url,
+    dataType: "text",
+    success : function (data) {
+    	description_panel1.description_text = data
+        $(".description-text").html(data);
+    }
+});
