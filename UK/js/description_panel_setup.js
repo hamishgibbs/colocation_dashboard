@@ -58,5 +58,12 @@ description_panel = function(){
 			.append("img")
 			.attr("src", this.cmmid_image_url)
 			.attr("class", "credit-image")
+
+		this.container
+			.append("div")
+			.attr("class", "author-container")
+			.attr("id", "author-panel")
+			.text("Visualisation by Hamish Gibbs. Supported by CMMID Covid-19 Working Group, Rosalind M Eggo, and Adam Kucharski.")
+
 	}
 }

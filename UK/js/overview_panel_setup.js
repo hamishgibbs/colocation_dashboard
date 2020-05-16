@@ -21,7 +21,19 @@ ov_panel = function(){
 
 		this.container.append("div")
 			.attr("class", "ov-blurb")
-			.text("- blurb here -")
+
+		$(".ov-blurb").html(this.blurb_text)
 				
 	}
+
+	this.blurb_text = null
 }
+
+$.ajax({
+    url : "text/blurb.html",
+    dataType: "text",
+    success : function (data) {
+    	ov_panel1.blurb_text = data
+        $(".ov-blurb").html(data);
+    }
+});

@@ -24,7 +24,7 @@ ac_panel = function(){
 
 		/* this may cause an error */
 		this.path = this.sankey.link();
-;
+
 
 
 
@@ -33,6 +33,11 @@ ac_panel = function(){
 	this.addPlotContent = function(area){
 
 		console.log(area)
+    try {
+        unstyleArea('area-active')
+    } catch {
+    
+    }
 
 		plot_data = this.data.filter(function(d){ return d.polygon1_name == area;})
 
@@ -79,11 +84,21 @@ ac_panel = function(){
 		    .enter().append("path")
 		      .attr("class", "link")
 		      .attr("d", this.path)
+          .attr("stroke-opacity", 0.1)
 		      .attr("value", function(d){return d.target.name; })
+          .attr("area-name", function(d){return d.target.name; })
 		      .style("stroke-width", function(d) { return Math.max(1, d.dy); })
 		      .sort(function(a, b) { return b.dy - a.dy; })
 		      .on("mouseover", this.linkMouseOver)
-		      .on("mouseout", this.linkMouseOut);
+		      .on("mouseout", this.linkMouseOut)
+          .on('click', this.sankeyClick);
+
+      link
+        .transition()
+        .duration(400)
+        .ease(d3.easeLinear)
+        .style("stroke-opacity", 0.25)
+        .attr('stroke-dashoffset', 0)
 
 		// add the link titles
 		  link.append("title")
@@ -102,7 +117,9 @@ ac_panel = function(){
 		node.append("rect")
 	      .attr("height", function(d) { return d.dy; })
 	      .attr("width", this.sankey.nodeWidth())
+        .attr("area-name", function(d) { return d.name; })
 	      .style("fill", "lightgrey")
+        .on("click", this.sankeyClick)
 	    .append("title")
 	      .text(function(d) { 
 			  return d.name + "\n" + d.value; });
@@ -119,43 +136,48 @@ ac_panel = function(){
 		      .attr("x", 6 + this.sankey.nodeWidth())
 		      .attr("text-anchor", "start");
 
+    styleArea(area, 'area-active')
 
 	}
 
-	this.removePlotContent = function(){
-    	d3.selectAll('.ac-plot-content').remove()
+  this.removePlotContent = function(){
+  	d3.selectAll('.ac-plot-content').remove()
 
-    	this.svg = d3.selectAll(".ac-plot")
-			.append("g")
-			.attr("class", "ac-plot-content")
-    }
+  	this.svg = d3.selectAll(".ac-plot")
+		.append("g")
+		.attr("class", "ac-plot-content")
+  }
 
-    this.linkMouseOver = function(){
-    	hovered_area = d3.select(this).attr("value")
+  this.linkMouseOver = function(){
+  	hovered_area = d3.select(this).attr("value")
 
-    	area_polygons = d3.selectAll(".country")._groups[0]
-    	for(i in area_polygons){
+    styleArea(hovered_area, 'area-selected')
 
-    		if(area_polygons[i].getAttribute("polygon-name") == hovered_area){
-    			console.log(area_polygons[i].setAttribute("class", "area-selected"))
-    		}
-    	}
+  }
 
-    }
+  this.linkMouseOut = function(){
+  	
+    unstyleArea("area-selected")
+  	
+  }
 
-    this.linkMouseOut = function(){
-    	selected_area = d3.selectAll(".area-selected")
-
-    	country = selected_area.attr("country-name")
-
-    	selected_area.attr("class", "country " + country)
-
-    	
-    }
+  /* not sure what practice is for this. class attrribute is now referenced to a single instance */
+  this.sankeyClick = function(){}
 
 }
 
 ac_panel1 = new ac_panel
+
+ac_panel1.sankeyClick = function(){
+      console.log(this)
+      area_name = d3.select(this).attr('area-name')
+
+      unstyleArea("area-selected")
+
+      ac_panel1.removePlotContent(area_name)
+
+      ac_panel1.addPlotContent(area_name)
+  }
 
 d3.csv(ac_panel1.data_url, d3.autoType).then(function(data){
 

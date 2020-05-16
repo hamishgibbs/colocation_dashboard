@@ -40,12 +40,11 @@ body {
 }
 
 .ov-blurb {
-	text-align: center;
-	line-height: 200px;
+	text-align: left;
+	padding-left: 10px;
 	height: 150px;
 	width: 100%;
 	font-size: 15px;
-	color: #7C7C7C;
 }
 
 .ts-container {
@@ -95,11 +94,10 @@ body {
 .link {
   fill: none;
   stroke: #A9A9A9;
-  stroke-opacity: .2;
 }
 
 .link:hover {
-  stroke-opacity: .9;
+  stroke: #767676;
 }
 
 .node {
@@ -114,6 +112,15 @@ body {
 	line-height: 400px;
 	font-size: 15px;
 	color: #7C7C7C;
+}
+
+.author-container {
+	text-align: left;
+	padding-top: 25px;
+	height: 100px;
+	width: 100%;
+	font-size: 13px;
+	color: grey;
 }
 
 .image-container {
@@ -231,4 +238,9 @@ body {
 	fill: #97003C;
 }
 
+.area-active{
+	stroke: black;
+	stroke-width: 0.1px;
+	fill: yellow;
+}
 
