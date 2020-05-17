@@ -107,10 +107,9 @@ body {
 }
 
 .description-text {
-	padding-bottom: 25px;
 	line-height: 20px;
 	width: 100%;
-  	height: 500px;
+  	flex-wrap: wrap;
   	text-align: left;
 	font-size: 15px;
 	color: #3C3C3C;
