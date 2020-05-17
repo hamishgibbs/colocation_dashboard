@@ -246,3 +246,8 @@ body {
 	fill: #0BA531;
 }
 
+.figure-caption {
+	font-size: 12px;
+	flex-wrap: wrap;
+	color: #6F6F6F;
+}
