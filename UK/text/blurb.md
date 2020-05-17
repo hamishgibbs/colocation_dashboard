@@ -1,1 +1,1 @@
-Facebook colocation data uses aggregated mobile phone trajectories to understand the probabiltiy of "colocations" over time. Explore the network of colocation probabilities in the UK  
+Facebook colocation data uses anonymized mobile phone location data to understand the probability of "colocations" between administrative areas over time. A colocation probability is the probability of overlapping mobile phone trajectories for >5 minutes during a week. Explore the network of colocation probabilities in the UK.

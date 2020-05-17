@@ -236,12 +236,12 @@ body {
 .area-selected{
 	stroke: black;
 	stroke-width: 0.1px;
-	fill: #97003C;
+	fill: #005B5B;
 }
 
 .area-active{
 	stroke: black;
 	stroke-width: 0.1px;
-	fill: yellow;
+	fill: #73FFDD;
 }
 
