@@ -29,7 +29,7 @@ english_locations <- c('Poole', 'Essex', 'Suffolk', "Lancashire",
                        "Torbay", "East Riding of Yorkshire", "Isle of Wight", 'East Sussex', 
                        'North Lincolnshire', 'Isles of Scilly', 'North Lincolnshire', 'Medway')
 NI_locations <- c('Antrim and Newtownabbey', 'Mid and East Antrim')
-IoM_locations <- c('Marown', 'Laxey', 'Andreas', 'German', 'Michael')
+IoM_locations <- c('Marown', 'Laxey', 'Andreas', 'German', 'Michael', 'Santon')
 other_locations <- c('Faroe Islands')
 
 testthat::test_that('No admin areas are missing a country', {

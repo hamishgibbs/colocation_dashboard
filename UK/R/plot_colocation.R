@@ -27,18 +27,6 @@ date_labels <- as.character(format(plot_data_wi$ds %>% unique(),"%b-%d"))
 date_breaks <-as.numeric(plot_data_wi$ds %>% unique())
 
 
-p_wi <- plot_data_wi %>% 
-  ggplot() +
-  geom_density(aes(x = log(link_value), group = ds, colour = as.numeric(ds)), size = 0.5) +
-  facet_wrap(~country_1, ncol = 2) +
-  scale_colour_continuous_sequential(palette = 'Teal', breaks = date_breaks, labels=date_labels) +
-  xlab('Probability of a 5 minute colocation (log)') +
-  ggtitle('Within home area') +
-  theme_bw() +
-  plot_default_theme +
-  plot_custom_theme +
-  theme(text = element_text(size = 12))
-
 p_bw <- plot_data_bw %>% 
   ggplot() +
   geom_density(aes(x = log(link_value), group = ds, colour = as.numeric(ds)), size = 0.5) +
@@ -49,17 +37,9 @@ p_bw <- plot_data_bw %>%
   theme_bw() +
   plot_default_theme +
   plot_custom_theme +
-  theme(axis.title.x = element_blank(),
+  theme(legend.position = 'right', axis.title.x = element_blank(),
         text = element_text(size = 12))
 
-legend <- get_legend(
-  # create some space to the left of the legend
-  p_bw + theme(legend.box.margin = margin(0, 0, 0, 12))
-)
-
-plots <- plot_grid(p_bw + theme(legend.position = 'none'), p_wi + theme(legend.position = 'none'), nrow=2)
-p <- plot_grid(plots, legend, rel_widths = c(0.85, 0.15))
-
-gutils::ggsave_pdf_png(p, .args[length(.args)], 8, 7)
+gutils::ggsave_pdf_png(p_bw, .args[length(.args)], 8, 6)
 print('Success.')
 
