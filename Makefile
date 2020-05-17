@@ -38,8 +38,8 @@ ${PLOTDIR}/data/mean_ts.csv: ${PROJDIR}/UK/R/create_ts_data.R ${INPUTDIR}/coloca
 ${PLOTDIR}/data/top_n_between.csv: ${PROJDIR}/UK/R/create_top_n_data.R ${INPUTDIR}/colocation_gadm_names.csv
 	${R}
 
-${PLOTDIR}/text/blurb.html: ${PLOTDIR}/js/write_blurb.js
+${PLOTDIR}/text/blurb.html: ${PLOTDIR}/js/write_md_to_html.js ${PLOTDIR}/text/blurb.md
 	${NODE}
 
-${PLOTDIR}/text/description.html: ${PLOTDIR}/js/write_description.js
+${PLOTDIR}/text/description.html: ${PLOTDIR}/js/write_md_to_html.js ${PLOTDIR}/text/description.md
 	${NODE}
