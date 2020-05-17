@@ -28,8 +28,11 @@ for (i in 1:length(name_rep %>% pull(replacement))){
 }
 
 #filter the only name that appears in fb and not gadm
-colocation <- colocation %>% filter(polygon1_name != 'Aberdeen City',
-                                    polygon2_name != 'Aberdeen City')
+colocation <- colocation %>% 
+  mutate(polygon1_name = ifelse(polygon1_name == "NA", NA, polygon1_name),
+         polygon2_name = ifelse(polygon2_name == "NA", NA, polygon2_name)) %>% 
+  filter(!is.na(polygon1_name),
+         !is.na(polygon2_name))
 
 target_names <- as.character(uk %>% pull(NAME_2))
 fb_names <- unique(c(colocation %>% pull(polygon1_name), colocation %>% pull(polygon2_name)))
