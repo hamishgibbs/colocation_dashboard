@@ -36,7 +36,4 @@ perc_ts <- mean_ts %>%
 
 d <- rbind(mean_ts, perc_ts)
 
-d <- d %>% 
-  filter(!polygon1_name %in% c('Isles of Scilly', 'Orkney Islands'))
-
 write_csv(d, .args[length(.args)])

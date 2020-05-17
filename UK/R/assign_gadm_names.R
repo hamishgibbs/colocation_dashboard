@@ -41,4 +41,9 @@ fb_names <- unique(c(colocation %>% pull(polygon1_name), colocation %>% pull(pol
 testthat::expect_equal(length(setdiff(fb_names, target_names)), 0)
 testthat::expect_equal(length(setdiff(target_names, fb_names)), 1)
 
+#hard remove areas - data in the Isles of Scilly and the Orkneys is skewed -> 900% increase in colocation in IoS.
+#Doesn't appear to have been fixed by new colocation maps. 
+colocation <- colocation %>% 
+  filter(!polygon1_name %in% c('Isles of Scilly', 'Orkney Islands'))
+
 write_csv(colocation, .args[length(.args)])

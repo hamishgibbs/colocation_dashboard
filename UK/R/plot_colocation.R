@@ -34,10 +34,12 @@ p_bw <- plot_data_bw %>%
   scale_colour_continuous_sequential(palette = 'Teal', breaks = date_breaks, labels=date_labels) +
   labs(colour = '') +
   ggtitle('Outside home area') +
+  xlab('Mean colocation probability (log)') +
+  ylab('Density') +
   theme_bw() +
   plot_default_theme +
   plot_custom_theme +
-  theme(legend.position = 'right', axis.title.x = element_blank(),
+  theme(legend.position = 'right',
         text = element_text(size = 12))
 
 gutils::ggsave_pdf_png(p_bw, .args[length(.args)], 8, 6)
