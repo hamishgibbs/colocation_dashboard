@@ -21,7 +21,7 @@ body {
 	width: 100%;
 	font-size: 20px;
 	line-height: 50px;
-	padding-left: 40px;
+	padding-left: 0px;
 
 }
 
@@ -35,7 +35,7 @@ body {
 	max-height:500px;
 
 	display: block;
-  	margin-left: auto;
+  	margin-left: 0px;
   	margin-right: auto;
 }
 
@@ -45,6 +45,7 @@ body {
 	height: 150px;
 	width: 100%;
 	font-size: 15px;
+	color: #3C3C3C;
 }
 
 .ts-container {
@@ -106,18 +107,19 @@ body {
 }
 
 .description-text {
-	padding-top: 2px;
-	padding-left: 2px;
+	padding-bottom: 25px;
+	line-height: 20px;
 	width: 100%;
   	height: 500px;
   	text-align: left;
 	font-size: 15px;
-	color: black;
+	color: #3C3C3C;
 }
 
 .author-container {
 	text-align: left;
-	padding-top: 25px;
+	padding-top: 30px;
+	line-height: 20px;
 	height: 100px;
 	width: 100%;
 	font-size: 13px;
@@ -242,6 +244,6 @@ body {
 .area-active{
 	stroke: black;
 	stroke-width: 0.1px;
-	fill: #73FFDD;
+	fill: #0BA531;
 }
 

@@ -1,3 +1,1 @@
-Explore the network of colocation probabilities in the UK.  
-
-Facebook uses anonymized mobile phone location data to understand the probability of "colocations" between administrative areas over time. A colocation probability is the probability of overlapping mobile phone trajectories > 5 minutes during a week.
+Facebook uses anonymized mobile phone location data to understand the probability of "colocation" between administrative areas over time, a proxy for social contact. The definition of colocation is that two users are within the same ~0.6 by ~0.6 km area within the same five minute period in a week. Use this dashboard to explore the network of colocation probabilities in the UK over time.

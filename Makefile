@@ -18,11 +18,14 @@ create_plot_datasets: ${PLOTDIR}/data/mean_ts.csv \
 transform_text_files: ${PLOTDIR}/text/blurb.html \
 					${PLOTDIR}/text/description.html
 
-push_data: create_plot_datasets transform_text_files
+create_overview_plot: ${PLOTDIR}/images/colocation_plot.pdf
+
+push_data: create_plot_datasets transform_text_files create_overview_plot
 	git add ${PLOTDIR}/data/mean_ts.csv
 	git add ${PLOTDIR}/data/top_n_between.csv
 	git add ${PLOTDIR}/text/blurb.html
 	git add ${PLOTDIR}/text/description.html
+	git add ${PLOTDIR}/images/colocation_plot.png
 	git commit -m "automated update"
 	git push
 
@@ -43,3 +46,7 @@ ${PLOTDIR}/text/blurb.html: ${PLOTDIR}/js/write_md_to_html.js ${PLOTDIR}/text/bl
 
 ${PLOTDIR}/text/description.html: ${PLOTDIR}/js/write_md_to_html.js ${PLOTDIR}/text/description.md
 	${NODE}
+
+${PLOTDIR}/images/colocation_plot.pdf: ${PLOTDIR}/R/plot_colocation.R ${INPUTDIR}/colocation_country_referenced.csv
+	${R}
+
