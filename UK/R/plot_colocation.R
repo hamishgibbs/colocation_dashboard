@@ -33,7 +33,6 @@ p_bw <- plot_data_bw %>%
   facet_wrap(~country_1, ncol = 2) +
   scale_colour_continuous_sequential(palette = 'Teal', breaks = date_breaks, labels=date_labels) +
   labs(colour = '') +
-  ggtitle('Outside home area') +
   xlab('Mean colocation probability (log)') +
   ylab('Density') +
   theme_bw() +
