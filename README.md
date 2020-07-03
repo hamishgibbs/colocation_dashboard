@@ -20,7 +20,7 @@ Fields:
 The mean colocation probability between a given area and all other areas, each week.  
   
 Fields:  
-`connection_type`: A single value: `Between`. Specifying that the record regards data between areas, not within the same area.  
+`connection_type`: Contains a single value - `Between`. Specifying that the record regards data between areas, not within the same area.  
 `polygon1_name`: The administrative name of the "target" polygon.  
 `ds`: The date of the record.  
 `mean_colocation`: The colocation probability (see dashboard for more details).  
