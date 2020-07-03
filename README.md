@@ -1,7 +1,7 @@
 # colocation_dashboard
 [Interactive dashboard](https://cmmid.github.io/colocation_dashboard_cmmid/) of Facebook colocation data.
 
-js files hosted at: [https://github.com/hamishgibbs/colocation_dashboard_js](https://github.com/hamishgibbs/colocation_dashboard_js).
+JavaScript files hosted at: [hamishgibbs/colocation_dashboard_js](https://github.com/hamishgibbs/colocation_dashboard_js).
 
 **Data updates:** Colocation data is made available by Facebook weekly. The LSHTM colocation dashboard will be updated as soon as possible following a weekly release of colocation data.
 
