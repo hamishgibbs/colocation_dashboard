@@ -10,7 +10,7 @@ JavaScript files hosted at: [hamishgibbs/colocation_dashboard_js](https://github
 # Data Reference
 
 **name_replacement.csv**  
-Facebook data is referenced to administrative boundary datasets produced by Pitney Bowes. The datasets provided in this repository are referenced to publicly available [GADM](https://gadm.org/index.html) boundary datasets. In order to symbolise data using GADM boundaries, certain administrative names in the boundary input data have been altered. This file records the mapping of administrative names from Pitney Bowes polygons to GADM polygons.   
+Facebook data is referenced to administrative boundary datasets produced by Pitney Bowes. The datasets provided in this repository are referenced to publicly available [GADM](https://gadm.org/index.html) boundary datasets. In order to symbolise data using GADM boundaries, certain administrative names in the input data have been altered. This file records the mapping of administrative names from Pitney Bowes polygons to GADM polygons.   
   
 Fields:  
 `fb_name`: The administrative name provided by Facebook.  
