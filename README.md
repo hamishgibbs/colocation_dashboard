@@ -7,6 +7,8 @@ JavaScript files hosted at: [hamishgibbs/colocation_dashboard_js](https://github
 
 **Please note**: These datasets have been aggregated from their original format in order to be released publicly.
 
+To report a problem with this dashboard or the underlying data, please [create an issue](https://github.com/hamishgibbs/colocation_dashboard/issues/new).
+
 # Data Reference
 
 **name_replacement.csv**  
