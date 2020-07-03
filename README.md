@@ -3,8 +3,7 @@
 
 js files hosted at: [https://github.com/hamishgibbs/colocation_dashboard_js](https://github.com/hamishgibbs/colocation_dashboard_js).
 
-# Data updates
-Colocation data is made available by Facebook weekly. The LSHTM colocation dashboard will be updated as soon as possible following a weekly release of colocation data.
+**Data updates:** Colocation data is made available by Facebook weekly. The LSHTM colocation dashboard will be updated as soon as possible following a weekly release of colocation data.
 
 **Please note**: These datasets have been aggregated from their original format in order to be released publicly.
 
