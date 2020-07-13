@@ -1,1811 +1,1811 @@
 polygon1_name,polygon2_name,mean_colocation
-Aberdeen,Aberdeenshire,8.111541658610732e-5
-Aberdeen,Angus,1.3631679114504319e-5
-Aberdeen,Moray,1.1137289418087403e-5
-Aberdeen,Orkney Islands,8.166842042343497e-6
-Aberdeen,Shetland Islands,7.705396989095827e-6
-Aberdeen,Dundee,4.916624050047246e-6
-Aberdeen,Highland,3.137499333746282e-6
-Aberdeen,Stirling,2.086692815386686e-6
-Aberdeen,Perthshire and Kinross,1.7354098882445528e-6
-Aberdeen,Edinburgh,1.7272967048209954e-6
-Aberdeenshire,Aberdeen,8.111541658610732e-5
-Aberdeenshire,Moray,1.4591027327853029e-5
-Aberdeenshire,Angus,1.073715166789874e-5
-Aberdeenshire,Orkney Islands,3.2754787043582908e-6
-Aberdeenshire,Dundee,3.1075896481028686e-6
-Aberdeenshire,Highland,2.1518207462426054e-6
-Aberdeenshire,Shetland Islands,1.2941040095983988e-6
-Aberdeenshire,Perthshire and Kinross,1.1914068621484282e-6
-Aberdeenshire,Edinburgh,1.022708010696516e-6
-Aberdeenshire,Stirling,9.728500559691055e-7
-Anglesey,Gwynedd,1.476557853891208e-4
-Anglesey,Conwy,2.881363959104778e-5
-Anglesey,Denbighshire,7.661492614713122e-6
-Anglesey,Flintshire,3.5348464766212657e-6
-Anglesey,Wrexham,1.7789582807491143e-6
-Anglesey,Trafford,1.5718035633535105e-6
-Anglesey,Cheshire West and Chester,1.3324205093671527e-6
-Anglesey,Wirral,1.0521981278102134e-6
-Anglesey,Cheshire East,1.0320702287516785e-6
-Anglesey,Salford,9.439731979718521e-7
-Angus,Dundee,1.2491520806337091e-4
-Angus,Perthshire and Kinross,1.913383198219372e-5
-Angus,Aberdeen,1.3631679114504319e-5
-Angus,Aberdeenshire,1.073715166789874e-5
-Angus,Fife,5.04073071703764e-6
-Angus,Clackmannanshire,1.9211709814602832e-06
-Angus,Edinburgh,1.7377939661343829e-6
-Angus,Stirling,1.4888512114476315e-6
-Angus,Moray,1.4117456140565304e-6
-Angus,Glasgow,1.2688502415061819e-6
-Antrim and Newtownabbey,Belfast,9.812772935007954e-5
-Antrim and Newtownabbey,Mid and East Antrim,9.439185887474442e-5
-Antrim and Newtownabbey,Lisburn and Castlereagh,4.100044307324925e-5
-Antrim and Newtownabbey,North Down and Ards,2.3221120482212708e-5
-Antrim and Newtownabbey,Mid Ulster,1.9704688223499447e-5
-Antrim and Newtownabbey,Causeway Coast and Glens,1.6474888335442517e-5
-Antrim and Newtownabbey,"Armagh, Banbridge and Craigavon",1.1136662076402012e-5
-Antrim and Newtownabbey,"Newry, Mourne and Down",8.591078296294759e-6
-Antrim and Newtownabbey,Derry and Strabane,3.945405897899071e-6
-Antrim and Newtownabbey,Fermanagh and Omagh,2.7174600770118688e-6
-Argyll and Bute,West Dunbartonshire,3.466953064592023e-5
-Argyll and Bute,Inverclyde,1.797709795781737e-5
-Argyll and Bute,Renfrewshire,1.0639914036929115e-5
-Argyll and Bute,Glasgow,1.0043857568067565e-5
-Argyll and Bute,East Renfrewshire,7.813705441717189e-6
-Argyll and Bute,East Dunbartonshire,6.860564571704382e-6
-Argyll and Bute,South Lanarkshire,4.409635308890356e-6
-Argyll and Bute,Stirling,4.388723896923472e-6
-Argyll and Bute,North Ayrshire,4.1618158366281604e-6
-Argyll and Bute,North Lanarkshire,3.2382458636331383e-6
-"Armagh, Banbridge and Craigavon",Lisburn and Castlereagh,4.033738183875662e-5
-"Armagh, Banbridge and Craigavon","Newry, Mourne and Down",3.307800298714561e-5
-"Armagh, Banbridge and Craigavon",Mid Ulster,3.240747388802809e-5
-"Armagh, Banbridge and Craigavon",Belfast,2.383659896095909e-5
-"Armagh, Banbridge and Craigavon",Antrim and Newtownabbey,1.1136662076402012e-5
-"Armagh, Banbridge and Craigavon",North Down and Ards,9.818245001851502e-6
-"Armagh, Banbridge and Craigavon",Mid and East Antrim,6.416633041729243e-6
-"Armagh, Banbridge and Craigavon",Fermanagh and Omagh,4.170973168874141e-6
-"Armagh, Banbridge and Craigavon",Causeway Coast and Glens,3.5607580259579256e-6
-"Armagh, Banbridge and Craigavon",Derry and Strabane,2.513663762498694e-6
-Barnsley,Rotherham,3.2221477134658384e-5
-Barnsley,Wakefield,2.1999912635172567e-5
-Barnsley,Sheffield,2.1229992812206662e-5
-Barnsley,Doncaster,1.778831514967102e-5
-Barnsley,Kirklees,6.6494022187816924e-6
-Barnsley,Leeds,5.322615327421391e-6
-Barnsley,Calderdale,2.1357046509008995e-6
-Barnsley,Bradford,2.047346968355602e-6
-Barnsley,York,2.0283313770429987e-6
-Barnsley,North Yorkshire,1.7673112858183274e-6
-Bath and North East Somerset,Bristol,5.174001464189263e-5
-Bath and North East Somerset,South Gloucestershire,4.254634773120756e-5
-Bath and North East Somerset,Wiltshire,2.8832277781232723e-5
-Bath and North East Somerset,Somerset,1.4249046142434575e-5
-Bath and North East Somerset,North Somerset,1.1205951694898183e-5
-Bath and North East Somerset,Monmouthshire,4.594147355877274e-6
-Bath and North East Somerset,Swindon,3.762494046151905e-6
-Bath and North East Somerset,Gloucestershire,2.1861712979046806e-6
-Bath and North East Somerset,Cardiff,1.9764150137152037e-6
-Bath and North East Somerset,Newport,1.852188502854652e-6
-Bedfordshire,Central Bedfordshire,5.6355561310255625e-5
-Bedfordshire,Luton,2.465938695015995e-5
-Bedfordshire,Milton Keynes,2.2570175209191898e-5
-Bedfordshire,Northamptonshire,1.1450117730799956e-5
-Bedfordshire,Cambridgeshire,1.0969612227135619e-5
-Bedfordshire,Hertfordshire,4.159034797740666e-6
-Bedfordshire,Peterborough,3.5532704100101207e-6
-Bedfordshire,Buckinghamshire,2.6595577497725473e-6
-Bedfordshire,Greater London,1.4045388670985278e-6
-Bedfordshire,Leicester,1.0371963849918205e-6
-Belfast,Lisburn and Castlereagh,1.2032253303806195e-4
-Belfast,Antrim and Newtownabbey,9.812772935007954e-5
-Belfast,North Down and Ards,6.924980860210852e-5
-Belfast,Mid and East Antrim,4.575740355443835e-5
-Belfast,"Newry, Mourne and Down",2.656162250785116e-5
-Belfast,"Armagh, Banbridge and Craigavon",2.383659896095909e-5
-Belfast,Causeway Coast and Glens,1.297422305835864e-5
-Belfast,Mid Ulster,1.2368280973884293e-5
-Belfast,Derry and Strabane,6.491436327491283e-6
-Belfast,Fermanagh and Omagh,5.593528056681988e-6
-Birmingham,Solihull,6.525750432121874e-5
-Birmingham,Sandwell,4.3201887233273824e-5
-Birmingham,Walsall,1.963080750019311e-5
-Birmingham,Dudley,1.674079742591276e-5
-Birmingham,Worcestershire,1.26367405157925e-5
-Birmingham,Wolverhampton,1.1525814248093357e-5
-Birmingham,Coventry,9.412059853952026e-6
-Birmingham,Warwickshire,8.362228247523508e-6
-Birmingham,Staffordshire,5.94499180384158e-6
-Birmingham,Telford and Wrekin,3.2054911062369767e-6
-Blackburn with Darwen,Lancashire,3.82016998567583e-5
-Blackburn with Darwen,Bolton,1.365355431595532e-5
-Blackburn with Darwen,Bury,6.8360299236338725e-6
-Blackburn with Darwen,Blackpool,6.361429146463148e-6
-Blackburn with Darwen,Manchester,4.322083879203516e-6
-Blackburn with Darwen,Rochdale,4.135091697243825e-6
-Blackburn with Darwen,Wigan,4.017008245774915e-6
-Blackburn with Darwen,Salford,4.01211974318938e-6
-Blackburn with Darwen,Sefton,3.2076570667556408e-6
-Blackburn with Darwen,Oldham,2.518640121439723e-6
-Blackpool,Lancashire,4.032632491737799e-5
-Blackpool,Blackburn with Darwen,6.361429146463148e-6
-Blackpool,Wigan,3.2856899065608995e-6
-Blackpool,Bolton,3.0639998963044417e-6
-Blackpool,Manchester,2.7571585360214642e-6
-Blackpool,Bury,2.6889323383270386e-6
-Blackpool,Sefton,2.5281314609744273e-6
-Blackpool,Salford,2.3597778711332884e-6
-Blackpool,Oldham,2.1628585119159747e-6
-Blackpool,Tameside,2.107237275102795e-6
-Blaenau Gwent,Monmouthshire,7.595957134744159e-5
-Blaenau Gwent,Merthyr Tydfil,6.396492141665385e-5
-Blaenau Gwent,Torfaen,6.180619602161124e-5
-Blaenau Gwent,Caerphilly,5.152556647748595e-5
-Blaenau Gwent,Newport,2.439589199122071e-5
-Blaenau Gwent,Cardiff,1.6706504355840606e-5
-Blaenau Gwent,"Rhondda, Cynon, Taff",1.2112230120254756e-5
-Blaenau Gwent,Powys,8.351548940198556e-6
-Blaenau Gwent,Vale of Glamorgan,5.29345467499699e-6
-Blaenau Gwent,Bridgend,3.5295816683906546e-6
-Bolton,Bury,4.781621732989497e-5
-Bolton,Salford,4.151130842216765e-5
-Bolton,Wigan,3.5113736670117066e-5
-Bolton,Manchester,1.5277793080731766e-5
-Bolton,Blackburn with Darwen,1.365355431595532e-5
-Bolton,Trafford,1.2572360874736504e-5
-Bolton,Rochdale,1.026478523004258e-5
-Bolton,Oldham,8.117782208006416e-6
-Bolton,Lancashire,6.79472611931519e-6
-Bolton,Tameside,6.603264161411749e-6
-Bournemouth,Poole,2.602096208738077e-4
-Bournemouth,Dorset,7.117520142064584e-5
-Bournemouth,Southampton,1.391707122989485e-5
-Bournemouth,Hampshire,7.810280593087888e-6
-Bournemouth,Portsmouth,3.2673601597737606e-6
-Bournemouth,Wiltshire,3.1294423886056757e-06
-Bournemouth,Isle of Wight,1.5546332299656305e-6
-Bournemouth,Reading,1.5078574465948319e-6
-Bournemouth,Windsor and Maidenhead,1.4770808846018604e-6
-Bournemouth,Bracknell Forest,1.2699109885988446e-6
-Bracknell Forest,Wokingham,7.324614353538347e-5
-Bracknell Forest,Reading,4.3141674669333014e-5
-Bracknell Forest,Windsor and Maidenhead,4.291551612648071e-5
-Bracknell Forest,Slough,3.188276761997596e-5
-Bracknell Forest,Surrey,1.3407642352336465e-5
-Bracknell Forest,West Berkshire,1.125106288259586e-5
-Bracknell Forest,Hampshire,8.486365061893714e-6
-Bracknell Forest,Buckinghamshire,4.921980096887687e-6
-Bracknell Forest,Greater London,2.435263747765831e-6
-Bracknell Forest,Oxfordshire,2.0151386691820214e-6
-Bradford,Calderdale,3.2916374163564e-5
-Bradford,Leeds,2.5695594763508216e-5
-Bradford,Kirklees,1.7683350236554432e-5
-Bradford,North Yorkshire,7.515735862660693e-6
-Bradford,Wakefield,7.0066355728371996e-6
-Bradford,York,2.378938246357303e-6
-Bradford,Barnsley,2.047346968355602e-6
-Bradford,Manchester,1.333332103970301e-6
-Bradford,Lancashire,1.2743587501146191e-6
-Bradford,Oldham,1.2226453071259467e-6
-Bridgend,Neath Port Talbot,4.489659161847973e-5
-Bridgend,Vale of Glamorgan,4.1215472879994844e-05
-Bridgend,Cardiff,3.2914924160975865e-5
-Bridgend,"Rhondda, Cynon, Taff",3.173239393205247e-5
-Bridgend,Swansea,1.7218269300008776e-5
-Bridgend,Merthyr Tydfil,1.1542886719176266e-5
-Bridgend,Caerphilly,9.919326119249655e-6
-Bridgend,Newport,7.5119780114737025e-6
-Bridgend,Carmarthenshire,5.01665734885309e-6
-Bridgend,Torfaen,4.998998693658798e-6
-Brighton and Hove,West Sussex,5.163212357044648e-5
-Brighton and Hove,East Sussex,4.867446535039838e-5
-Brighton and Hove,Portsmouth,3.130710417411579e-6
-Brighton and Hove,Surrey,3.004828390903023e-6
-Brighton and Hove,Greater London,2.29545410279341e-6
-Brighton and Hove,Kent,1.4985950291802082e-6
-Brighton and Hove,Southampton,1.2750320071989636e-6
-Brighton and Hove,Hampshire,1.1095658163057804e-6
-Brighton and Hove,Medway,9.983628517410842e-7
-Brighton and Hove,Reading,9.86078659079333e-7
-Bristol,South Gloucestershire,1.4377425401543252e-4
-Bristol,North Somerset,5.551909526243827e-5
-Bristol,Bath and North East Somerset,5.174001464189263e-5
-Bristol,Monmouthshire,1.5048049863302043e-5
-Bristol,Newport,1.062970636432603e-5
-Bristol,Somerset,7.842384196642096e-6
-Bristol,Wiltshire,6.184358264732812e-6
-Bristol,Gloucestershire,6.087235839727142e-6
-Bristol,Torfaen,4.61057965771021e-6
-Bristol,Cardiff,4.040234990501118e-6
-Buckinghamshire,Slough,4.1338680743083366e-5
-Buckinghamshire,Windsor and Maidenhead,2.7027337838240395e-5
-Buckinghamshire,Milton Keynes,1.2772439867687093e-5
-Buckinghamshire,Oxfordshire,8.685548156145406e-6
-Buckinghamshire,Central Bedfordshire,8.37405139283503e-6
-Buckinghamshire,Hertfordshire,6.576970501363985e-6
-Buckinghamshire,Luton,6.35194834815216e-6
-Buckinghamshire,Bracknell Forest,4.921980096887687e-6
-Buckinghamshire,Reading,4.715999607534098e-6
-Buckinghamshire,Wokingham,4.398596350788248e-6
-Bury,Rochdale,5.403028247218119e-5
-Bury,Bolton,4.781621732989497e-5
-Bury,Salford,4.407699736715288e-5
-Bury,Manchester,4.059444032190721e-5
-Bury,Oldham,1.9923230244005335e-5
-Bury,Trafford,1.721608532289304e-5
-Bury,Tameside,1.5280531501594675e-5
-Bury,Stockport,1.3511055070818021e-5
-Bury,Wigan,8.430537989718937e-6
-Bury,Lancashire,6.993328220364627e-6
-Caerphilly,Merthyr Tydfil,5.6598602617751235e-5
-Caerphilly,Newport,5.334019060303877e-5
-Caerphilly,Blaenau Gwent,5.152556647748595e-5
-Caerphilly,Cardiff,4.8387393260126276e-5
-Caerphilly,Torfaen,3.896346823984723e-5
-Caerphilly,"Rhondda, Cynon, Taff",2.6950567526207816e-5
-Caerphilly,Vale of Glamorgan,2.0329747488988104e-5
-Caerphilly,Monmouthshire,1.4968078549774622e-5
-Caerphilly,Bridgend,9.919326119249655e-6
-Caerphilly,Neath Port Talbot,3.666098449915444e-6
-Calderdale,Kirklees,4.49586905030336e-5
-Calderdale,Bradford,3.2916374163564e-5
-Calderdale,Leeds,1.0354824103255976e-5
-Calderdale,Rochdale,8.21355306730867e-6
-Calderdale,Wakefield,6.084639898957307e-6
-Calderdale,Oldham,4.582021308471178e-6
-Calderdale,Manchester,2.668844525747584e-6
-Calderdale,Lancashire,2.450067620806118e-6
-Calderdale,Bury,2.3150827757734113e-6
-Calderdale,Barnsley,2.1357046509008995e-6
-Cambridgeshire,Peterborough,4.280624184557334e-5
-Cambridgeshire,Bedfordshire,1.0969612227135619e-5
-Cambridgeshire,Suffolk,9.729580365146138e-6
-Cambridgeshire,Norfolk,5.228696288071962e-6
-Cambridgeshire,Central Bedfordshire,4.025674588901925e-6
-Cambridgeshire,Lincolnshire,3.83394163496247e-6
-Cambridgeshire,Rutland,3.288597357033037e-6
-Cambridgeshire,Hertfordshire,2.478235382146785e-6
-Cambridgeshire,Northamptonshire,2.0320936840328093e-6
-Cambridgeshire,Luton,1.6654478215693107e-6
-Cardiff,Vale of Glamorgan,1.1656802276053411e-4
-Cardiff,"Rhondda, Cynon, Taff",5.378695703913671e-5
-Cardiff,Caerphilly,4.8387393260126276e-5
-Cardiff,Newport,4.442134556499003e-5
-Cardiff,Bridgend,3.2914924160975865e-5
-Cardiff,Merthyr Tydfil,2.709643243453695e-5
-Cardiff,Torfaen,2.2711902845643946e-5
-Cardiff,Blaenau Gwent,1.6706504355840606e-5
-Cardiff,Monmouthshire,1.3180707784496549e-5
-Cardiff,Neath Port Talbot,9.167555088912032e-6
-Carmarthenshire,Swansea,6.145128240183695e-5
-Carmarthenshire,Neath Port Talbot,2.7982764705445706e-5
-Carmarthenshire,Ceredigion,2.789249425150464e-5
-Carmarthenshire,Pembrokeshire,2.0254925541389622e-5
-Carmarthenshire,Merthyr Tydfil,5.343041793524444e-6
-Carmarthenshire,Bridgend,5.01665734885309e-6
-Carmarthenshire,Cardiff,4.544742960694667e-6
-Carmarthenshire,"Rhondda, Cynon, Taff",3.963316250261743e-6
-Carmarthenshire,Powys,3.419702170216938e-6
-Carmarthenshire,Vale of Glamorgan,2.4226013938747845e-6
-Causeway Coast and Glens,Derry and Strabane,4.64163328721683e-5
-Causeway Coast and Glens,Mid and East Antrim,3.6561019013175736e-5
-Causeway Coast and Glens,Mid Ulster,1.761601058638755e-5
-Causeway Coast and Glens,Antrim and Newtownabbey,1.6474888335442517e-5
-Causeway Coast and Glens,Belfast,1.297422305835864e-5
-Causeway Coast and Glens,Lisburn and Castlereagh,7.209469741345008e-6
-Causeway Coast and Glens,North Down and Ards,4.316031377512953e-6
-Causeway Coast and Glens,"Armagh, Banbridge and Craigavon",3.5607580259579256e-6
-Causeway Coast and Glens,Fermanagh and Omagh,3.3960585101931134e-6
-Causeway Coast and Glens,"Newry, Mourne and Down",2.3835542722824114e-6
-Central Bedfordshire,Luton,1.5889072930936498e-4
-Central Bedfordshire,Bedfordshire,5.6355561310255625e-5
-Central Bedfordshire,Milton Keynes,2.737188467672561e-5
-Central Bedfordshire,Hertfordshire,1.6726332058214762e-5
-Central Bedfordshire,Buckinghamshire,8.37405139283503e-6
-Central Bedfordshire,Cambridgeshire,4.025674588901925e-6
-Central Bedfordshire,Northamptonshire,3.3304000398417353e-6
-Central Bedfordshire,Greater London,2.451785745172502e-6
-Central Bedfordshire,Peterborough,1.463446925126924e-6
-Central Bedfordshire,Slough,1.4063406008401503e-6
-Ceredigion,Carmarthenshire,2.789249425150464e-5
-Ceredigion,Powys,2.0597199805121798e-5
-Ceredigion,Pembrokeshire,1.7712168076101264e-5
-Ceredigion,Gwynedd,5.403878706081316e-6
-Ceredigion,Swansea,4.7016550228543106e-6
-Ceredigion,Neath Port Talbot,3.912863235663545e-6
-Ceredigion,Cardiff,3.0819035688562426e-6
-Ceredigion,Shropshire,1.7272143284056905e-6
-Ceredigion,Herefordshire,1.5597531939306497e-6
-Ceredigion,Vale of Glamorgan,1.4519022911549869e-6
-Cheshire East,Cheshire West and Chester,2.260027603742046e-5
-Cheshire East,Stockport,1.713910961682056e-5
-Cheshire East,Stoke-on-Trent,1.4719813001621243e-5
-Cheshire East,Manchester,9.413932258201967e-6
-Cheshire East,Trafford,7.906087996117627e-6
-Cheshire East,Staffordshire,7.5407351645122836e-6
-Cheshire East,Warrington,5.638611069696377e-6
-Cheshire East,Tameside,4.515495876727233e-6
-Cheshire East,Salford,4.454520783181223e-6
-Cheshire East,Halton,3.4984299566860942e-6
-Cheshire West and Chester,Flintshire,4.770441954023503e-5
-Cheshire West and Chester,Wirral,2.534915073200442e-5
-Cheshire West and Chester,Cheshire East,2.260027603742046e-5
-Cheshire West and Chester,Wrexham,1.7205708663215856e-5
-Cheshire West and Chester,Halton,1.6649111252800154e-5
-Cheshire West and Chester,Warrington,1.1563711672617778e-5
-Cheshire West and Chester,Knowsley,5.080590076854517e-6
-Cheshire West and Chester,Trafford,4.99831047810003e-6
-Cheshire West and Chester,Denbighshire,4.952642827210567e-6
-Cheshire West and Chester,Manchester,4.680349524815096e-6
-Clackmannanshire,Stirling,1.6099650509191702e-4
-Clackmannanshire,Falkirk,6.005479866598999e-5
-Clackmannanshire,Fife,1.0951153832510377e-5
-Clackmannanshire,Perthshire and Kinross,7.936631092991212e-6
-Clackmannanshire,Glasgow,6.9841242602184685e-6
-Clackmannanshire,East Dunbartonshire,6.9628950962734805e-6
-Clackmannanshire,North Lanarkshire,6.7267860755769075e-6
-Clackmannanshire,West Lothian,6.324645563955383e-6
-Clackmannanshire,Edinburgh,6.0495032963374075e-6
-Clackmannanshire,East Renfrewshire,5.15684124927372e-6
-Conwy,Denbighshire,1.4720726430850184e-4
-Conwy,Gwynedd,3.914518752713686e-5
-Conwy,Anglesey,2.881363959104778e-5
-Conwy,Flintshire,1.6517160193778664e-5
-Conwy,Wrexham,5.593011888302416e-6
-Conwy,Cheshire West and Chester,3.834945271698752e-6
-Conwy,Wirral,1.7832825800914216e-6
-Conwy,Knowsley,1.7681034887451376e-6
-Conwy,Warrington,1.4220432203668635e-6
-Conwy,Sefton,1.3235646660089917e-6
-Cornwall,Plymouth,2.6056577816476502e-5
-Cornwall,Isles of Scilly,9.681169795614386e-6
-Cornwall,Devon,4.326807131952755e-6
-Cornwall,Torbay,2.9298947473257424e-6
-Cornwall,Bristol,7.688296128535392e-7
-Cornwall,Somerset,7.142047789665887e-7
-Cornwall,South Gloucestershire,5.143931477128823e-7
-Cornwall,Bath and North East Somerset,4.988939822127739e-7
-Cornwall,Portsmouth,4.767396529566342e-7
-Cornwall,North Somerset,4.5482865987312554e-7
-Coventry,Warwickshire,6.003389505639493e-5
-Coventry,Solihull,1.4714721369128089e-5
-Coventry,Birmingham,9.412059853952026e-6
-Coventry,Leicestershire,6.61567276433818e-6
-Coventry,Leicester,5.759670015241937e-6
-Coventry,Northamptonshire,4.614278423218545e-6
-Coventry,Sandwell,4.243885919700466e-6
-Coventry,Walsall,3.6568835568551794e-6
-Coventry,Wolverhampton,2.753727812612591e-6
-Coventry,Dudley,2.3648787570278288e-6
-Cumbria,Dumfries and Galloway,8.429882161143622e-6
-Cumbria,Lancashire,2.549958847140874e-6
-Cumbria,Blackpool,1.6328855421103694e-6
-Cumbria,Newcastle upon Tyne,1.5881428459010995e-6
-Cumbria,Northumberland,1.2287440993336532e-6
-Cumbria,Scottish Borders,9.164076928853329e-7
-Cumbria,Gateshead,8.821223334330577e-7
-Cumbria,Salford,8.42566066862186e-7
-Cumbria,Darlington,8.414011144372227e-7
-Cumbria,North Tyneside,7.682803657889298e-7
-Darlington,Stockton-on-Tees,4.3873748197636576e-5
-Darlington,Durham,3.8017312798819085e-5
-Darlington,Middlesbrough,3.529921101405949e-5
-Darlington,Redcar and Cleveland,2.046264315626264e-5
-Darlington,Hartlepool,1.7442627268598063e-5
-Darlington,North Yorkshire,1.6528119871184405e-5
-Darlington,Newcastle upon Tyne,4.711327633587368e-6
-Darlington,Gateshead,4.591021646534466e-6
-Darlington,Sunderland,3.5218504421474076e-6
-Darlington,York,2.6101065881845295e-6
-Denbighshire,Conwy,1.4720726430850184e-4
-Denbighshire,Flintshire,4.284470405415991e-5
-Denbighshire,Wrexham,3.2615971871286273e-5
-Denbighshire,Gwynedd,1.0093071126958752e-5
-Denbighshire,Anglesey,7.661492614713122e-6
-Denbighshire,Cheshire West and Chester,4.952642827210567e-6
-Denbighshire,Wirral,3.426410032503652e-6
-Denbighshire,Shropshire,2.6956365435974405e-6
-Denbighshire,Knowsley,2.0876722470199554e-6
-Denbighshire,Warrington,1.5309817324907095e-6
-Derby,Derbyshire,3.6394956687336736e-5
-Derby,Nottingham,1.6362135030538285e-5
-Derby,Leicestershire,1.1600144082329754e-5
-Derby,Nottinghamshire,8.859498506271664e-6
-Derby,Staffordshire,8.182634524136845e-6
-Derby,Leicester,3.395663879898895e-6
-Derby,Walsall,2.0758616292006883e-6
-Derby,Stoke-on-Trent,1.928399858239034e-6
-Derby,Sheffield,1.5169170630458397e-6
-Derby,Birmingham,1.4323492365993325e-6
-Derbyshire,Derby,3.6394956687336736e-5
-Derbyshire,Nottinghamshire,1.8622672264264034e-5
-Derbyshire,Nottingham,1.624169919842134e-5
-Derbyshire,Sheffield,1.1094359992777025e-5
-Derbyshire,Tameside,5.483162119487432e-6
-Derbyshire,Rotherham,4.824245457905966e-6
-Derbyshire,Staffordshire,4.817301575043591e-6
-Derbyshire,Leicestershire,4.3405965098586165e-6
-Derbyshire,Stockport,4.242497192595352e-6
-Derbyshire,Manchester,2.3521168430262272e-6
-Derry and Strabane,Causeway Coast and Glens,4.64163328721683e-5
-Derry and Strabane,Fermanagh and Omagh,2.740286462632269e-5
-Derry and Strabane,Mid Ulster,8.032436718605252e-6
-Derry and Strabane,Belfast,6.491436327491283e-6
-Derry and Strabane,Antrim and Newtownabbey,3.945405897899071e-6
-Derry and Strabane,Lisburn and Castlereagh,3.1210361288419372e-6
-Derry and Strabane,Mid and East Antrim,2.944044562498673e-6
-Derry and Strabane,"Armagh, Banbridge and Craigavon",2.513663762498694e-6
-Derry and Strabane,"Newry, Mourne and Down",1.9766456725679254e-6
-Derry and Strabane,North Down and Ards,1.6310563850307e-6
-Devon,Torbay,4.834570867568259e-5
-Devon,Plymouth,2.330147913774299e-5
-Devon,Somerset,5.939198957671948e-6
-Devon,Cornwall,4.326807131952755e-6
-Devon,Bristol,1.5367113279910706e-6
-Devon,North Somerset,1.4534204424474646e-6
-Devon,Dorset,1.4055549746427338e-6
-Devon,Isles of Scilly,9.768570375143273e-7
-Devon,Bath and North East Somerset,9.57796904340508e-7
-Devon,South Gloucestershire,8.196295950234903e-7
-Doncaster,Rotherham,2.7502444101435214e-5
-Doncaster,Barnsley,1.778831514967102e-5
-Doncaster,North Lincolnshire,1.4468316368940513e-5
-Doncaster,Sheffield,9.570104542270618e-6
-Doncaster,Wakefield,9.499960649971692e-6
-Doncaster,East Riding of Yorkshire,6.725860328686123e-6
-Doncaster,Nottinghamshire,4.841969711453038e-6
-Doncaster,North Yorkshire,2.9695191706560605e-6
-Doncaster,Leeds,2.525944108417257e-6
-Doncaster,York,2.4256029591284495e-6
-Dorset,Poole,7.991095508573173e-5
-Dorset,Bournemouth,7.117520142064584e-5
-Dorset,Somerset,9.966275260243932e-6
-Dorset,Southampton,6.394073295428222e-6
-Dorset,Wiltshire,4.668477699176021e-6
-Dorset,Hampshire,3.4037954241083345e-6
-Dorset,Portsmouth,1.6022869189382117e-6
-Dorset,Bath and North East Somerset,1.499804251880661e-6
-Dorset,Devon,1.4055549746427338e-6
-Dorset,North Somerset,1.0766703719460945e-6
-Dudley,Sandwell,7.486746573294142e-5
-Dudley,Wolverhampton,3.788626869443759e-5
-Dudley,Birmingham,1.674079742591276e-5
-Dudley,Walsall,1.5812841316581513e-5
-Dudley,Worcestershire,1.1758349662197029e-5
-Dudley,Solihull,6.767207884892359e-6
-Dudley,Staffordshire,5.221507916891199e-6
-Dudley,Telford and Wrekin,5.171715398343412e-6
-Dudley,Shropshire,3.938588316536849e-6
-Dudley,Coventry,2.3648787570278288e-6
-Dumfries and Galloway,Cumbria,8.429882161143622e-6
-Dumfries and Galloway,South Ayrshire,5.828711503914081e-6
-Dumfries and Galloway,East Ayrshire,4.815495871055928e-6
-Dumfries and Galloway,Scottish Borders,2.893726876866044e-6
-Dumfries and Galloway,Glasgow,2.200575848206286e-6
-Dumfries and Galloway,South Lanarkshire,1.7339739573074316e-6
-Dumfries and Galloway,Renfrewshire,1.625827059928056e-6
-Dumfries and Galloway,East Renfrewshire,1.4182160304509988e-6
-Dumfries and Galloway,North Ayrshire,1.3715191373124732e-6
-Dumfries and Galloway,Edinburgh,1.2904736974249858e-6
-Dundee,Angus,1.2491520806337091e-4
-Dundee,Perthshire and Kinross,5.6120396788626706e-5
-Dundee,Fife,1.8787535593261722e-5
-Dundee,Aberdeen,4.916624050047246e-6
-Dundee,Aberdeenshire,3.1075896481028686e-6
-Dundee,Edinburgh,2.4382092068684145e-6
-Dundee,Clackmannanshire,2.4144408453166166e-6
-Dundee,Stirling,1.8942667697235022e-6
-Dundee,Glasgow,1.7495609700054081e-6
-Dundee,Falkirk,1.6790891931164535e-6
-Durham,Darlington,3.8017312798819085e-5
-Durham,Sunderland,2.777239625536661e-5
-Durham,Gateshead,2.282733374714483e-5
-Durham,Hartlepool,1.904985421273444e-5
-Durham,Newcastle upon Tyne,1.4680445413424798e-5
-Durham,South Tyneside,1.155739786288858e-5
-Durham,Stockton-on-Tees,1.1504954967332671e-5
-Durham,North Tyneside,7.998356492884673e-6
-Durham,Middlesbrough,7.343419439815057e-6
-Durham,Northumberland,4.758656055139473e-6
-East Ayrshire,South Ayrshire,1.0445766257225602e-4
-East Ayrshire,North Ayrshire,7.060697705908896e-5
-East Ayrshire,East Renfrewshire,1.6521753929449344e-5
-East Ayrshire,Glasgow,1.5616119881192054e-5
-East Ayrshire,Renfrewshire,1.1021692245472333e-5
-East Ayrshire,East Dunbartonshire,1.0679001230393417e-5
-East Ayrshire,South Lanarkshire,8.452704633471932e-6
-East Ayrshire,West Dunbartonshire,6.656966326338365e-6
-East Ayrshire,North Lanarkshire,5.315923789960646e-6
-East Ayrshire,Dumfries and Galloway,4.815495871055928e-6
-East Dunbartonshire,Glasgow,8.313847574216986e-5
-East Dunbartonshire,West Dunbartonshire,4.352751169245237e-5
-East Dunbartonshire,East Renfrewshire,3.651729032892551e-5
-East Dunbartonshire,North Lanarkshire,3.424965613091982e-5
-East Dunbartonshire,Renfrewshire,2.9014876070161254e-5
-East Dunbartonshire,South Lanarkshire,2.3480051366789293e-5
-East Dunbartonshire,Inverclyde,1.5450131595437238e-5
-East Dunbartonshire,Falkirk,1.3728711025107007e-5
-East Dunbartonshire,Stirling,1.172384282516695e-5
-East Dunbartonshire,East Ayrshire,1.0679001230393417e-5
-East Lothian,Midlothian,7.73549735099153e-5
-East Lothian,Edinburgh,7.597467879351734e-5
-East Lothian,West Lothian,1.1333798879162223e-5
-East Lothian,Scottish Borders,1.0497857905476512e-5
-East Lothian,Fife,4.897238542917377e-6
-East Lothian,Falkirk,4.519732359639768e-6
-East Lothian,Clackmannanshire,2.4270570161512326e-6
-East Lothian,Perthshire and Kinross,2.3711313579597423e-6
-East Lothian,Stirling,2.0433653513277895e-6
-East Lothian,East Renfrewshire,1.83124109438236e-6
-East Renfrewshire,Glasgow,9.103657185043289e-5
-East Renfrewshire,Renfrewshire,7.514803859090604e-5
-East Renfrewshire,South Lanarkshire,3.812401317931861e-5
-East Renfrewshire,East Dunbartonshire,3.651729032892551e-5
-East Renfrewshire,West Dunbartonshire,2.898927572007193e-5
-East Renfrewshire,North Lanarkshire,1.9868220049764262e-5
-East Renfrewshire,Inverclyde,1.8123196196190454e-5
-East Renfrewshire,North Ayrshire,1.717953843579724e-5
-East Renfrewshire,East Ayrshire,1.6521753929449344e-5
-East Renfrewshire,South Ayrshire,1.1250100416500221e-5
-East Riding of Yorkshire,Kingston upon Hull,9.408630740165407e-5
-East Riding of Yorkshire,York,1.7475125717302563e-5
-East Riding of Yorkshire,North Yorkshire,1.1633593793020723e-5
-East Riding of Yorkshire,North Lincolnshire,9.3348949868981e-6
-East Riding of Yorkshire,Doncaster,6.725860328686123e-6
-East Riding of Yorkshire,Wakefield,2.879638902362032e-6
-East Riding of Yorkshire,Leeds,2.6611604856914e-6
-East Riding of Yorkshire,Barnsley,1.3655491791035566e-6
-East Riding of Yorkshire,Kirklees,1.2356395868660392e-6
-East Riding of Yorkshire,Bradford,1.1339374071936139e-6
-East Sussex,Brighton and Hove,4.867446535039838e-5
-East Sussex,West Sussex,7.563741017148502e-6
-East Sussex,Kent,4.0059459588870105e-6
-East Sussex,Medway,1.5146587495626906e-6
-East Sussex,Surrey,1.3705542913013698e-6
-East Sussex,Greater London,1.1360999272480172e-6
-East Sussex,Portsmouth,1.0550355773477626e-6
-East Sussex,Thurrock,6.743018029477983e-7
-East Sussex,Hertfordshire,4.622025560624725e-7
-East Sussex,Windsor and Maidenhead,4.5039081764909913e-7
-Edinburgh,Midlothian,1.016017577196692e-4
-Edinburgh,East Lothian,7.597467879351734e-5
-Edinburgh,West Lothian,3.8748414361431664e-5
-Edinburgh,Fife,1.602675597057285e-5
-Edinburgh,Falkirk,1.3922829562417435e-5
-Edinburgh,Scottish Borders,1.241404550614224e-5
-Edinburgh,Stirling,7.3264735793085225e-6
-Edinburgh,Clackmannanshire,6.0495032963374075e-6
-Edinburgh,North Lanarkshire,4.421283724162199e-6
-Edinburgh,Glasgow,4.205796918511972e-6
-Eilean Siar,Highland,3.615637644233968e-6
+Aberdeen,Aberdeenshire,8.114776981358433e-5
+Aberdeen,Angus,1.3449033916080171e-5
+Aberdeen,Moray,1.1172468057867513e-5
+Aberdeen,Shetland Islands,7.863605247335656e-6
+Aberdeen,Orkney Islands,7.725376577385894e-6
+Aberdeen,Dundee,4.8073874738142414e-6
+Aberdeen,Highland,3.044828153796777e-6
+Aberdeen,Stirling,2.2654522887442344e-6
+Aberdeen,Edinburgh,1.9217782183511857e-6
+Aberdeen,Perthshire and Kinross,1.7042034369757492e-6
+Aberdeenshire,Aberdeen,8.114776981358433e-5
+Aberdeenshire,Moray,1.494643725444123e-5
+Aberdeenshire,Angus,1.1069563827604475e-5
+Aberdeenshire,Orkney Islands,3.029572330935183e-6
+Aberdeenshire,Dundee,3.0263227252529066e-6
+Aberdeenshire,Highland,2.162385731026185e-6
+Aberdeenshire,Shetland Islands,1.266278755400725e-6
+Aberdeenshire,Perthshire and Kinross,1.1942688552298762e-6
+Aberdeenshire,Edinburgh,1.0094444311134005e-6
+Aberdeenshire,Stirling,9.404943250143519e-7
+Anglesey,Gwynedd,1.478500743949172e-4
+Anglesey,Conwy,2.965778256381585e-5
+Anglesey,Denbighshire,7.639298422210255e-6
+Anglesey,Flintshire,3.4605823479556107e-6
+Anglesey,Wrexham,1.7636773600907996e-6
+Anglesey,Trafford,1.493160826231667e-6
+Anglesey,Cheshire West and Chester,1.3431180202348884e-6
+Anglesey,Wirral,1.033430060684233e-6
+Anglesey,Cheshire East,9.95249030494779e-7
+Anglesey,Salford,9.518215824784312e-7
+Angus,Dundee,1.2546474228679322e-4
+Angus,Perthshire and Kinross,1.908333277111019e-5
+Angus,Aberdeen,1.3449033916080171e-5
+Angus,Aberdeenshire,1.1069563827604475e-5
+Angus,Fife,5.132676513770493e-6
+Angus,Clackmannanshire,2.1496308175310494e-6
+Angus,Edinburgh,1.7321595036361847e-6
+Angus,Stirling,1.497814878304927e-6
+Angus,Moray,1.3557160763484334e-6
+Angus,Glasgow,1.2283969526921406e-6
+Antrim and Newtownabbey,Belfast,9.90904861083535e-5
+Antrim and Newtownabbey,Mid and East Antrim,9.537347247904345e-5
+Antrim and Newtownabbey,Lisburn and Castlereagh,4.1104852535368525e-5
+Antrim and Newtownabbey,North Down and Ards,2.3680376390859158e-5
+Antrim and Newtownabbey,Mid Ulster,1.9846700360987506e-5
+Antrim and Newtownabbey,Causeway Coast and Glens,1.694098510088822e-5
+Antrim and Newtownabbey,"Armagh, Banbridge and Craigavon",1.1074652255632258e-5
+Antrim and Newtownabbey,"Newry, Mourne and Down",8.698523837473968e-6
+Antrim and Newtownabbey,Derry and Strabane,3.924762215720735e-6
+Antrim and Newtownabbey,Fermanagh and Omagh,2.73098063345488e-6
+Argyll and Bute,West Dunbartonshire,3.536698551514003e-5
+Argyll and Bute,Inverclyde,1.7640540177547268e-5
+Argyll and Bute,Renfrewshire,1.0515158167148809e-5
+Argyll and Bute,Glasgow,9.928380012377308e-6
+Argyll and Bute,East Renfrewshire,7.673363824565748e-6
+Argyll and Bute,East Dunbartonshire,7.0006642102074665e-6
+Argyll and Bute,South Lanarkshire,4.457818385583013e-6
+Argyll and Bute,Stirling,4.295475475244684e-6
+Argyll and Bute,North Ayrshire,4.037178536778245e-6
+Argyll and Bute,North Lanarkshire,3.276361895906506e-6
+"Armagh, Banbridge and Craigavon",Lisburn and Castlereagh,4.097667024361369e-5
+"Armagh, Banbridge and Craigavon","Newry, Mourne and Down",3.371527973687464e-5
+"Armagh, Banbridge and Craigavon",Mid Ulster,3.2960274412509916e-5
+"Armagh, Banbridge and Craigavon",Belfast,2.3753422679074813e-5
+"Armagh, Banbridge and Craigavon",Antrim and Newtownabbey,1.1074652255632258e-5
+"Armagh, Banbridge and Craigavon",North Down and Ards,9.804802346610182e-6
+"Armagh, Banbridge and Craigavon",Mid and East Antrim,6.443835104023347e-6
+"Armagh, Banbridge and Craigavon",Fermanagh and Omagh,4.336896231135931e-6
+"Armagh, Banbridge and Craigavon",Causeway Coast and Glens,3.6222067410927353e-6
+"Armagh, Banbridge and Craigavon",Derry and Strabane,2.5154019639989836e-6
+Barnsley,Rotherham,3.239175216622001e-5
+Barnsley,Wakefield,2.215967159836733e-5
+Barnsley,Sheffield,2.123421953889639e-5
+Barnsley,Doncaster,1.7706727936699298e-5
+Barnsley,Kirklees,6.684243669606289e-6
+Barnsley,Leeds,5.353602007326919e-6
+Barnsley,Calderdale,2.135791427157493e-6
+Barnsley,York,2.0599118186584604e-6
+Barnsley,Bradford,2.056957646405125e-6
+Barnsley,North Yorkshire,1.8122599961093504e-6
+Bath and North East Somerset,Bristol,5.160469376543464e-5
+Bath and North East Somerset,South Gloucestershire,4.2383800522076454e-5
+Bath and North East Somerset,Wiltshire,2.9132058563277747e-5
+Bath and North East Somerset,Somerset,1.450573653503756e-5
+Bath and North East Somerset,North Somerset,1.110870204096961e-5
+Bath and North East Somerset,Monmouthshire,4.681025162711437e-6
+Bath and North East Somerset,Swindon,3.822341691934549e-6
+Bath and North East Somerset,Gloucestershire,2.160936709306842e-6
+Bath and North East Somerset,Cardiff,1.949292391527547e-6
+Bath and North East Somerset,Newport,1.847128988478231e-6
+Bedfordshire,Central Bedfordshire,5.660927279422479e-5
+Bedfordshire,Luton,2.521169233166974e-5
+Bedfordshire,Milton Keynes,2.2749220433463358e-5
+Bedfordshire,Northamptonshire,1.1560546423890914e-5
+Bedfordshire,Cambridgeshire,1.093518613302502e-5
+Bedfordshire,Hertfordshire,4.208264799856949e-6
+Bedfordshire,Peterborough,3.5433134349167957e-6
+Bedfordshire,Buckinghamshire,2.667397085019151e-6
+Bedfordshire,Greater London,1.3904490106524783e-6
+Bedfordshire,Leicester,1.0517878859916588e-6
+Belfast,Lisburn and Castlereagh,1.2099536977282276e-4
+Belfast,Antrim and Newtownabbey,9.90904861083535e-5
+Belfast,North Down and Ards,7.024082435249251e-5
+Belfast,Mid and East Antrim,4.615201246243675e-5
+Belfast,"Newry, Mourne and Down",2.6782139744217478e-5
+Belfast,"Armagh, Banbridge and Craigavon",2.3753422679074813e-5
+Belfast,Causeway Coast and Glens,1.3103310633144525e-5
+Belfast,Mid Ulster,1.2580360255093252e-5
+Belfast,Derry and Strabane,6.607201088019517e-6
+Belfast,Fermanagh and Omagh,5.648680152574238e-6
+Birmingham,Solihull,6.589621033388885e-5
+Birmingham,Sandwell,4.336208112623581e-5
+Birmingham,Walsall,1.9765158345824975e-5
+Birmingham,Dudley,1.6725993599564814e-5
+Birmingham,Worcestershire,1.2708447497078868e-5
+Birmingham,Wolverhampton,1.1597534344163988e-5
+Birmingham,Coventry,9.41474970020653e-6
+Birmingham,Warwickshire,8.425696525411819e-6
+Birmingham,Staffordshire,5.94821420108269e-6
+Birmingham,Telford and Wrekin,3.189285127588227e-6
+Blackburn with Darwen,Lancashire,3.8821471386669166e-5
+Blackburn with Darwen,Bolton,1.387331598019367e-5
+Blackburn with Darwen,Bury,6.946496728613635e-6
+Blackburn with Darwen,Blackpool,6.352952374418581e-6
+Blackburn with Darwen,Manchester,4.315400469542984e-6
+Blackburn with Darwen,Rochdale,4.152477204079721e-6
+Blackburn with Darwen,Wigan,4.111752068800056e-6
+Blackburn with Darwen,Salford,4.025770560434711e-6
+Blackburn with Darwen,Sefton,3.1715712600504e-6
+Blackburn with Darwen,Oldham,2.568423485893002e-6
+Blackpool,Lancashire,4.071228200787769e-5
+Blackpool,Blackburn with Darwen,6.352952374418581e-6
+Blackpool,Wigan,3.345896365896335e-6
+Blackpool,Bolton,3.2181595785866767e-6
+Blackpool,Manchester,2.7316852646757226e-6
+Blackpool,Bury,2.7176526995226404e-6
+Blackpool,Salford,2.5079408641554413e-6
+Blackpool,Sefton,2.4980016030879784e-6
+Blackpool,Oldham,2.1532536435691e-6
+Blackpool,Tameside,2.132596910004252e-6
+Blaenau Gwent,Monmouthshire,7.640812301163016e-5
+Blaenau Gwent,Merthyr Tydfil,6.370689605308118e-5
+Blaenau Gwent,Torfaen,6.283664708491974e-5
+Blaenau Gwent,Caerphilly,5.1754788902744156e-5
+Blaenau Gwent,Newport,2.513918775119524e-5
+Blaenau Gwent,Cardiff,1.6628415911325522e-5
+Blaenau Gwent,"Rhondda, Cynon, Taff",1.2025055879644784e-5
+Blaenau Gwent,Powys,8.266127360939627e-6
+Blaenau Gwent,Vale of Glamorgan,5.327140369460271e-6
+Blaenau Gwent,Bridgend,3.477518742769243e-6
+Bolton,Bury,4.840934582088212e-5
+Bolton,Salford,4.1762699497013255e-5
+Bolton,Wigan,3.530008179417444e-5
+Bolton,Manchester,1.5187391666909561e-5
+Bolton,Blackburn with Darwen,1.387331598019367e-5
+Bolton,Trafford,1.2750416445058403e-5
+Bolton,Rochdale,1.0280103046743027e-5
+Bolton,Oldham,8.043503817187616e-6
+Bolton,Lancashire,6.8554555305097445e-6
+Bolton,Tameside,6.600253750805986e-6
+Bournemouth,Poole,2.6118791589847806e-4
+Bournemouth,Dorset,7.167442808343188e-5
+Bournemouth,Southampton,1.4014855502123514e-5
+Bournemouth,Hampshire,7.872603360686281e-6
+Bournemouth,Portsmouth,3.3329889082968326e-6
+Bournemouth,Wiltshire,3.2053967784369168e-6
+Bournemouth,Isle of Wight,1.5333231015328403e-6
+Bournemouth,Reading,1.5002175717951797e-6
+Bournemouth,Windsor and Maidenhead,1.416049292581817e-6
+Bournemouth,Somerset,1.284117585218106e-6
+Bracknell Forest,Wokingham,7.368290035858599e-5
+Bracknell Forest,Windsor and Maidenhead,4.3452031325161706e-5
+Bracknell Forest,Reading,4.321724345734505e-5
+Bracknell Forest,Slough,3.2257672110688766e-5
+Bracknell Forest,Surrey,1.3607848258261557e-5
+Bracknell Forest,West Berkshire,1.1302073743180708e-5
+Bracknell Forest,Hampshire,8.613973156751955e-6
+Bracknell Forest,Buckinghamshire,5.013394385068259e-6
+Bracknell Forest,Greater London,2.435732638879852e-6
+Bracknell Forest,Oxfordshire,2.0627865442243293e-6
+Bradford,Calderdale,3.316120872036114e-5
+Bradford,Leeds,2.5771581769844007e-5
+Bradford,Kirklees,1.778303295770452e-5
+Bradford,North Yorkshire,7.618575764712898e-6
+Bradford,Wakefield,6.965876329582706e-6
+Bradford,York,2.359134663097851e-6
+Bradford,Barnsley,2.056957646405125e-6
+Bradford,Manchester,1.3209487016651331e-6
+Bradford,Lancashire,1.2901116339950912e-6
+Bradford,Oldham,1.2438680815975578e-6
+Bridgend,Neath Port Talbot,4.518693095448296e-5
+Bridgend,Vale of Glamorgan,4.12904526080283e-5
+Bridgend,Cardiff,3.2723929695425176e-5
+Bridgend,"Rhondda, Cynon, Taff",3.190122634728846e-5
+Bridgend,Swansea,1.7249602321601768e-5
+Bridgend,Merthyr Tydfil,1.1954968970623468e-5
+Bridgend,Caerphilly,9.843991530953194e-6
+Bridgend,Newport,7.427032675355439e-6
+Bridgend,Torfaen,5.109801854207686e-6
+Bridgend,Carmarthenshire,4.965207258511391e-6
+Brighton and Hove,West Sussex,5.2381744509505755e-5
+Brighton and Hove,East Sussex,4.9205564099903345e-5
+Brighton and Hove,Portsmouth,3.0408850092526023e-6
+Brighton and Hove,Surrey,3.0237128673899525e-6
+Brighton and Hove,Greater London,2.2825451821811693e-6
+Brighton and Hove,Kent,1.5461535339256082e-6
+Brighton and Hove,Southampton,1.3089857811782033e-6
+Brighton and Hove,Hampshire,1.1272462419875548e-6
+Brighton and Hove,Medway,1.0140112858767567e-6
+Brighton and Hove,Reading,9.507373950404328e-7
+Bristol,South Gloucestershire,1.4438376437790558e-4
+Bristol,North Somerset,5.54762730619906e-5
+Bristol,Bath and North East Somerset,5.160469376543464e-5
+Bristol,Monmouthshire,1.4863588195277983e-5
+Bristol,Newport,1.0753055256825318e-5
+Bristol,Somerset,7.920246905040965e-6
+Bristol,Wiltshire,6.237653370432838e-6
+Bristol,Gloucestershire,6.107973349840525e-6
+Bristol,Torfaen,4.60679721087979e-6
+Bristol,Cardiff,4.043663782726221e-6
+Buckinghamshire,Slough,4.199154604201047e-5
+Buckinghamshire,Windsor and Maidenhead,2.733706499959751e-5
+Buckinghamshire,Milton Keynes,1.2898141810693546e-5
+Buckinghamshire,Oxfordshire,8.760222236007862e-6
+Buckinghamshire,Central Bedfordshire,8.482624593574802e-6
+Buckinghamshire,Hertfordshire,6.67347236429049e-6
+Buckinghamshire,Luton,6.35452854850818e-6
+Buckinghamshire,Bracknell Forest,5.013394385068259e-6
+Buckinghamshire,Reading,4.794790654374361e-6
+Buckinghamshire,Wokingham,4.432695463296816e-6
+Bury,Rochdale,5.427896556030025e-5
+Bury,Bolton,4.840934582088212e-5
+Bury,Salford,4.42116849441033e-5
+Bury,Manchester,4.047750461033445e-5
+Bury,Oldham,1.9805728489421487e-5
+Bury,Trafford,1.7212325437551907e-5
+Bury,Tameside,1.511438600784948e-5
+Bury,Stockport,1.3361956246827627e-5
+Bury,Wigan,8.55341974047931e-6
+Bury,Lancashire,7.064870468409476e-6
+Caerphilly,Merthyr Tydfil,5.6587575087635606e-5
+Caerphilly,Newport,5.3829242752031376e-5
+Caerphilly,Blaenau Gwent,5.1754788902744156e-5
+Caerphilly,Cardiff,4.808240814854649e-5
+Caerphilly,Torfaen,3.937591868068254e-5
+Caerphilly,"Rhondda, Cynon, Taff",2.7011959332567564e-5
+Caerphilly,Vale of Glamorgan,2.0163901805822122e-5
+Caerphilly,Monmouthshire,1.4878457667668685e-5
+Caerphilly,Bridgend,9.843991530953194e-6
+Caerphilly,Neath Port Talbot,3.6790547584364338e-6
+Calderdale,Kirklees,4.5059067120540324e-5
+Calderdale,Bradford,3.316120872036114e-5
+Calderdale,Leeds,1.0292532419024183e-5
+Calderdale,Rochdale,8.33128563823338e-6
+Calderdale,Wakefield,6.094547432090547e-6
+Calderdale,Oldham,4.558594694654095e-6
+Calderdale,Manchester,2.6636100905503963e-6
+Calderdale,Lancashire,2.5022765424010637e-6
+Calderdale,Bury,2.3408511749841464e-6
+Calderdale,Salford,2.17106105016603e-6
+Cambridgeshire,Peterborough,4.321498646506155e-5
+Cambridgeshire,Bedfordshire,1.093518613302502e-5
+Cambridgeshire,Suffolk,9.702004742665363e-6
+Cambridgeshire,Norfolk,5.28547896641672e-6
+Cambridgeshire,Central Bedfordshire,4.102044346942984e-6
+Cambridgeshire,Lincolnshire,3.867001139414786e-6
+Cambridgeshire,Rutland,3.3500084573614495e-6
+Cambridgeshire,Hertfordshire,2.4884501911520537e-6
+Cambridgeshire,Northamptonshire,2.041277949668656e-6
+Cambridgeshire,Luton,1.7085289606157147e-6
+Cardiff,Vale of Glamorgan,1.1666573273561355e-4
+Cardiff,"Rhondda, Cynon, Taff",5.3259754221900286e-5
+Cardiff,Caerphilly,4.808240814854649e-5
+Cardiff,Newport,4.420112809157953e-5
+Cardiff,Bridgend,3.2723929695425176e-5
+Cardiff,Merthyr Tydfil,2.6796492246715176e-5
+Cardiff,Torfaen,2.251455335247762e-5
+Cardiff,Blaenau Gwent,1.6628415911325522e-5
+Cardiff,Monmouthshire,1.290958439042082e-5
+Cardiff,Neath Port Talbot,9.13311100165049e-6
+Carmarthenshire,Swansea,6.20450324502817e-5
+Carmarthenshire,Ceredigion,2.8580990303250764e-5
+Carmarthenshire,Neath Port Talbot,2.8200695145429278e-5
+Carmarthenshire,Pembrokeshire,2.04638992798201e-5
+Carmarthenshire,Merthyr Tydfil,5.200761178882793e-6
+Carmarthenshire,Bridgend,4.965207258511391e-6
+Carmarthenshire,Cardiff,4.400551382857228e-6
+Carmarthenshire,"Rhondda, Cynon, Taff",3.99195474096583e-6
+Carmarthenshire,Powys,3.4494196268545307e-6
+Carmarthenshire,Vale of Glamorgan,2.3730413831231995e-6
+Causeway Coast and Glens,Derry and Strabane,4.8046060974972386e-5
+Causeway Coast and Glens,Mid and East Antrim,3.761114172343145e-5
+Causeway Coast and Glens,Mid Ulster,1.8081703671300914e-5
+Causeway Coast and Glens,Antrim and Newtownabbey,1.694098510088822e-5
+Causeway Coast and Glens,Belfast,1.3103310633144525e-5
+Causeway Coast and Glens,Lisburn and Castlereagh,7.529493383983421e-6
+Causeway Coast and Glens,North Down and Ards,4.389742265066176e-6
+Causeway Coast and Glens,"Armagh, Banbridge and Craigavon",3.6222067410927353e-6
+Causeway Coast and Glens,Fermanagh and Omagh,3.6215912821118686e-6
+Causeway Coast and Glens,"Newry, Mourne and Down",2.3834337273562294e-6
+Central Bedfordshire,Luton,1.603949417539369e-4
+Central Bedfordshire,Bedfordshire,5.660927279422479e-5
+Central Bedfordshire,Milton Keynes,2.754664386885973e-5
+Central Bedfordshire,Hertfordshire,1.6834708462010816e-5
+Central Bedfordshire,Buckinghamshire,8.482624593574802e-6
+Central Bedfordshire,Cambridgeshire,4.102044346942984e-6
+Central Bedfordshire,Northamptonshire,3.351855718779692e-6
+Central Bedfordshire,Greater London,2.43934671713491e-6
+Central Bedfordshire,Peterborough,1.442170562937703e-6
+Central Bedfordshire,Slough,1.4179302142396052e-6
+Ceredigion,Carmarthenshire,2.8580990303250764e-5
+Ceredigion,Powys,2.1063873816935796e-5
+Ceredigion,Pembrokeshire,1.7810408879660026e-5
+Ceredigion,Gwynedd,5.371223442846267e-6
+Ceredigion,Swansea,4.720393810767307e-6
+Ceredigion,Neath Port Talbot,4.103461857642144e-6
+Ceredigion,Cardiff,3.2325698453910243e-6
+Ceredigion,Shropshire,1.670680038166202e-6
+Ceredigion,Herefordshire,1.4996319179472808e-6
+Ceredigion,Vale of Glamorgan,1.4752091366764445e-6
+Cheshire East,Cheshire West and Chester,2.2859769771287408e-5
+Cheshire East,Stockport,1.7142421144004452e-5
+Cheshire East,Stoke-on-Trent,1.501638007970644e-5
+Cheshire East,Manchester,9.404789108536393e-6
+Cheshire East,Trafford,7.906050910592069e-6
+Cheshire East,Staffordshire,7.604757099262662e-6
+Cheshire East,Warrington,5.680546817867329e-6
+Cheshire East,Tameside,4.488487235807352e-6
+Cheshire East,Salford,4.392776747845985e-6
+Cheshire East,Halton,3.4903063632418382e-6
+Cheshire West and Chester,Flintshire,4.843431002260438e-5
+Cheshire West and Chester,Wirral,2.536644747357078e-5
+Cheshire West and Chester,Cheshire East,2.2859769771287408e-5
+Cheshire West and Chester,Wrexham,1.754369157348975e-5
+Cheshire West and Chester,Halton,1.664782205960122e-5
+Cheshire West and Chester,Warrington,1.1610786154564615e-5
+Cheshire West and Chester,Knowsley,5.096535094530552e-6
+Cheshire West and Chester,Trafford,5.014251162356663e-6
+Cheshire West and Chester,Denbighshire,5.003053144156497e-6
+Cheshire West and Chester,Manchester,4.705327295764947e-6
+Clackmannanshire,Stirling,1.6040725995755963e-4
+Clackmannanshire,Falkirk,5.983659323446485e-5
+Clackmannanshire,Fife,1.1117260254842019e-5
+Clackmannanshire,Perthshire and Kinross,7.75372016779245e-6
+Clackmannanshire,East Dunbartonshire,6.963259427612858e-6
+Clackmannanshire,Glasgow,6.874899430434966e-6
+Clackmannanshire,North Lanarkshire,6.740071999261893e-6
+Clackmannanshire,West Lothian,6.333310484268534e-6
+Clackmannanshire,Edinburgh,6.091980808512911e-6
+Clackmannanshire,East Renfrewshire,5.012071243963112e-6
+Conwy,Denbighshire,1.4833357141662471e-4
+Conwy,Gwynedd,3.9283669342950616e-5
+Conwy,Anglesey,2.965778256381585e-5
+Conwy,Flintshire,1.6702976994994062e-5
+Conwy,Wrexham,5.578591847383634e-6
+Conwy,Cheshire West and Chester,3.9333988636647855e-6
+Conwy,Wirral,1.7983167154250172e-6
+Conwy,Knowsley,1.7372192079362164e-6
+Conwy,Warrington,1.3810544850247094e-6
+Conwy,Bury,1.3065477708091602e-6
+Cornwall,Plymouth,2.633756040215951e-5
+Cornwall,Isles of Scilly,9.248424184255819e-6
+Cornwall,Devon,4.368623941663536e-6
+Cornwall,Torbay,2.998067863978611e-6
+Cornwall,Bristol,7.996730788253044e-7
+Cornwall,Somerset,7.383884020720237e-7
+Cornwall,South Gloucestershire,5.340006019768927e-7
+Cornwall,Bath and North East Somerset,4.871347269347437e-7
+Cornwall,North Somerset,4.7054938696230083e-7
+Cornwall,Portsmouth,4.6242346092601246e-7
+Coventry,Warwickshire,6.033362131976366e-5
+Coventry,Solihull,1.4783430660396198e-5
+Coventry,Birmingham,9.41474970020653e-6
+Coventry,Leicestershire,6.673072653693681e-6
+Coventry,Leicester,5.736336969354858e-6
+Coventry,Northamptonshire,4.635384997153833e-6
+Coventry,Sandwell,4.265969614360619e-6
+Coventry,Walsall,3.7613033838257173e-6
+Coventry,Wolverhampton,2.8193396999327997e-6
+Coventry,Dudley,2.3291055444658237e-6
+Cumbria,Dumfries and Galloway,8.421129847543917e-6
+Cumbria,Lancashire,2.585711355274107e-6
+Cumbria,Blackpool,1.664286621894157e-6
+Cumbria,Newcastle upon Tyne,1.6002470973449902e-6
+Cumbria,Northumberland,1.2424966946760793e-6
+Cumbria,Scottish Borders,9.312995031723867e-7
+Cumbria,Gateshead,8.877783389845251e-7
+Cumbria,Salford,8.43208912164071e-7
+Cumbria,Darlington,8.262537806277171e-7
+Cumbria,North Tyneside,7.43790360970522e-7
+Darlington,Stockton-on-Tees,4.4531468875299844e-5
+Darlington,Durham,3.8356084675070175e-5
+Darlington,Middlesbrough,3.598309132300894e-5
+Darlington,Redcar and Cleveland,2.0415055760722096e-5
+Darlington,Hartlepool,1.7581164950983936e-5
+Darlington,North Yorkshire,1.6771095180736857e-5
+Darlington,Newcastle upon Tyne,4.674648929268867e-6
+Darlington,Gateshead,4.524968379652656e-6
+Darlington,Sunderland,3.4603481530991806e-6
+Darlington,York,2.5677274982072406e-6
+Denbighshire,Conwy,1.4833357141662471e-4
+Denbighshire,Flintshire,4.327398832819516e-5
+Denbighshire,Wrexham,3.311983495045076e-5
+Denbighshire,Gwynedd,1.0014060849593043e-5
+Denbighshire,Anglesey,7.639298422210255e-6
+Denbighshire,Cheshire West and Chester,5.003053144156497e-6
+Denbighshire,Wirral,3.5051428497389202e-6
+Denbighshire,Shropshire,2.7014257090702005e-6
+Denbighshire,Knowsley,2.1921018906177056e-6
+Denbighshire,Halton,1.5236132372506707e-6
+Derby,Derbyshire,3.672636406937849e-5
+Derby,Nottingham,1.6318103906341114e-5
+Derby,Leicestershire,1.1661469204299846e-5
+Derby,Nottinghamshire,8.916300948451058e-6
+Derby,Staffordshire,8.23293547639426e-6
+Derby,Leicester,3.4888892442774818e-6
+Derby,Walsall,2.1601310600932883e-6
+Derby,Stoke-on-Trent,1.9576073455463837e-6
+Derby,Sheffield,1.5163795671101353e-6
+Derby,Birmingham,1.4285703103663045e-6
+Derbyshire,Derby,3.672636406937849e-5
+Derbyshire,Nottinghamshire,1.8811709072468134e-5
+Derbyshire,Nottingham,1.6241896078472873e-5
+Derbyshire,Sheffield,1.1105559410941608e-5
+Derbyshire,Tameside,5.518815467555389e-6
+Derbyshire,Staffordshire,4.871451151924523e-6
+Derbyshire,Rotherham,4.846882078897731e-6
+Derbyshire,Leicestershire,4.367949207496828e-6
+Derbyshire,Stockport,4.2678753481296996e-6
+Derbyshire,Manchester,2.324718221336527e-6
+Derry and Strabane,Causeway Coast and Glens,4.8046060974972386e-5
+Derry and Strabane,Fermanagh and Omagh,2.7882805065524657e-5
+Derry and Strabane,Mid Ulster,8.178500924362529e-6
+Derry and Strabane,Belfast,6.607201088019517e-6
+Derry and Strabane,Antrim and Newtownabbey,3.924762215720735e-6
+Derry and Strabane,Lisburn and Castlereagh,3.174034228736553e-6
+Derry and Strabane,Mid and East Antrim,3.0096816596048334e-6
+Derry and Strabane,"Armagh, Banbridge and Craigavon",2.5154019639989836e-6
+Derry and Strabane,"Newry, Mourne and Down",1.9407791746842927e-6
+Derry and Strabane,North Down and Ards,1.6616931187755753e-6
+Devon,Torbay,4.9088301511002466e-5
+Devon,Plymouth,2.3600752832314057e-5
+Devon,Somerset,6.0075852754751964e-6
+Devon,Cornwall,4.368623941663536e-6
+Devon,Bristol,1.5401128348299928e-6
+Devon,North Somerset,1.4737592694969052e-6
+Devon,Dorset,1.4348445301744176e-6
+Devon,Bath and North East Somerset,9.714685086289243e-7
+Devon,Isles of Scilly,8.598193365191705e-7
+Devon,South Gloucestershire,8.321501277115813e-7
+Doncaster,Rotherham,2.7753283597249952e-5
+Doncaster,Barnsley,1.7706727936699298e-5
+Doncaster,North Lincolnshire,1.4598314096803203e-5
+Doncaster,Wakefield,9.560302057320157e-6
+Doncaster,Sheffield,9.556768600949561e-6
+Doncaster,East Riding of Yorkshire,6.828945862403921e-6
+Doncaster,Nottinghamshire,4.8654959956239975e-6
+Doncaster,North Yorkshire,3.0242456833285264e-6
+Doncaster,Leeds,2.5596813100283498e-6
+Doncaster,York,2.378888550138115e-6
+Dorset,Poole,8.103031540372026e-5
+Dorset,Bournemouth,7.167442808343188e-5
+Dorset,Somerset,1.022053072210836e-5
+Dorset,Southampton,6.428792910646358e-6
+Dorset,Wiltshire,4.729278090102722e-6
+Dorset,Hampshire,3.4460164782538943e-6
+Dorset,Bath and North East Somerset,1.6324862587880908e-6
+Dorset,Portsmouth,1.6265300676901367e-6
+Dorset,Devon,1.4348445301744176e-6
+Dorset,North Somerset,1.0961747211094314e-6
+Dudley,Sandwell,7.587408248200564e-5
+Dudley,Wolverhampton,3.835536691226073e-5
+Dudley,Birmingham,1.6725993599564814e-5
+Dudley,Walsall,1.592737179079082e-5
+Dudley,Worcestershire,1.1950663680862336e-5
+Dudley,Solihull,6.74224713675595e-6
+Dudley,Staffordshire,5.284465125910432e-6
+Dudley,Telford and Wrekin,5.210739159923898e-6
+Dudley,Shropshire,3.995122113851384e-6
+Dudley,Coventry,2.3291055444658237e-6
+Dumfries and Galloway,Cumbria,8.421129847543917e-6
+Dumfries and Galloway,South Ayrshire,5.937876267380222e-6
+Dumfries and Galloway,East Ayrshire,5.016526173402299e-6
+Dumfries and Galloway,Scottish Borders,2.9053075865879736e-6
+Dumfries and Galloway,Glasgow,2.1328204617052004e-6
+Dumfries and Galloway,South Lanarkshire,1.7635766935615805e-6
+Dumfries and Galloway,Renfrewshire,1.6062111077894746e-6
+Dumfries and Galloway,East Renfrewshire,1.576157167850544e-6
+Dumfries and Galloway,East Dunbartonshire,1.3660857082572077e-6
+Dumfries and Galloway,North Ayrshire,1.35638093708573e-6
+Dundee,Angus,1.2546474228679322e-4
+Dundee,Perthshire and Kinross,5.586743380188339e-5
+Dundee,Fife,1.8786486319454246e-5
+Dundee,Aberdeen,4.8073874738142414e-6
+Dundee,Aberdeenshire,3.0263227252529066e-6
+Dundee,Edinburgh,2.503231152531431e-6
+Dundee,Clackmannanshire,2.3437855825169225e-6
+Dundee,Stirling,1.9559271678495878e-6
+Dundee,Glasgow,1.7581404542634346e-6
+Dundee,Falkirk,1.6259181267802375e-6
+Durham,Darlington,3.8356084675070175e-5
+Durham,Sunderland,2.80353210039148e-5
+Durham,Gateshead,2.320681287041914e-5
+Durham,Hartlepool,1.9318667758647402e-5
+Durham,Newcastle upon Tyne,1.4711202825804912e-5
+Durham,South Tyneside,1.1645991203897092e-5
+Durham,Stockton-on-Tees,1.16044142211037e-5
+Durham,North Tyneside,7.974478266244198e-6
+Durham,Middlesbrough,7.401803337559191e-6
+Durham,Northumberland,4.824911157105865e-6
+East Ayrshire,South Ayrshire,1.0493830706714369e-4
+East Ayrshire,North Ayrshire,7.117217317222201e-5
+East Ayrshire,East Renfrewshire,1.638587536147087e-5
+East Ayrshire,Glasgow,1.557283407759955e-5
+East Ayrshire,Renfrewshire,1.0959969908493125e-5
+East Ayrshire,East Dunbartonshire,1.0538763223908452e-5
+East Ayrshire,South Lanarkshire,8.48660131665837e-6
+East Ayrshire,West Dunbartonshire,6.6824192649398205e-6
+East Ayrshire,North Lanarkshire,5.280370513900868e-6
+East Ayrshire,Dumfries and Galloway,5.016526173402299e-6
+East Dunbartonshire,Glasgow,8.209702714449075e-5
+East Dunbartonshire,West Dunbartonshire,4.3566638324979336e-5
+East Dunbartonshire,East Renfrewshire,3.545715078314943e-5
+East Dunbartonshire,North Lanarkshire,3.401853662025405e-5
+East Dunbartonshire,Renfrewshire,2.8365143521785135e-5
+East Dunbartonshire,South Lanarkshire,2.297136430611214e-5
+East Dunbartonshire,Inverclyde,1.5107688192130606e-5
+East Dunbartonshire,Falkirk,1.3729891336992676e-5
+East Dunbartonshire,Stirling,1.165051625490164e-5
+East Dunbartonshire,East Ayrshire,1.0538763223908452e-5
+East Lothian,Midlothian,7.74234619125112e-5
+East Lothian,Edinburgh,7.621130293989547e-5
+East Lothian,West Lothian,1.1336972451173766e-5
+East Lothian,Scottish Borders,1.0771408953465595e-5
+East Lothian,Fife,4.97509604835794e-6
+East Lothian,Falkirk,4.567373274121736e-6
+East Lothian,Clackmannanshire,2.440663825867883e-6
+East Lothian,Perthshire and Kinross,2.3021300878901807e-6
+East Lothian,Stirling,2.0108039419610996e-6
+East Lothian,Glasgow,1.8353483992597263e-6
+East Renfrewshire,Glasgow,8.97049404601363e-5
+East Renfrewshire,Renfrewshire,7.435870531089028e-5
+East Renfrewshire,South Lanarkshire,3.746710517308213e-5
+East Renfrewshire,East Dunbartonshire,3.545715078314943e-5
+East Renfrewshire,West Dunbartonshire,2.8467000992977714e-5
+East Renfrewshire,North Lanarkshire,1.9598500398436037e-5
+East Renfrewshire,Inverclyde,1.796616789602477e-5
+East Renfrewshire,North Ayrshire,1.6943425042606627e-5
+East Renfrewshire,East Ayrshire,1.638587536147087e-5
+East Renfrewshire,South Ayrshire,1.0983744837981185e-5
+East Riding of Yorkshire,Kingston upon Hull,9.454846954255066e-5
+East Riding of Yorkshire,York,1.776481984386406e-5
+East Riding of Yorkshire,North Yorkshire,1.1804777164918092e-5
+East Riding of Yorkshire,North Lincolnshire,9.408983781439645e-6
+East Riding of Yorkshire,Doncaster,6.828945862403921e-6
+East Riding of Yorkshire,Wakefield,3.041193992002333e-6
+East Riding of Yorkshire,Leeds,2.6973102846242786e-6
+East Riding of Yorkshire,Barnsley,1.429925337768416e-6
+East Riding of Yorkshire,Kirklees,1.3150599150971698e-6
+East Riding of Yorkshire,Bradford,1.1839336238081254e-6
+East Sussex,Brighton and Hove,4.9205564099903345e-5
+East Sussex,West Sussex,7.598137024503659e-6
+East Sussex,Kent,4.064255494511731e-6
+East Sussex,Medway,1.5565771469796086e-6
+East Sussex,Surrey,1.3780219088774914e-6
+East Sussex,Greater London,1.1407338230455487e-6
+East Sussex,Portsmouth,1.0573277277377216e-6
+East Sussex,Thurrock,6.899196768366567e-7
+East Sussex,Pembrokeshire,5.207975280112487e-7
+East Sussex,Hertfordshire,4.5785146102321595e-7
+Edinburgh,Midlothian,1.016990161208442e-4
+Edinburgh,East Lothian,7.621130293989547e-5
+Edinburgh,West Lothian,3.861475103216099e-5
+Edinburgh,Fife,1.595770469527596e-5
+Edinburgh,Falkirk,1.3957649132674656e-5
+Edinburgh,Scottish Borders,1.2486363690601244e-5
+Edinburgh,Stirling,7.2988558115531985e-6
+Edinburgh,Clackmannanshire,6.091980808512911e-6
+Edinburgh,North Lanarkshire,4.482277863699554e-6
+Edinburgh,Glasgow,4.17390914955388e-6
+Eilean Siar,Highland,3.4899852244130868e-6
+Eilean Siar,Orkney Islands,2.719891493555046e-6
 Eilean Siar,Argyll and Bute,1.699985282186999e-6
-Eilean Siar,Glasgow,1.6964336274817708e-6
 Eilean Siar,East Renfrewshire,1.627764260570784e-6
+Eilean Siar,Glasgow,1.596883589410482e-6
 Eilean Siar,Renfrewshire,1.5678667121210436e-6
-Eilean Siar,East Dunbartonshire,1.355497408086163e-6
 Eilean Siar,Edinburgh,1.3278996955717134e-6
-Eilean Siar,Orkney Islands,1.0759063328374878e-6
+Eilean Siar,East Dunbartonshire,1.2599468319265714e-6
 Eilean Siar,Inverclyde,9.720931240832428e-7
 Eilean Siar,West Dunbartonshire,9.613670271470184e-7
-Essex,Southend-on-Sea,3.6605019341288166e-5
-Essex,Thurrock,2.0833313386231643e-5
-Essex,Suffolk,5.522441624026532e-6
-Essex,Hertfordshire,5.455018931781332e-6
-Essex,Greater London,5.445377143336201e-6
-Essex,Cambridgeshire,1.6427332494633723e-6
-Essex,Medway,1.4483650891238177e-6
-Essex,Kent,1.0573418140571934e-6
-Essex,Luton,1.0390308289861216e-6
-Essex,Central Bedfordshire,8.561960288484894e-7
-Falkirk,Stirling,6.837247158151764e-5
-Falkirk,Clackmannanshire,6.005479866598999e-5
-Falkirk,West Lothian,2.346513060574862e-5
-Falkirk,North Lanarkshire,1.5542101418475876e-5
-Falkirk,Edinburgh,1.3922829562417435e-5
-Falkirk,East Dunbartonshire,1.3728711025107007e-5
-Falkirk,Glasgow,1.0155385176566212e-5
-Falkirk,East Renfrewshire,8.079798156044006e-6
-Falkirk,Midlothian,7.344157108409395e-6
-Falkirk,Fife,7.290781028885088e-6
-Fermanagh and Omagh,Derry and Strabane,2.740286462632269e-5
-Fermanagh and Omagh,Mid Ulster,2.38853179754945e-5
-Fermanagh and Omagh,Belfast,5.593528056681988e-6
-Fermanagh and Omagh,"Armagh, Banbridge and Craigavon",4.170973168874141e-6
-Fermanagh and Omagh,Lisburn and Castlereagh,3.692553274779004e-6
-Fermanagh and Omagh,Causeway Coast and Glens,3.3960585101931134e-6
-Fermanagh and Omagh,Antrim and Newtownabbey,2.7174600770118688e-6
-Fermanagh and Omagh,"Newry, Mourne and Down",2.071788532912726e-6
-Fermanagh and Omagh,Mid and East Antrim,2.03917820057837e-6
-Fermanagh and Omagh,North Down and Ards,1.932593106430246e-6
-Fife,Dundee,1.8787535593261722e-5
-Fife,Edinburgh,1.602675597057285e-5
-Fife,Perthshire and Kinross,1.2507045859790358e-5
-Fife,Clackmannanshire,1.0951153832510377e-5
-Fife,West Lothian,7.3232825018878606e-6
-Fife,Falkirk,7.290781028885088e-6
-Fife,Midlothian,6.607306392667412e-6
-Fife,Angus,5.04073071703764e-6
-Fife,East Lothian,4.897238542917377e-6
-Fife,Stirling,4.821876423611097e-6
-Flintshire,Wrexham,5.014313719293399e-5
-Flintshire,Cheshire West and Chester,4.770441954023503e-5
-Flintshire,Denbighshire,4.284470405415991e-5
-Flintshire,Conwy,1.6517160193778664e-5
-Flintshire,Wirral,1.158281702414861e-5
-Flintshire,Halton,4.916463429069073e-6
-Flintshire,Anglesey,3.5348464766212657e-6
-Flintshire,Knowsley,2.8087480240516297e-6
-Flintshire,Gwynedd,2.805220930483302e-6
-Flintshire,Warrington,2.611568973342026e-6
-Gateshead,Newcastle upon Tyne,9.138494958176223e-5
-Gateshead,South Tyneside,5.3368421293272865e-5
-Gateshead,North Tyneside,4.069645741329796e-5
-Gateshead,Sunderland,3.849690552986566e-5
-Gateshead,Durham,2.282733374714483e-5
-Gateshead,Northumberland,2.0180278444479997e-5
-Gateshead,Hartlepool,5.054650700762223e-6
-Gateshead,Darlington,4.591021646534466e-6
-Gateshead,Stockton-on-Tees,3.4688252556878953e-6
-Gateshead,Middlesbrough,3.003500778053846e-6
-Glasgow,East Renfrewshire,9.103657185043289e-5
-Glasgow,East Dunbartonshire,8.313847574216986e-5
-Glasgow,West Dunbartonshire,5.878146956797087e-5
-Glasgow,Renfrewshire,5.875929162418179e-5
-Glasgow,South Lanarkshire,4.912571988546675e-5
-Glasgow,North Lanarkshire,3.639450722000976e-5
-Glasgow,Inverclyde,2.134862367381853e-5
-Glasgow,North Ayrshire,1.7557489761806097e-5
-Glasgow,East Ayrshire,1.5616119881192054e-5
-Glasgow,South Ayrshire,1.3168090274292992e-5
-Gloucestershire,Monmouthshire,9.85215242701138e-6
-Gloucestershire,Herefordshire,9.55966406559255e-6
-Gloucestershire,Swindon,7.4794274815525585e-6
-Gloucestershire,South Gloucestershire,7.3908723763901895e-6
-Gloucestershire,Bristol,6.087235839727142e-6
-Gloucestershire,Worcestershire,5.5170681859758135e-6
-Gloucestershire,North Somerset,2.5924632715699816e-6
-Gloucestershire,Wiltshire,2.4518097666381805e-6
-Gloucestershire,Newport,2.2617307112874436e-6
-Gloucestershire,Bath and North East Somerset,2.1861712979046806e-6
-Greater London,Thurrock,1.3382915582232948e-5
-Greater London,Slough,9.02350674591655e-6
-Greater London,Hertfordshire,7.500021374416338e-6
-Greater London,Surrey,6.9211864753084285e-6
-Greater London,Essex,5.445377143336201e-6
-Greater London,Southend-on-Sea,4.844947577287742e-6
-Greater London,Medway,4.736839440397847e-6
-Greater London,Luton,4.5964518942343504e-6
-Greater London,Kent,3.7912319106607134e-6
-Greater London,Windsor and Maidenhead,3.674080722442601e-6
-Gwynedd,Anglesey,1.476557853891208e-4
-Gwynedd,Conwy,3.914518752713686e-5
-Gwynedd,Denbighshire,1.0093071126958752e-5
-Gwynedd,Ceredigion,5.403878706081316e-6
-Gwynedd,Powys,5.184893716115044e-6
-Gwynedd,Wrexham,4.069288233127915e-6
+Essex,Southend-on-Sea,3.68343299253194e-5
+Essex,Thurrock,2.1022909520477073e-5
+Essex,Suffolk,5.620905500112087e-6
+Essex,Hertfordshire,5.466755062771418e-6
+Essex,Greater London,5.417488707275218e-6
+Essex,Cambridgeshire,1.6575815102667617e-6
+Essex,Medway,1.4443762771131546e-6
+Essex,Kent,1.0530774351046087e-6
+Essex,Luton,1.034537859519833e-6
+Essex,Central Bedfordshire,8.513355756084551e-7
+Falkirk,Stirling,6.849301907860883e-5
+Falkirk,Clackmannanshire,5.983659323446485e-5
+Falkirk,West Lothian,2.3405850280150732e-5
+Falkirk,North Lanarkshire,1.5520004713195522e-5
+Falkirk,Edinburgh,1.3957649132674656e-5
+Falkirk,East Dunbartonshire,1.3729891336992676e-5
+Falkirk,Glasgow,9.981433546046096e-6
+Falkirk,East Renfrewshire,7.749576828525412e-6
+Falkirk,Midlothian,7.422164315980432e-6
+Falkirk,Fife,7.332708413618341e-6
+Fermanagh and Omagh,Derry and Strabane,2.7882805065524657e-5
+Fermanagh and Omagh,Mid Ulster,2.4344684129785275e-5
+Fermanagh and Omagh,Belfast,5.648680152574238e-6
+Fermanagh and Omagh,"Armagh, Banbridge and Craigavon",4.336896231135931e-6
+Fermanagh and Omagh,Lisburn and Castlereagh,3.7946886979540816e-6
+Fermanagh and Omagh,Causeway Coast and Glens,3.6215912821118686e-6
+Fermanagh and Omagh,Antrim and Newtownabbey,2.73098063345488e-6
+Fermanagh and Omagh,"Newry, Mourne and Down",2.141868810972823e-6
+Fermanagh and Omagh,Mid and East Antrim,2.0720942183729114e-6
+Fermanagh and Omagh,North Down and Ards,1.9428381209100256e-6
+Fife,Dundee,1.8786486319454246e-5
+Fife,Edinburgh,1.595770469527596e-5
+Fife,Perthshire and Kinross,1.252227179416346e-5
+Fife,Clackmannanshire,1.1117260254842019e-5
+Fife,Falkirk,7.332708413618341e-6
+Fife,West Lothian,7.2658228836114715e-6
+Fife,Midlothian,6.6085583483798035e-6
+Fife,Angus,5.132676513770493e-6
+Fife,East Lothian,4.97509604835794e-6
+Fife,Stirling,4.846392090910007e-6
+Flintshire,Wrexham,5.043670967014855e-5
+Flintshire,Cheshire West and Chester,4.843431002260438e-5
+Flintshire,Denbighshire,4.327398832819516e-5
+Flintshire,Conwy,1.6702976994994062e-5
+Flintshire,Wirral,1.173194607896387e-5
+Flintshire,Halton,4.864909421465104e-6
+Flintshire,Anglesey,3.4605823479556107e-6
+Flintshire,Knowsley,2.7663935995613068e-6
+Flintshire,Gwynedd,2.757181269544606e-6
+Flintshire,Warrington,2.6440498058954673e-6
+Gateshead,Newcastle upon Tyne,9.155478315807284e-5
+Gateshead,South Tyneside,5.3891665241959415e-5
+Gateshead,North Tyneside,4.1053988196219476e-5
+Gateshead,Sunderland,3.879613203828399e-5
+Gateshead,Durham,2.320681287041914e-5
+Gateshead,Northumberland,2.0255417482363406e-5
+Gateshead,Hartlepool,5.038061492914852e-6
+Gateshead,Darlington,4.524968379652656e-6
+Gateshead,Stockton-on-Tees,3.488635489974789e-6
+Gateshead,Middlesbrough,2.978012587390158e-6
+Glasgow,East Renfrewshire,8.97049404601363e-5
+Glasgow,East Dunbartonshire,8.209702714449075e-5
+Glasgow,West Dunbartonshire,5.846397799647023e-5
+Glasgow,Renfrewshire,5.8132155086554566e-5
+Glasgow,South Lanarkshire,4.884581967314474e-5
+Glasgow,North Lanarkshire,3.612448341598108e-5
+Glasgow,Inverclyde,2.1131897327858975e-5
+Glasgow,North Ayrshire,1.7277121274353486e-5
+Glasgow,East Ayrshire,1.557283407759955e-5
+Glasgow,South Ayrshire,1.2967055891031611e-5
+Gloucestershire,Monmouthshire,9.841998851745823e-6
+Gloucestershire,Herefordshire,9.599404450301459e-6
+Gloucestershire,Swindon,7.622165299548308e-6
+Gloucestershire,South Gloucestershire,7.383164140835683e-6
+Gloucestershire,Bristol,6.107973349840525e-6
+Gloucestershire,Worcestershire,5.564574806195427e-6
+Gloucestershire,North Somerset,2.5697413103896105e-6
+Gloucestershire,Wiltshire,2.4570137983151964e-6
+Gloucestershire,Newport,2.273661298474416e-6
+Gloucestershire,Bath and North East Somerset,2.160936709306842e-6
+Greater London,Thurrock,1.3465957706432592e-5
+Greater London,Slough,9.0723399896633e-6
+Greater London,Hertfordshire,7.528759120021545e-6
+Greater London,Surrey,6.9386101493286e-6
+Greater London,Essex,5.417488707275218e-6
+Greater London,Southend-on-Sea,4.846611977862562e-6
+Greater London,Medway,4.7359453341514564e-6
+Greater London,Luton,4.61928790378207e-6
+Greater London,Kent,3.797176600577352e-6
+Greater London,Windsor and Maidenhead,3.7001622623450895e-6
+Gwynedd,Anglesey,1.478500743949172e-4
+Gwynedd,Conwy,3.9283669342950616e-5
+Gwynedd,Denbighshire,1.0014060849593043e-5
+Gwynedd,Ceredigion,5.371223442846267e-6
+Gwynedd,Powys,5.159539560278307e-6
+Gwynedd,Wrexham,4.066728061983249e-6
 Gwynedd,Orkney Islands,2.9679598653424256e-6
-Gwynedd,Flintshire,2.805220930483302e-6
-Gwynedd,Shropshire,2.6026464024821517e-6
-Gwynedd,Cheshire West and Chester,2.1968342865880835e-6
-Halton,Warrington,5.986010376006367e-5
-Halton,Knowsley,3.720458599553985e-5
-Halton,Saint Helens,3.1201736673321874e-5
-Halton,Cheshire West and Chester,1.6649111252800154e-5
-Halton,Sefton,8.19575110226289e-6
-Halton,Wirral,7.156067006124236e-6
-Halton,Wigan,5.5823299674199995e-6
-Halton,Flintshire,4.916463429069073e-6
-Halton,Manchester,4.172124530476856e-6
-Halton,Salford,4.08335118321905e-6
-Hampshire,Portsmouth,5.252044254207937e-5
-Hampshire,Southampton,5.027233791115045e-5
-Hampshire,West Berkshire,8.856207121893505e-6
-Hampshire,Bracknell Forest,8.486365061893714e-6
-Hampshire,Surrey,8.322046604967348e-6
-Hampshire,Bournemouth,7.810280593087888e-6
-Hampshire,Reading,7.266981862644095e-6
-Hampshire,Wokingham,5.349277949392494e-6
-Hampshire,Poole,4.028285121593257e-6
-Hampshire,Wiltshire,3.937208865124167e-6
-Hartlepool,Stockton-on-Tees,6.657168104922255e-5
-Hartlepool,Middlesbrough,3.356675461436911e-5
-Hartlepool,Durham,1.904985421273444e-5
-Hartlepool,Darlington,1.7442627268598063e-5
-Hartlepool,Redcar and Cleveland,1.5598668360988677e-5
-Hartlepool,Sunderland,8.188135386899462e-6
-Hartlepool,Gateshead,5.054650700762223e-6
-Hartlepool,Newcastle upon Tyne,4.992622096325529e-6
-Hartlepool,North Tyneside,3.941944913794934e-6
-Hartlepool,South Tyneside,3.529453993088934e-6
-Herefordshire,Monmouthshire,1.5532566137060425e-5
-Herefordshire,Powys,1.1612961687198586e-5
-Herefordshire,Gloucestershire,9.55966406559255e-6
-Herefordshire,Worcestershire,8.326802686325573e-6
-Herefordshire,Shropshire,6.402583750583488e-6
-Herefordshire,Blaenau Gwent,2.996664198725457e-6
-Herefordshire,Torfaen,2.05344526737572e-6
-Herefordshire,Caerphilly,1.6395869498891008e-6
-Herefordshire,Merthyr Tydfil,1.6023455123728305e-6
-Herefordshire,Ceredigion,1.5597531939306497e-6
-Hertfordshire,Luton,2.9273285303783608e-5
-Hertfordshire,Central Bedfordshire,1.6726332058214762e-5
-Hertfordshire,Greater London,7.500021374416338e-6
-Hertfordshire,Buckinghamshire,6.576970501363985e-6
-Hertfordshire,Essex,5.455018931781332e-6
-Hertfordshire,Bedfordshire,4.159034797740666e-6
-Hertfordshire,Milton Keynes,3.159924696101892e-6
-Hertfordshire,Slough,3.052436608480513e-6
-Hertfordshire,Cambridgeshire,2.478235382146785e-6
-Hertfordshire,Thurrock,2.2791890444112063e-6
-Highland,Moray,2.2814674667486475e-5
-Highland,Eilean Siar,3.615637644233968e-6
-Highland,Shetland Islands,3.2554724002719537e-6
-Highland,Aberdeen,3.137499333746282e-6
-Highland,Orkney Islands,2.5837886688010976e-6
-Highland,Argyll and Bute,2.3240477328786125e-6
-Highland,Aberdeenshire,2.1518207462426054e-6
-Highland,Perthshire and Kinross,1.9461181315319766e-6
-Highland,Stirling,1.6190698229330706e-6
-Highland,Glasgow,1.57016571879492e-6
-Inverclyde,Renfrewshire,4.1898963186345905e-5
-Inverclyde,North Ayrshire,2.6745763805437778e-5
-Inverclyde,Glasgow,2.134862367381853e-5
-Inverclyde,West Dunbartonshire,1.8856457505570172e-5
-Inverclyde,East Renfrewshire,1.8123196196190454e-5
-Inverclyde,Argyll and Bute,1.797709795781737e-5
-Inverclyde,East Dunbartonshire,1.5450131595437238e-5
-Inverclyde,South Lanarkshire,9.154585987368818e-6
-Inverclyde,North Lanarkshire,6.768191758546324e-6
-Inverclyde,East Ayrshire,3.895110771134312e-6
-Isle of Wight,Portsmouth,6.341880433404561e-6
-Isle of Wight,Southampton,6.123121811732275e-6
-Isle of Wight,Hampshire,1.9749168948430883e-6
-Isle of Wight,Bournemouth,1.5546332299656305e-6
-Isle of Wight,Bracknell Forest,6.365905607916883e-7
+Gwynedd,Flintshire,2.757181269544606e-6
+Gwynedd,Shropshire,2.58684415966977e-6
+Gwynedd,Cheshire West and Chester,2.2148529737978328e-6
+Halton,Warrington,6.009758057346071e-5
+Halton,Knowsley,3.780658060246314e-5
+Halton,Saint Helens,3.138824457745262e-5
+Halton,Cheshire West and Chester,1.664782205960122e-5
+Halton,Sefton,8.416589399911742e-6
+Halton,Wirral,7.24722747014208e-6
+Halton,Wigan,5.616982487774776e-6
+Halton,Flintshire,4.864909421465104e-6
+Halton,Manchester,4.197627473662807e-6
+Halton,Salford,4.09195084519132e-6
+Hampshire,Portsmouth,5.3133759517889826e-5
+Hampshire,Southampton,5.058825512322336e-5
+Hampshire,West Berkshire,8.916810151552453e-6
+Hampshire,Bracknell Forest,8.613973156751955e-6
+Hampshire,Surrey,8.41043416273325e-6
+Hampshire,Bournemouth,7.872603360686281e-6
+Hampshire,Reading,7.239100175346449e-6
+Hampshire,Wokingham,5.352956897463985e-6
+Hampshire,Poole,4.074494267364848e-6
+Hampshire,Wiltshire,3.965559533669456e-6
+Hartlepool,Stockton-on-Tees,6.73354276178422e-5
+Hartlepool,Middlesbrough,3.373380473065539e-5
+Hartlepool,Durham,1.9318667758647402e-5
+Hartlepool,Darlington,1.7581164950983936e-5
+Hartlepool,Redcar and Cleveland,1.585137661554304e-5
+Hartlepool,Sunderland,8.277838422028643e-6
+Hartlepool,Gateshead,5.038061492914852e-6
+Hartlepool,Newcastle upon Tyne,5.005674133897952e-6
+Hartlepool,North Tyneside,3.987350155757065e-6
+Hartlepool,South Tyneside,3.6974169622984625e-6
+Herefordshire,Monmouthshire,1.6330108933989787e-5
+Herefordshire,Powys,1.1747708524826669e-5
+Herefordshire,Gloucestershire,9.599404450301459e-6
+Herefordshire,Worcestershire,8.42852923034439e-6
+Herefordshire,Shropshire,6.5204638621595785e-6
+Herefordshire,Blaenau Gwent,3.1552621047962527e-6
+Herefordshire,Torfaen,2.074150992849993e-6
+Herefordshire,Caerphilly,1.5873113933674456e-6
+Herefordshire,Merthyr Tydfil,1.5640955528510362e-6
+Herefordshire,Ceredigion,1.4996319179472808e-6
+Hertfordshire,Luton,2.9526484037007803e-5
+Hertfordshire,Central Bedfordshire,1.6834708462010816e-5
+Hertfordshire,Greater London,7.528759120021545e-6
+Hertfordshire,Buckinghamshire,6.67347236429049e-6
+Hertfordshire,Essex,5.466755062771418e-6
+Hertfordshire,Bedfordshire,4.208264799856949e-6
+Hertfordshire,Milton Keynes,3.1984562498695873e-6
+Hertfordshire,Slough,3.1342776772772064e-6
+Hertfordshire,Cambridgeshire,2.4884501911520537e-6
+Hertfordshire,Thurrock,2.2768860202508944e-6
+Highland,Moray,2.290386550449469e-5
+Highland,Eilean Siar,3.4899852244130868e-6
+Highland,Shetland Islands,3.144116007372309e-6
+Highland,Aberdeen,3.044828153796777e-6
+Highland,Orkney Islands,2.762198844706729e-6
+Highland,Argyll and Bute,2.2853850779244464e-6
+Highland,Aberdeenshire,2.162385731026185e-6
+Highland,Perthshire and Kinross,2.1007170832264914e-6
+Highland,Stirling,1.58671638949102e-6
+Highland,Glasgow,1.5595454796355851e-6
+Inverclyde,Renfrewshire,4.1850451517678736e-5
+Inverclyde,North Ayrshire,2.678010178075513e-5
+Inverclyde,Glasgow,2.1131897327858975e-5
+Inverclyde,West Dunbartonshire,1.9121183624412102e-5
+Inverclyde,East Renfrewshire,1.796616789602477e-5
+Inverclyde,Argyll and Bute,1.7640540177547268e-5
+Inverclyde,East Dunbartonshire,1.5107688192130606e-5
+Inverclyde,South Lanarkshire,9.024043059776517e-6
+Inverclyde,North Lanarkshire,6.702724439066572e-6
+Inverclyde,East Ayrshire,4.017024728364451e-6
+Isle of Wight,Portsmouth,6.449794181043214e-6
+Isle of Wight,Southampton,6.314350688360487e-6
+Isle of Wight,Hampshire,2.008004070164808e-6
+Isle of Wight,Bournemouth,1.5333231015328403e-6
+Isle of Wight,Bracknell Forest,7.44658832450378e-7
+Isle of Wight,West Sussex,6.362190526101065e-7
 Isle of Wight,Merthyr Tydfil,6.050455742541932e-7
-Isle of Wight,Plymouth,5.958381731893301e-7
-Isle of Wight,Brighton and Hove,5.949777448558734e-7
-Isle of Wight,West Sussex,5.890807770455089e-7
-Isle of Wight,West Berkshire,5.502376219800708e-7
-Kent,Medway,3.2725263781393954e-5
-Kent,Thurrock,4.585276376791619e-6
-Kent,East Sussex,4.0059459588870105e-6
-Kent,Greater London,3.7912319106607134e-6
-Kent,Brighton and Hove,1.4985950291802082e-6
-Kent,Southend-on-Sea,1.4487447677784765e-6
-Kent,Surrey,1.355412526721249e-6
-Kent,West Sussex,1.1129993359278498e-6
-Kent,Essex,1.0573418140571934e-6
-Kent,Hertfordshire,7.321144448452506e-7
-Kingston upon Hull,East Riding of Yorkshire,9.408630740165407e-5
-Kingston upon Hull,North Lincolnshire,1.3280558223261264e-5
-Kingston upon Hull,North Yorkshire,4.169557851817107e-6
-Kingston upon Hull,York,4.15296516878352e-6
-Kingston upon Hull,Doncaster,2.1649224494537177e-6
-Kingston upon Hull,Wakefield,1.8807573097796363e-6
-Kingston upon Hull,Leeds,1.5753724661099238e-6
-Kingston upon Hull,Barnsley,1.0322946863264792e-6
-Kingston upon Hull,Lincolnshire,8.233090383977032e-7
-Kingston upon Hull,Darlington,7.621310118315755e-7
-Kirklees,Calderdale,4.49586905030336e-5
-Kirklees,Wakefield,2.1230011542331085e-5
-Kirklees,Leeds,1.9628999940412328e-5
-Kirklees,Bradford,1.7683350236554432e-5
-Kirklees,Barnsley,6.6494022187816924e-6
-Kirklees,Oldham,2.6281632601148274e-6
-Kirklees,Rochdale,2.571411968522049e-6
-Kirklees,York,2.4123935049759464e-6
-Kirklees,Manchester,2.399486298004844e-6
-Kirklees,North Yorkshire,2.228146682876879e-6
-Knowsley,Saint Helens,7.28171699568534e-5
-Knowsley,Sefton,4.6586571176549875e-5
-Knowsley,Halton,3.720458599553985e-5
-Knowsley,Warrington,1.76895903952808e-5
-Knowsley,Wirral,1.7120757909321666e-5
-Knowsley,Wigan,8.168456604077766e-6
-Knowsley,Cheshire West and Chester,5.080590076854517e-6
-Knowsley,Lancashire,3.0640848101496133e-6
-Knowsley,Salford,2.968528362414255e-6
-Knowsley,Manchester,2.833153980596844e-6
-Lancashire,Blackpool,4.032632491737799e-5
-Lancashire,Blackburn with Darwen,3.82016998567583e-5
-Lancashire,Sefton,9.573186101078175e-6
-Lancashire,Wigan,7.077447301596558e-6
-Lancashire,Bury,6.993328220364627e-6
-Lancashire,Bolton,6.79472611931519e-6
-Lancashire,Rochdale,6.005116738077109e-6
-Lancashire,Salford,3.7644073891437202e-6
-Lancashire,Manchester,3.5955614087796567e-6
-Lancashire,Saint Helens,3.5214526030032024e-6
-Leeds,Wakefield,2.5994035226797484e-5
-Leeds,Bradford,2.5695594763508216e-5
-Leeds,Kirklees,1.9628999940412328e-5
-Leeds,Calderdale,1.0354824103255976e-5
-Leeds,York,9.92081831680842e-6
-Leeds,North Yorkshire,9.39965181688523e-6
-Leeds,Barnsley,5.322615327421391e-6
-Leeds,East Riding of Yorkshire,2.6611604856914e-6
-Leeds,Doncaster,2.525944108417257e-6
-Leeds,Sheffield,2.4647743803259488e-6
-Leicester,Leicestershire,8.871113327936241e-5
-Leicester,Rutland,1.3847041398021988e-5
-Leicester,Coventry,5.759670015241937e-6
-Leicester,Northamptonshire,5.450771440642235e-6
-Leicester,Warwickshire,4.83777831302245e-6
-Leicester,Nottingham,4.342172334104657e-6
-Leicester,Derby,3.395663879898895e-6
-Leicester,Nottinghamshire,2.066809852952507e-6
-Leicester,Derbyshire,1.7889520426214444e-6
-Leicester,Birmingham,1.4877793073410586e-6
-Leicestershire,Leicester,8.871113327936241e-5
-Leicestershire,Rutland,1.600120578386217e-5
-Leicestershire,Derby,1.1600144082329754e-5
-Leicestershire,Warwickshire,9.106428080723988e-6
-Leicestershire,Nottingham,8.655070485227031e-6
-Leicestershire,Coventry,6.61567276433818e-6
-Leicestershire,Isles of Scilly,5.096191188893033e-6
-Leicestershire,Derbyshire,4.3405965098586165e-6
-Leicestershire,Northamptonshire,3.5049044475543422e-6
-Leicestershire,Nottinghamshire,3.3571012365119207e-6
-Lincolnshire,Peterborough,1.7712195709154428e-5
-Lincolnshire,Rutland,1.3575498923435177e-5
-Lincolnshire,North Lincolnshire,6.564220664956712e-6
-Lincolnshire,Nottinghamshire,4.7638034937873475e-6
-Lincolnshire,Cambridgeshire,3.83394163496247e-6
-Lincolnshire,Nottingham,2.7075046136913153e-6
-Lincolnshire,Norfolk,1.6249108360129745e-6
-Lincolnshire,Doncaster,1.4492379662296394e-6
-Lincolnshire,Leicestershire,1.3189288813482343e-6
-Lincolnshire,Leicester,1.0166826333530318e-6
-Lisburn and Castlereagh,Belfast,1.2032253303806195e-4
-Lisburn and Castlereagh,North Down and Ards,6.040159539817343e-5
-Lisburn and Castlereagh,Antrim and Newtownabbey,4.100044307324925e-5
-Lisburn and Castlereagh,"Armagh, Banbridge and Craigavon",4.033738183875662e-5
-Lisburn and Castlereagh,"Newry, Mourne and Down",3.0287983601214478e-5
-Lisburn and Castlereagh,Mid and East Antrim,2.1574726014200538e-5
-Lisburn and Castlereagh,Mid Ulster,8.625343734747776e-6
-Lisburn and Castlereagh,Causeway Coast and Glens,7.209469741345008e-6
-Lisburn and Castlereagh,Fermanagh and Omagh,3.692553274779004e-6
-Lisburn and Castlereagh,Derry and Strabane,3.1210361288419372e-6
-Luton,Central Bedfordshire,1.5889072930936498e-4
-Luton,Hertfordshire,2.9273285303783608e-5
-Luton,Bedfordshire,2.465938695015995e-5
-Luton,Milton Keynes,1.529117524688422e-5
-Luton,Buckinghamshire,6.35194834815216e-6
-Luton,Greater London,4.5964518942343504e-6
-Luton,Slough,3.3405988800899977e-6
-Luton,Northamptonshire,2.8385464760811746e-6
-Luton,Cambridgeshire,1.6654478215693107e-6
-Luton,Thurrock,1.4898630012370765e-6
-Manchester,Trafford,8.020360817870743e-5
-Manchester,Salford,7.454879242336672e-5
-Manchester,Stockport,6.359869032245672e-5
-Manchester,Tameside,5.146531052008019e-5
-Manchester,Oldham,4.8098529513883234e-5
-Manchester,Bury,4.059444032190721e-5
-Manchester,Rochdale,3.5542027554319266e-5
-Manchester,Bolton,1.5277793080731766e-5
-Manchester,Wigan,1.0789994951290845e-5
-Manchester,Warrington,9.711429495999057e-6
-Medway,Kent,3.2725263781393954e-5
-Medway,Greater London,4.736839440397847e-6
-Medway,Thurrock,4.62860725858411e-6
-Medway,Southend-on-Sea,1.8440514041465837e-6
-Medway,East Sussex,1.5146587495626906e-6
-Medway,Surrey,1.503337290316948e-6
-Medway,Essex,1.4483650891238177e-6
-Medway,Brighton and Hove,9.983628517410842e-7
-Medway,West Sussex,9.772743150334905e-7
-Medway,Hertfordshire,9.659874815459917e-7
-Merthyr Tydfil,"Rhondda, Cynon, Taff",6.468568214572799e-5
-Merthyr Tydfil,Blaenau Gwent,6.396492141665385e-5
-Merthyr Tydfil,Caerphilly,5.6598602617751235e-5
-Merthyr Tydfil,Cardiff,2.709643243453695e-5
-Merthyr Tydfil,Vale of Glamorgan,1.3708636883323364e-5
-Merthyr Tydfil,Torfaen,1.2598029573900709e-5
-Merthyr Tydfil,Bridgend,1.1542886719176266e-5
-Merthyr Tydfil,Newport,1.1408816497246625e-5
-Merthyr Tydfil,Powys,1.0555067620987063e-5
-Merthyr Tydfil,Monmouthshire,9.659070670944103e-6
-Mid and East Antrim,Antrim and Newtownabbey,9.439185887474442e-5
-Mid and East Antrim,Belfast,4.575740355443835e-5
-Mid and East Antrim,Causeway Coast and Glens,3.6561019013175736e-5
-Mid and East Antrim,Lisburn and Castlereagh,2.1574726014200538e-5
-Mid and East Antrim,Mid Ulster,1.934484654512955e-5
-Mid and East Antrim,North Down and Ards,1.570626074953171e-5
-Mid and East Antrim,"Armagh, Banbridge and Craigavon",6.416633041729243e-6
-Mid and East Antrim,"Newry, Mourne and Down",5.237977680324904e-6
-Mid and East Antrim,Derry and Strabane,2.944044562498673e-6
-Mid and East Antrim,Fermanagh and Omagh,2.03917820057837e-6
-Mid Ulster,"Armagh, Banbridge and Craigavon",3.240747388802809e-5
-Mid Ulster,Fermanagh and Omagh,2.38853179754945e-5
-Mid Ulster,Antrim and Newtownabbey,1.9704688223499447e-5
-Mid Ulster,Mid and East Antrim,1.934484654512955e-5
-Mid Ulster,Causeway Coast and Glens,1.761601058638755e-5
-Mid Ulster,Belfast,1.2368280973884293e-5
-Mid Ulster,Lisburn and Castlereagh,8.625343734747776e-6
-Mid Ulster,Derry and Strabane,8.032436718605252e-6
-Mid Ulster,"Newry, Mourne and Down",5.59348137510476e-6
-Mid Ulster,North Down and Ards,4.411592034123137e-6
-Middlesbrough,Redcar and Cleveland,1.4711310615448796e-4
-Middlesbrough,Stockton-on-Tees,1.1958798671094837e-4
-Middlesbrough,Darlington,3.529921101405949e-5
-Middlesbrough,Hartlepool,3.356675461436911e-5
-Middlesbrough,North Yorkshire,8.817152594466624e-6
-Middlesbrough,Durham,7.343419439815057e-6
-Middlesbrough,Sunderland,3.4888545380342796e-6
-Middlesbrough,Newcastle upon Tyne,3.230126068877157e-6
-Middlesbrough,Gateshead,3.003500778053846e-6
-Middlesbrough,North Tyneside,2.706616522059779e-6
-Midlothian,Edinburgh,1.016017577196692e-4
-Midlothian,East Lothian,7.73549735099153e-5
-Midlothian,Scottish Borders,2.167632881625422e-5
-Midlothian,West Lothian,1.7803337681941395e-5
-Midlothian,Falkirk,7.344157108409395e-6
-Midlothian,Fife,6.607306392667412e-6
-Midlothian,Stirling,3.3990138298603225e-6
-Midlothian,Clackmannanshire,2.9243094413765882e-06
-Midlothian,Perthshire and Kinross,2.7058833132753765e-6
-Midlothian,South Lanarkshire,2.6551913895043615e-6
-Milton Keynes,Central Bedfordshire,2.737188467672561e-5
-Milton Keynes,Bedfordshire,2.2570175209191898e-5
-Milton Keynes,Luton,1.529117524688422e-5
-Milton Keynes,Northamptonshire,1.341392770993864e-5
-Milton Keynes,Buckinghamshire,1.2772439867687093e-5
-Milton Keynes,Hertfordshire,3.159924696101892e-6
-Milton Keynes,Oxfordshire,2.5939266205307236e-6
-Milton Keynes,Coventry,1.4831042949218685e-6
-Milton Keynes,Slough,1.4497046251105168e-6
-Milton Keynes,Cambridgeshire,1.4303852701833037e-6
-Monmouthshire,Blaenau Gwent,7.595957134744159e-5
-Monmouthshire,Newport,6.387686566082488e-5
-Monmouthshire,Torfaen,6.256419771417597e-5
-Monmouthshire,Herefordshire,1.5532566137060425e-5
-Monmouthshire,Bristol,1.5048049863302043e-5
-Monmouthshire,Caerphilly,1.4968078549774622e-5
-Monmouthshire,Cardiff,1.3180707784496549e-5
-Monmouthshire,South Gloucestershire,1.2234686775093882e-5
-Monmouthshire,Gloucestershire,9.85215242701138e-6
-Monmouthshire,Merthyr Tydfil,9.659070670944103e-6
-Moray,Highland,2.2814674667486475e-5
-Moray,Aberdeenshire,1.4591027327853029e-5
-Moray,Aberdeen,1.1137289418087403e-5
-Moray,Orkney Islands,2.695041013216482e-6
-Moray,Angus,1.4117456140565304e-6
-Moray,Dundee,1.2404565436974614e-6
-Moray,Perthshire and Kinross,1.2170930093467422e-6
-Moray,Glasgow,9.71443158906075e-7
-Moray,Edinburgh,8.345173569665231e-7
-Moray,Shetland Islands,7.897477371037666e-7
-Neath Port Talbot,Swansea,1.2183293261593371e-4
-Neath Port Talbot,Bridgend,4.489659161847973e-5
-Neath Port Talbot,Carmarthenshire,2.7982764705445706e-5
-Neath Port Talbot,Powys,1.4261452362171631e-5
-Neath Port Talbot,"Rhondda, Cynon, Taff",1.2786097271405575e-5
-Neath Port Talbot,Vale of Glamorgan,9.461257927308475e-6
-Neath Port Talbot,Cardiff,9.167555088912032e-6
-Neath Port Talbot,Merthyr Tydfil,7.942846628915897e-6
-Neath Port Talbot,Ceredigion,3.912863235663545e-6
-Neath Port Talbot,Newport,3.7651433498460294e-6
-Newcastle upon Tyne,North Tyneside,1.0794552507129724e-4
-Newcastle upon Tyne,Gateshead,9.138494958176223e-5
-Newcastle upon Tyne,South Tyneside,4.464638823930786e-5
-Newcastle upon Tyne,Northumberland,3.918519585008672e-5
-Newcastle upon Tyne,Sunderland,2.0854215652243134e-5
-Newcastle upon Tyne,Durham,1.4680445413424798e-5
-Newcastle upon Tyne,Hartlepool,4.992622096325529e-6
-Newcastle upon Tyne,Darlington,4.711327633587368e-6
-Newcastle upon Tyne,Stockton-on-Tees,4.005761540278697e-6
-Newcastle upon Tyne,Middlesbrough,3.230126068877157e-6
-Newport,Torfaen,1.1182475460868984e-4
-Newport,Monmouthshire,6.387686566082488e-5
-Newport,Caerphilly,5.334019060303877e-5
-Newport,Cardiff,4.442134556499003e-5
-Newport,Blaenau Gwent,2.439589199122071e-5
-Newport,South Gloucestershire,1.8285325186827337e-5
-Newport,Vale of Glamorgan,1.59400008153377e-5
-Newport,"Rhondda, Cynon, Taff",1.285696834440722e-5
-Newport,Merthyr Tydfil,1.1408816497246625e-5
-Newport,Bristol,1.062970636432603e-5
-"Newry, Mourne and Down","Armagh, Banbridge and Craigavon",3.307800298714561e-5
-"Newry, Mourne and Down",Lisburn and Castlereagh,3.0287983601214478e-5
-"Newry, Mourne and Down",Belfast,2.656162250785116e-5
-"Newry, Mourne and Down",North Down and Ards,1.5654683349435363e-5
-"Newry, Mourne and Down",Antrim and Newtownabbey,8.591078296294759e-6
-"Newry, Mourne and Down",Mid Ulster,5.59348137510476e-6
-"Newry, Mourne and Down",Mid and East Antrim,5.237977680324904e-6
-"Newry, Mourne and Down",Causeway Coast and Glens,2.3835542722824114e-6
-"Newry, Mourne and Down",Fermanagh and Omagh,2.071788532912726e-6
-"Newry, Mourne and Down",Derry and Strabane,1.9766456725679254e-6
-Norfolk,Suffolk,1.1300539094884427e-5
-Norfolk,Cambridgeshire,5.228696288071962e-6
-Norfolk,Peterborough,2.0840583329999357e-6
-Norfolk,Lincolnshire,1.6249108360129745e-6
-Norfolk,Essex,6.786742858059469e-7
-Norfolk,Bedfordshire,5.638380989816203e-7
-Norfolk,Central Bedfordshire,4.7340166189369793e-7
-Norfolk,Hertfordshire,4.551839680973334e-7
-Norfolk,Luton,4.0874850060671214e-7
-Norfolk,Rutland,3.843373553387536e-7
-North Ayrshire,East Ayrshire,7.060697705908896e-5
-North Ayrshire,South Ayrshire,5.187135933372171e-5
-North Ayrshire,Inverclyde,2.6745763805437778e-5
-North Ayrshire,Renfrewshire,2.4510688826423405e-5
-North Ayrshire,Glasgow,1.7557489761806097e-5
-North Ayrshire,East Renfrewshire,1.717953843579724e-5
-North Ayrshire,East Dunbartonshire,9.59452360311946e-6
-North Ayrshire,West Dunbartonshire,9.330756582344255e-6
-North Ayrshire,South Lanarkshire,8.006670226564878e-6
-North Ayrshire,North Lanarkshire,5.768593064221898e-6
-North Down and Ards,Belfast,6.924980860210852e-5
-North Down and Ards,Lisburn and Castlereagh,6.040159539817343e-5
-North Down and Ards,Antrim and Newtownabbey,2.3221120482212708e-5
-North Down and Ards,Mid and East Antrim,1.570626074953171e-5
-North Down and Ards,"Newry, Mourne and Down",1.5654683349435363e-5
-North Down and Ards,"Armagh, Banbridge and Craigavon",9.818245001851502e-6
-North Down and Ards,Mid Ulster,4.411592034123137e-6
-North Down and Ards,Causeway Coast and Glens,4.316031377512953e-6
-North Down and Ards,Fermanagh and Omagh,1.932593106430246e-6
-North Down and Ards,Derry and Strabane,1.6310563850307e-6
-North Lanarkshire,South Lanarkshire,3.968276459213272e-5
-North Lanarkshire,Glasgow,3.639450722000976e-5
-North Lanarkshire,East Dunbartonshire,3.424965613091982e-5
-North Lanarkshire,East Renfrewshire,1.9868220049764262e-5
-North Lanarkshire,Falkirk,1.5542101418475876e-5
-North Lanarkshire,Renfrewshire,1.4967188585860157e-5
-North Lanarkshire,West Lothian,1.22157120348334e-5
-North Lanarkshire,West Dunbartonshire,1.1347361309317576e-5
-North Lanarkshire,Stirling,8.222504581290911e-6
-North Lanarkshire,Inverclyde,6.768191758546324e-6
-North Lincolnshire,Doncaster,1.4468316368940513e-5
-North Lincolnshire,Kingston upon Hull,1.3280558223261264e-5
-North Lincolnshire,East Riding of Yorkshire,9.3348949868981e-6
-North Lincolnshire,Lincolnshire,6.564220664956712e-6
-North Lincolnshire,Rotherham,1.8968108457056192e-6
-North Lincolnshire,Sheffield,1.785462756590787e-6
-North Lincolnshire,York,1.6212734243454094e-6
-North Lincolnshire,Barnsley,1.4851545732506778e-6
-North Lincolnshire,Rutland,1.4826567912465036e-6
-North Lincolnshire,Wakefield,1.3827135276641094e-6
-North Somerset,Bristol,5.551909526243827e-5
-North Somerset,South Gloucestershire,2.896885075695618e-5
-North Somerset,Somerset,2.0167223025308137e-5
-North Somerset,Bath and North East Somerset,1.1205951694898183e-5
-North Somerset,Monmouthshire,4.80539308387278e-6
-North Somerset,Newport,4.351633481030448e-6
-North Somerset,Gloucestershire,2.5924632715699816e-6
-North Somerset,Swindon,2.222976648506898e-6
-North Somerset,Wiltshire,2.1930816319724127e-6
-North Somerset,Cardiff,2.116588231940562e-6
-North Tyneside,Newcastle upon Tyne,1.0794552507129724e-4
-North Tyneside,Northumberland,4.795665022198949e-5
-North Tyneside,Gateshead,4.069645741329796e-5
-North Tyneside,South Tyneside,2.9154328215084287e-5
-North Tyneside,Sunderland,1.3169780890119386e-5
-North Tyneside,Durham,7.998356492884673e-6
-North Tyneside,Hartlepool,3.941944913794934e-6
-North Tyneside,Middlesbrough,2.706616522059779e-6
-North Tyneside,Redcar and Cleveland,2.5683062760524635e-6
-North Tyneside,Stockton-on-Tees,2.3521866191664123e-6
-North Yorkshire,York,3.154896286200863e-5
-North Yorkshire,Darlington,1.6528119871184405e-5
-North Yorkshire,East Riding of Yorkshire,1.1633593793020723e-5
-North Yorkshire,Leeds,9.39965181688523e-6
-North Yorkshire,Middlesbrough,8.817152594466624e-6
-North Yorkshire,Redcar and Cleveland,8.60401911644032e-6
-North Yorkshire,Bradford,7.515735862660693e-6
-North Yorkshire,Wakefield,7.1749953110559986e-6
-North Yorkshire,Stockton-on-Tees,6.276731606697871e-6
-North Yorkshire,Kingston upon Hull,4.169557851817107e-6
-Northamptonshire,Milton Keynes,1.341392770993864e-5
-Northamptonshire,Bedfordshire,1.1450117730799956e-5
-Northamptonshire,Rutland,9.975855311733977e-6
-Northamptonshire,Leicester,5.450771440642235e-6
-Northamptonshire,Peterborough,5.146689943349296e-6
-Northamptonshire,Warwickshire,4.997582433474117e-6
-Northamptonshire,Coventry,4.614278423218545e-6
-Northamptonshire,Leicestershire,3.5049044475543422e-6
-Northamptonshire,Oxfordshire,3.5038368139221227e-6
-Northamptonshire,Central Bedfordshire,3.3304000398417353e-6
-Northumberland,North Tyneside,4.795665022198949e-5
-Northumberland,Newcastle upon Tyne,3.918519585008672e-5
-Northumberland,Gateshead,2.0180278444479997e-5
-Northumberland,Isles of Scilly,1.6386763038548753e-5
-Northumberland,South Tyneside,1.083496280151602e-5
-Northumberland,Scottish Borders,8.360814462844094e-6
-Northumberland,Sunderland,5.934962471924524e-6
-Northumberland,Durham,4.758656055139473e-6
-Northumberland,Darlington,1.7795780397420453e-6
-Northumberland,Hartlepool,1.7564308345155882e-6
-Nottingham,Nottinghamshire,6.82624565948893e-5
-Nottingham,Derby,1.6362135030538285e-5
-Nottingham,Derbyshire,1.624169919842134e-5
-Nottingham,Leicestershire,8.655070485227031e-6
-Nottingham,Leicester,4.342172334104657e-6
-Nottingham,Lincolnshire,2.7075046136913153e-6
-Nottingham,Rutland,2.2137766498187346e-6
-Nottingham,Sheffield,1.4243015342902961e-06
-Nottingham,Coventry,1.352176257568652e-6
-Nottingham,Staffordshire,1.3126122407588404e-6
-Nottinghamshire,Nottingham,6.82624565948893e-5
-Nottinghamshire,Derbyshire,1.8622672264264034e-5
-Nottinghamshire,Derby,8.859498506271664e-6
-Nottinghamshire,Doncaster,4.841969711453038e-6
-Nottinghamshire,Lincolnshire,4.7638034937873475e-6
-Nottinghamshire,Rotherham,4.288458271281468e-6
-Nottinghamshire,Leicestershire,3.3571012365119207e-6
-Nottinghamshire,Sheffield,2.9147096454763522e-6
-Nottinghamshire,Leicester,2.066809852952507e-6
-Nottinghamshire,Barnsley,1.5480783161034386e-6
-Oldham,Rochdale,7.344683792199622e-5
-Oldham,Tameside,5.019970153458841e-5
-Oldham,Manchester,4.8098529513883234e-5
-Oldham,Salford,2.241644516192496e-5
-Oldham,Bury,1.9923230244005335e-5
-Oldham,Stockport,1.917327884524356e-5
-Oldham,Trafford,1.455604205163564e-5
-Oldham,Bolton,8.117782208006416e-6
-Oldham,Wigan,5.446312310696531e-6
-Oldham,Calderdale,4.582021308471178e-6
-Oxfordshire,Reading,1.2459425605345453e-5
-Oxfordshire,Buckinghamshire,8.685548156145406e-6
-Oxfordshire,Swindon,7.7739481480813e-6
-Oxfordshire,West Berkshire,7.0668271167556164e-6
-Oxfordshire,Wokingham,5.16327572012895e-6
-Oxfordshire,Windsor and Maidenhead,3.5360121717923344e-6
-Oxfordshire,Northamptonshire,3.5038368139221227e-6
-Oxfordshire,Slough,3.047097809938223e-6
-Oxfordshire,Warwickshire,2.9151921102724177e-6
-Oxfordshire,Milton Keynes,2.5939266205307236e-6
-Pembrokeshire,Carmarthenshire,2.0254925541389622e-5
-Pembrokeshire,Ceredigion,1.7712168076101264e-5
-Pembrokeshire,Swansea,5.779020309006419e-6
-Pembrokeshire,Neath Port Talbot,2.8652864306463183e-6
-Pembrokeshire,Cardiff,2.528514140336426e-6
-Pembrokeshire,Bridgend,1.910418776933291e-6
-Pembrokeshire,"Rhondda, Cynon, Taff",1.7734742280591883e-6
-Pembrokeshire,Vale of Glamorgan,1.5990364900513659e-6
-Pembrokeshire,Merthyr Tydfil,1.4652593195846904e-6
-Pembrokeshire,Caerphilly,1.4156406506749977e-6
-Perthshire and Kinross,Dundee,5.6120396788626706e-5
-Perthshire and Kinross,Angus,1.913383198219372e-5
-Perthshire and Kinross,Fife,1.2507045859790358e-5
-Perthshire and Kinross,Stirling,9.872067710699533e-6
-Perthshire and Kinross,Clackmannanshire,7.936631092991212e-6
-Perthshire and Kinross,Edinburgh,4.153806393538215e-6
-Perthshire and Kinross,Falkirk,3.440065487580966e-6
-Perthshire and Kinross,Midlothian,2.7058833132753765e-6
-Perthshire and Kinross,North Lanarkshire,2.611185086557823e-6
-Perthshire and Kinross,Glasgow,2.608959061953094e-6
-Peterborough,Cambridgeshire,4.280624184557334e-5
-Peterborough,Rutland,2.3911068859777e-5
-Peterborough,Lincolnshire,1.7712195709154428e-5
-Peterborough,Northamptonshire,5.146689943349296e-6
-Peterborough,Bedfordshire,3.5532704100101207e-6
-Peterborough,Norfolk,2.0840583329999357e-6
-Peterborough,Central Bedfordshire,1.463446925126924e-6
-Peterborough,Luton,1.4451922796294143e-6
-Peterborough,Leicester,1.1084310010394742e-6
-Peterborough,Leicestershire,9.93399186065518e-7
-Plymouth,Cornwall,2.6056577816476502e-5
-Plymouth,Devon,2.330147913774299e-5
-Plymouth,Torbay,1.2503909586596119e-5
-Plymouth,Somerset,1.6685356581261513e-6
-Plymouth,North Somerset,1.1889942927641806e-6
-Plymouth,Bristol,1.1597700977572525e-6
-Plymouth,Dorset,8.901084861919683e-7
-Plymouth,South Gloucestershire,8.415328655528467e-7
-Plymouth,Bath and North East Somerset,7.645041055804502e-7
-Plymouth,Bournemouth,6.159420189506834e-7
-Poole,Bournemouth,2.602096208738077e-4
-Poole,Dorset,7.991095508573173e-5
-Poole,Southampton,7.11164830648061e-6
-Poole,Hampshire,4.028285121593257e-6
-Poole,Portsmouth,2.3108358618926867e-6
-Poole,Wiltshire,2.266751813342959e-6
-Poole,Bath and North East Somerset,1.0423549356827152e-6
-Poole,Somerset,1.0242407983381337e-6
-Poole,Reading,9.963348871218632e-7
-Poole,Windsor and Maidenhead,7.951194894754385e-7
-Portsmouth,Hampshire,5.252044254207937e-5
-Portsmouth,Southampton,2.5553076893840898e-5
-Portsmouth,West Sussex,1.1194610630199311e-5
-Portsmouth,Isle of Wight,6.341880433404561e-6
-Portsmouth,Bournemouth,3.2673601597737606e-6
-Portsmouth,Brighton and Hove,3.130710417411579e-6
-Portsmouth,Poole,2.3108358618926867e-6
-Portsmouth,Surrey,2.105794481283794e-6
-Portsmouth,Reading,1.6356775284168682e-6
-Portsmouth,Dorset,1.6022869189382117e-6
-Powys,Ceredigion,2.0597199805121798e-5
-Powys,Shropshire,2.051918943707395e-5
-Powys,Neath Port Talbot,1.4261452362171631e-5
-Powys,Herefordshire,1.1612961687198586e-5
-Powys,Merthyr Tydfil,1.0555067620987063e-5
-Powys,Monmouthshire,8.837458635357674e-6
-Powys,Blaenau Gwent,8.351548940198556e-6
-Powys,Swansea,7.99293998763335e-6
-Powys,Gwynedd,5.184893716115044e-6
-Powys,Telford and Wrekin,5.011716554385712e-6
-Reading,Wokingham,2.0172498803203024e-4
-Reading,West Berkshire,1.3072895738300793e-4
-Reading,Bracknell Forest,4.3141674669333014e-5
-Reading,Windsor and Maidenhead,2.323238214242778e-5
-Reading,Slough,2.0320444541466533e-5
-Reading,Oxfordshire,1.2459425605345453e-5
-Reading,Hampshire,7.266981862644095e-6
-Reading,Swindon,6.0671986317237125e-6
-Reading,Buckinghamshire,4.715999607534098e-6
-Reading,Surrey,3.829033000807722e-6
-Redcar and Cleveland,Middlesbrough,1.4711310615448796e-4
-Redcar and Cleveland,Stockton-on-Tees,5.360861424445415e-5
-Redcar and Cleveland,Darlington,2.046264315626264e-5
-Redcar and Cleveland,Hartlepool,1.5598668360988677e-5
-Redcar and Cleveland,North Yorkshire,8.60401911644032e-6
-Redcar and Cleveland,Durham,3.879628511843405e-6
-Redcar and Cleveland,Sunderland,2.705183617321725e-6
-Redcar and Cleveland,North Tyneside,2.5683062760524635e-6
-Redcar and Cleveland,Gateshead,2.238776365418191e-6
-Redcar and Cleveland,York,2.164863145118562e-6
-Renfrewshire,East Renfrewshire,7.514803859090604e-5
-Renfrewshire,Glasgow,5.875929162418179e-5
-Renfrewshire,Inverclyde,4.1898963186345905e-5
-Renfrewshire,West Dunbartonshire,3.955431092626925e-5
-Renfrewshire,East Dunbartonshire,2.9014876070161254e-5
-Renfrewshire,North Ayrshire,2.4510688826423405e-5
-Renfrewshire,South Lanarkshire,1.8597903942930486e-5
-Renfrewshire,North Lanarkshire,1.4967188585860157e-5
-Renfrewshire,East Ayrshire,1.1021692245472333e-5
-Renfrewshire,Argyll and Bute,1.0639914036929115e-5
-"Rhondda, Cynon, Taff",Merthyr Tydfil,6.468568214572799e-5
-"Rhondda, Cynon, Taff",Cardiff,5.378695703913671e-5
-"Rhondda, Cynon, Taff",Bridgend,3.173239393205247e-5
-"Rhondda, Cynon, Taff",Caerphilly,2.6950567526207816e-5
-"Rhondda, Cynon, Taff",Vale of Glamorgan,2.4806776213718524e-5
-"Rhondda, Cynon, Taff",Newport,1.285696834440722e-5
-"Rhondda, Cynon, Taff",Neath Port Talbot,1.2786097271405575e-5
-"Rhondda, Cynon, Taff",Blaenau Gwent,1.2112230120254756e-5
-"Rhondda, Cynon, Taff",Torfaen,9.949043076571555e-6
-"Rhondda, Cynon, Taff",Swansea,7.313045782906713e-6
-Rochdale,Oldham,7.344683792199622e-5
-Rochdale,Bury,5.403028247218119e-5
-Rochdale,Manchester,3.5542027554319266e-5
-Rochdale,Salford,2.0254602412809333e-5
-Rochdale,Tameside,1.5925887473998333e-5
-Rochdale,Trafford,1.1920749688900836e-5
-Rochdale,Bolton,1.026478523004258e-5
-Rochdale,Stockport,9.80903302921026e-6
-Rochdale,Calderdale,8.21355306730867e-6
-Rochdale,Lancashire,6.005116738077109e-6
-Rotherham,Sheffield,4.7251640784786884e-5
-Rotherham,Barnsley,3.2221477134658384e-5
-Rotherham,Doncaster,2.7502444101435214e-5
-Rotherham,Derbyshire,4.824245457905966e-6
-Rotherham,Nottinghamshire,4.288458271281468e-6
-Rotherham,Wakefield,3.7045920666281616e-6
-Rotherham,Leeds,2.2402926360382083e-6
-Rotherham,North Lincolnshire,1.8968108457056192e-6
-Rotherham,York,1.653927966878686e-6
-Rotherham,Kirklees,1.581130980310691e-6
-Rutland,Peterborough,2.3911068859777e-5
-Rutland,Leicestershire,1.600120578386217e-5
-Rutland,Leicester,1.3847041398021988e-5
-Rutland,Lincolnshire,1.3575498923435177e-5
-Rutland,Northamptonshire,9.975855311733977e-6
-Rutland,Cambridgeshire,3.288597357033037e-6
-Rutland,Nottingham,2.2137766498187346e-6
-Rutland,North Lincolnshire,1.4826567912465036e-6
-Rutland,Nottinghamshire,1.2615270045529474e-6
+Isle of Wight,Plymouth,5.853574152452733e-7
+Isle of Wight,Brighton and Hove,5.805261736451331e-7
+Isle of Wight,West Berkshire,5.424294778777532e-7
+Kent,Medway,3.307601464378018e-5
+Kent,Thurrock,4.63815989570944e-6
+Kent,East Sussex,4.064255494511731e-6
+Kent,Greater London,3.797176600577352e-6
+Kent,Brighton and Hove,1.5461535339256082e-6
+Kent,Southend-on-Sea,1.4163203217105173e-6
+Kent,Surrey,1.3580278006554515e-6
+Kent,West Sussex,1.120921288560916e-6
+Kent,Essex,1.0530774351046087e-6
+Kent,Hertfordshire,7.203847828390272e-7
+Kingston upon Hull,East Riding of Yorkshire,9.454846954255066e-5
+Kingston upon Hull,North Lincolnshire,1.3432936154902737e-5
+Kingston upon Hull,York,4.241898405992265e-6
+Kingston upon Hull,North Yorkshire,4.176945704048267e-6
+Kingston upon Hull,Doncaster,2.17845173871625e-6
+Kingston upon Hull,Wakefield,1.8992640807056774e-6
+Kingston upon Hull,Leeds,1.5649607923996125e-6
+Kingston upon Hull,Barnsley,1.0325480204713823e-6
+Kingston upon Hull,Lincolnshire,8.391703182875368e-7
+Kingston upon Hull,Sheffield,7.573579674394479e-7
+Kirklees,Calderdale,4.5059067120540324e-5
+Kirklees,Wakefield,2.1353581558674627e-5
+Kirklees,Leeds,1.96180046828124e-5
+Kirklees,Bradford,1.778303295770452e-5
+Kirklees,Barnsley,6.684243669606289e-6
+Kirklees,Oldham,2.6220320116911363e-6
+Kirklees,Rochdale,2.550678574024953e-6
+Kirklees,York,2.3988136726969665e-6
+Kirklees,Manchester,2.3855233913623024e-6
+Kirklees,North Yorkshire,2.2543525061749265e-6
+Knowsley,Saint Helens,7.375251368721212e-5
+Knowsley,Sefton,4.711597050768609e-5
+Knowsley,Halton,3.780658060246314e-5
+Knowsley,Warrington,1.7687877821499103e-5
+Knowsley,Wirral,1.7004110671084542e-5
+Knowsley,Wigan,8.205413669385801e-6
+Knowsley,Cheshire West and Chester,5.096535094530552e-6
+Knowsley,Lancashire,3.060900314307996e-6
+Knowsley,Salford,3.033766167382636e-6
+Knowsley,Manchester,2.851192586330905e-6
+Lancashire,Blackpool,4.071228200787769e-5
+Lancashire,Blackburn with Darwen,3.8821471386669166e-5
+Lancashire,Sefton,9.656291348183137e-6
+Lancashire,Wigan,7.1186337697215195e-6
+Lancashire,Bury,7.064870468409476e-6
+Lancashire,Bolton,6.8554555305097445e-6
+Lancashire,Rochdale,6.075673216879864e-6
+Lancashire,Salford,3.7966311530924206e-6
+Lancashire,Manchester,3.6013755804216613e-6
+Lancashire,Saint Helens,3.5829994570825157e-6
+Leeds,Wakefield,2.5979505094303222e-5
+Leeds,Bradford,2.5771581769844007e-5
+Leeds,Kirklees,1.96180046828124e-5
+Leeds,Calderdale,1.0292532419024183e-5
+Leeds,York,9.897709751886803e-6
+Leeds,North Yorkshire,9.420275836555313e-6
+Leeds,Barnsley,5.353602007326919e-6
+Leeds,East Riding of Yorkshire,2.6973102846242786e-6
+Leeds,Doncaster,2.5596813100283498e-6
+Leeds,Sheffield,2.4450484776108157e-6
+Leicester,Leicestershire,8.8379417316807e-5
+Leicester,Rutland,1.3921865861711199e-5
+Leicester,Coventry,5.736336969354858e-6
+Leicester,Northamptonshire,5.45382472557529e-6
+Leicester,Warwickshire,4.841561348918863e-6
+Leicester,Nottingham,4.3058263869416645e-6
+Leicester,Derby,3.4888892442774818e-6
+Leicester,Nottinghamshire,2.101214502187945e-6
+Leicester,Derbyshire,1.775102072966288e-6
+Leicester,Birmingham,1.4637350823521925e-6
+Leicestershire,Leicester,8.8379417316807e-5
+Leicestershire,Rutland,1.5975435558456522e-5
+Leicestershire,Derby,1.1661469204299846e-5
+Leicestershire,Warwickshire,9.203352451200344e-6
+Leicestershire,Nottingham,8.702448191543087e-6
+Leicestershire,Coventry,6.673072653693681e-6
+Leicestershire,Derbyshire,4.367949207496828e-6
+Leicestershire,Isles of Scilly,3.82639816551241e-6
+Leicestershire,Northamptonshire,3.5166741919548185e-6
+Leicestershire,Nottinghamshire,3.375381135439086e-6
+Lincolnshire,Peterborough,1.790577037534826e-5
+Lincolnshire,Rutland,1.359068913537803e-5
+Lincolnshire,North Lincolnshire,6.6105547586959446e-6
+Lincolnshire,Nottinghamshire,4.806258383508825e-6
+Lincolnshire,Cambridgeshire,3.867001139414786e-6
+Lincolnshire,Nottingham,2.710937533012816e-6
+Lincolnshire,Norfolk,1.6552921648300781e-6
+Lincolnshire,Doncaster,1.4721832056025854e-6
+Lincolnshire,Leicestershire,1.3442156424468488e-6
+Lincolnshire,Leicester,9.957048786928892e-7
+Lisburn and Castlereagh,Belfast,1.2099536977282276e-4
+Lisburn and Castlereagh,North Down and Ards,6.061687135323683e-5
+Lisburn and Castlereagh,Antrim and Newtownabbey,4.1104852535368525e-5
+Lisburn and Castlereagh,"Armagh, Banbridge and Craigavon",4.097667024361369e-5
+Lisburn and Castlereagh,"Newry, Mourne and Down",3.070632947425336e-5
+Lisburn and Castlereagh,Mid and East Antrim,2.1606024573725344e-5
+Lisburn and Castlereagh,Mid Ulster,8.725690414679261e-6
+Lisburn and Castlereagh,Causeway Coast and Glens,7.529493383983421e-6
+Lisburn and Castlereagh,Fermanagh and Omagh,3.7946886979540816e-6
+Lisburn and Castlereagh,Derry and Strabane,3.174034228736553e-6
+Luton,Central Bedfordshire,1.603949417539369e-4
+Luton,Hertfordshire,2.9526484037007803e-5
+Luton,Bedfordshire,2.521169233166974e-5
+Luton,Milton Keynes,1.5537560040876057e-5
+Luton,Buckinghamshire,6.35452854850818e-6
+Luton,Greater London,4.61928790378207e-6
+Luton,Slough,3.501498691216817e-6
+Luton,Northamptonshire,2.8193262587018435e-6
+Luton,Cambridgeshire,1.7085289606157147e-6
+Luton,Thurrock,1.4840944601141656e-6
+Manchester,Trafford,8.029022272886524e-5
+Manchester,Salford,7.487834933954919e-5
+Manchester,Stockport,6.387086819423777e-5
+Manchester,Tameside,5.1813358222200465e-5
+Manchester,Oldham,4.821418093516827e-5
+Manchester,Bury,4.047750461033445e-5
+Manchester,Rochdale,3.567501406180827e-5
+Manchester,Bolton,1.5187391666909561e-5
+Manchester,Wigan,1.0747835582136642e-5
+Manchester,Warrington,9.656762649251735e-6
+Medway,Kent,3.307601464378018e-5
+Medway,Greater London,4.7359453341514564e-6
+Medway,Thurrock,4.650635482503504e-6
+Medway,Southend-on-Sea,1.8220794309692895e-6
+Medway,East Sussex,1.5565771469796086e-6
+Medway,Surrey,1.4893158112100804e-6
+Medway,Essex,1.4443762771131546e-6
+Medway,Brighton and Hove,1.0140112858767567e-6
+Medway,West Sussex,9.82199685468629e-7
+Medway,Hertfordshire,9.464143232120864e-7
+Merthyr Tydfil,"Rhondda, Cynon, Taff",6.44943589094521e-5
+Merthyr Tydfil,Blaenau Gwent,6.370689605308118e-5
+Merthyr Tydfil,Caerphilly,5.6587575087635606e-5
+Merthyr Tydfil,Cardiff,2.6796492246715176e-5
+Merthyr Tydfil,Vale of Glamorgan,1.3428973397867487e-5
+Merthyr Tydfil,Torfaen,1.2522857306797408e-5
+Merthyr Tydfil,Bridgend,1.1954968970623468e-5
+Merthyr Tydfil,Newport,1.1239463625315595e-5
+Merthyr Tydfil,Powys,1.0332367243165459e-5
+Merthyr Tydfil,Monmouthshire,9.663256640714453e-6
+Mid and East Antrim,Antrim and Newtownabbey,9.537347247904345e-5
+Mid and East Antrim,Belfast,4.615201246243675e-5
+Mid and East Antrim,Causeway Coast and Glens,3.761114172343145e-5
+Mid and East Antrim,Lisburn and Castlereagh,2.1606024573725344e-5
+Mid and East Antrim,Mid Ulster,1.9765156055232957e-5
+Mid and East Antrim,North Down and Ards,1.5705318807096522e-5
+Mid and East Antrim,"Armagh, Banbridge and Craigavon",6.443835104023347e-6
+Mid and East Antrim,"Newry, Mourne and Down",5.234310012637276e-6
+Mid and East Antrim,Derry and Strabane,3.0096816596048334e-6
+Mid and East Antrim,Fermanagh and Omagh,2.0720942183729114e-6
+Mid Ulster,"Armagh, Banbridge and Craigavon",3.2960274412509916e-5
+Mid Ulster,Fermanagh and Omagh,2.4344684129785275e-5
+Mid Ulster,Antrim and Newtownabbey,1.9846700360987506e-5
+Mid Ulster,Mid and East Antrim,1.9765156055232957e-5
+Mid Ulster,Causeway Coast and Glens,1.8081703671300914e-5
+Mid Ulster,Belfast,1.2580360255093252e-5
+Mid Ulster,Lisburn and Castlereagh,8.725690414679261e-6
+Mid Ulster,Derry and Strabane,8.178500924362529e-6
+Mid Ulster,"Newry, Mourne and Down",5.668665810271725e-6
+Mid Ulster,North Down and Ards,4.537413177254937e-6
+Middlesbrough,Redcar and Cleveland,1.4868878515017682e-4
+Middlesbrough,Stockton-on-Tees,1.2094537448966481e-4
+Middlesbrough,Darlington,3.598309132300894e-5
+Middlesbrough,Hartlepool,3.373380473065539e-5
+Middlesbrough,North Yorkshire,8.923693149313919e-6
+Middlesbrough,Durham,7.401803337559191e-6
+Middlesbrough,Sunderland,3.5362997785058038e-6
+Middlesbrough,Newcastle upon Tyne,3.2474191670577954e-6
+Middlesbrough,Gateshead,2.978012587390158e-6
+Middlesbrough,North Tyneside,2.7516966614706546e-6
+Midlothian,Edinburgh,1.016990161208442e-4
+Midlothian,East Lothian,7.74234619125112e-5
+Midlothian,Scottish Borders,2.2217215513636248e-5
+Midlothian,West Lothian,1.7786262440190997e-5
+Midlothian,Falkirk,7.422164315980432e-6
+Midlothian,Fife,6.6085583483798035e-6
+Midlothian,Stirling,3.4164412320165765e-6
+Midlothian,Clackmannanshire,2.991454353343622e-6
+Midlothian,South Lanarkshire,2.6460528231773886e-6
+Midlothian,Perthshire and Kinross,2.622198603777297e-6
+Milton Keynes,Central Bedfordshire,2.754664386885973e-5
+Milton Keynes,Bedfordshire,2.2749220433463358e-5
+Milton Keynes,Luton,1.5537560040876057e-5
+Milton Keynes,Northamptonshire,1.3540872556764554e-5
+Milton Keynes,Buckinghamshire,1.2898141810693546e-5
+Milton Keynes,Hertfordshire,3.1984562498695873e-6
+Milton Keynes,Oxfordshire,2.657009601381756e-6
+Milton Keynes,Coventry,1.4889566338629053e-6
+Milton Keynes,Cambridgeshire,1.4528036188756915e-6
+Milton Keynes,Slough,1.4499023449891317e-6
+Monmouthshire,Blaenau Gwent,7.640812301163016e-5
+Monmouthshire,Newport,6.405809066287458e-5
+Monmouthshire,Torfaen,6.299703391638125e-5
+Monmouthshire,Herefordshire,1.6330108933989787e-5
+Monmouthshire,Caerphilly,1.4878457667668685e-5
+Monmouthshire,Bristol,1.4863588195277983e-5
+Monmouthshire,Cardiff,1.290958439042082e-5
+Monmouthshire,South Gloucestershire,1.2323812539826249e-5
+Monmouthshire,Gloucestershire,9.841998851745823e-6
+Monmouthshire,Merthyr Tydfil,9.663256640714453e-6
+Moray,Highland,2.290386550449469e-5
+Moray,Aberdeenshire,1.494643725444123e-5
+Moray,Aberdeen,1.1172468057867513e-5
+Moray,Orkney Islands,2.3181110192496093e-6
+Moray,Angus,1.3557160763484334e-6
+Moray,Dundee,1.2237440533576066e-6
+Moray,Perthshire and Kinross,1.1981651312605413e-6
+Moray,Glasgow,9.394945582796436e-7
+Moray,Shetland Islands,8.272307104812297e-7
+Moray,Edinburgh,7.989161355764127e-7
+Neath Port Talbot,Swansea,1.2170436177755175e-4
+Neath Port Talbot,Bridgend,4.518693095448296e-5
+Neath Port Talbot,Carmarthenshire,2.8200695145429278e-5
+Neath Port Talbot,Powys,1.4212538101039071e-5
+Neath Port Talbot,"Rhondda, Cynon, Taff",1.2986014510816015e-5
+Neath Port Talbot,Vale of Glamorgan,9.335181322700913e-6
+Neath Port Talbot,Cardiff,9.13311100165049e-6
+Neath Port Talbot,Merthyr Tydfil,8.04795833036045e-6
+Neath Port Talbot,Ceredigion,4.103461857642144e-6
+Neath Port Talbot,Newport,3.7625226771260033e-6
+Newcastle upon Tyne,North Tyneside,1.0802271037125492e-4
+Newcastle upon Tyne,Gateshead,9.155478315807284e-5
+Newcastle upon Tyne,South Tyneside,4.45723459280735e-5
+Newcastle upon Tyne,Northumberland,3.9274211948589136e-5
+Newcastle upon Tyne,Sunderland,2.0839355196316094e-5
+Newcastle upon Tyne,Durham,1.4711202825804912e-5
+Newcastle upon Tyne,Hartlepool,5.005674133897952e-6
+Newcastle upon Tyne,Darlington,4.674648929268867e-6
+Newcastle upon Tyne,Stockton-on-Tees,4.014057180382243e-6
+Newcastle upon Tyne,Middlesbrough,3.2474191670577954e-6
+Newport,Torfaen,1.1279134616824156e-4
+Newport,Monmouthshire,6.405809066287458e-5
+Newport,Caerphilly,5.3829242752031376e-5
+Newport,Cardiff,4.420112809157953e-5
+Newport,Blaenau Gwent,2.513918775119524e-5
+Newport,South Gloucestershire,1.850529694410675e-5
+Newport,Vale of Glamorgan,1.6146475590646323e-5
+Newport,"Rhondda, Cynon, Taff",1.2959124225933055e-5
+Newport,Merthyr Tydfil,1.1239463625315595e-5
+Newport,Bristol,1.0753055256825318e-5
+"Newry, Mourne and Down","Armagh, Banbridge and Craigavon",3.371527973687464e-5
+"Newry, Mourne and Down",Lisburn and Castlereagh,3.070632947425336e-5
+"Newry, Mourne and Down",Belfast,2.6782139744217478e-5
+"Newry, Mourne and Down",North Down and Ards,1.5873982804411525e-5
+"Newry, Mourne and Down",Antrim and Newtownabbey,8.698523837473968e-6
+"Newry, Mourne and Down",Mid Ulster,5.668665810271725e-6
+"Newry, Mourne and Down",Mid and East Antrim,5.234310012637276e-6
+"Newry, Mourne and Down",Causeway Coast and Glens,2.3834337273562294e-6
+"Newry, Mourne and Down",Fermanagh and Omagh,2.141868810972823e-6
+"Newry, Mourne and Down",Derry and Strabane,1.9407791746842927e-6
+Norfolk,Suffolk,1.1441787966873371e-5
+Norfolk,Cambridgeshire,5.28547896641672e-6
+Norfolk,Peterborough,2.1444884981931468e-6
+Norfolk,Lincolnshire,1.6552921648300781e-6
+Norfolk,Essex,6.899499836588548e-7
+Norfolk,Bedfordshire,5.689948666792566e-7
+Norfolk,Rutland,4.965100710419324e-7
+Norfolk,Hertfordshire,4.707387779165865e-7
+Norfolk,Central Bedfordshire,4.684715921508569e-7
+Norfolk,Luton,4.1597778429852327e-7
+North Ayrshire,East Ayrshire,7.117217317222201e-5
+North Ayrshire,South Ayrshire,5.224891819446196e-5
+North Ayrshire,Inverclyde,2.678010178075513e-5
+North Ayrshire,Renfrewshire,2.443513817837552e-5
+North Ayrshire,Glasgow,1.7277121274353486e-5
+North Ayrshire,East Renfrewshire,1.6943425042606627e-5
+North Ayrshire,East Dunbartonshire,9.406991563334522e-6
+North Ayrshire,West Dunbartonshire,9.227097920932096e-6
+North Ayrshire,South Lanarkshire,7.87339910288328e-6
+North Ayrshire,North Lanarkshire,5.650208201896575e-6
+North Down and Ards,Belfast,7.024082435249251e-5
+North Down and Ards,Lisburn and Castlereagh,6.061687135323683e-5
+North Down and Ards,Antrim and Newtownabbey,2.3680376390859158e-5
+North Down and Ards,"Newry, Mourne and Down",1.5873982804411525e-5
+North Down and Ards,Mid and East Antrim,1.5705318807096522e-5
+North Down and Ards,"Armagh, Banbridge and Craigavon",9.804802346610182e-6
+North Down and Ards,Mid Ulster,4.537413177254937e-6
+North Down and Ards,Causeway Coast and Glens,4.389742265066176e-6
+North Down and Ards,Fermanagh and Omagh,1.9428381209100256e-6
+North Down and Ards,Derry and Strabane,1.6616931187755753e-6
+North Lanarkshire,South Lanarkshire,3.957883903554048e-5
+North Lanarkshire,Glasgow,3.612448341598108e-5
+North Lanarkshire,East Dunbartonshire,3.401853662025405e-5
+North Lanarkshire,East Renfrewshire,1.9598500398436037e-5
+North Lanarkshire,Falkirk,1.5520004713195522e-5
+North Lanarkshire,Renfrewshire,1.472813505645705e-5
+North Lanarkshire,West Lothian,1.2228463290546062e-5
+North Lanarkshire,West Dunbartonshire,1.1189325594844732e-5
+North Lanarkshire,Stirling,8.151965299546568e-6
+North Lanarkshire,Clackmannanshire,6.740071999261893e-6
+North Lincolnshire,Doncaster,1.4598314096803203e-5
+North Lincolnshire,Kingston upon Hull,1.3432936154902737e-5
+North Lincolnshire,East Riding of Yorkshire,9.408983781439645e-6
+North Lincolnshire,Lincolnshire,6.6105547586959446e-6
+North Lincolnshire,Rotherham,1.951496239992721e-6
+North Lincolnshire,Sheffield,1.8367050897192748e-6
+North Lincolnshire,York,1.6155328656933328e-6
+North Lincolnshire,Barnsley,1.517251346483342e-6
+North Lincolnshire,Rutland,1.4912674374730935e-6
+North Lincolnshire,Wakefield,1.4081402663707602e-6
+North Somerset,Bristol,5.54762730619906e-5
+North Somerset,South Gloucestershire,2.9246760845399705e-5
+North Somerset,Somerset,2.0372794043546678e-5
+North Somerset,Bath and North East Somerset,1.110870204096961e-5
+North Somerset,Monmouthshire,4.80239201688154e-6
+North Somerset,Newport,4.4066105674524666e-6
+North Somerset,Gloucestershire,2.5697413103896105e-6
+North Somerset,Swindon,2.2741504058545056e-6
+North Somerset,Wiltshire,2.2285534279554268e-6
+North Somerset,Cardiff,2.1751279490274284e-6
+North Tyneside,Newcastle upon Tyne,1.0802271037125492e-4
+North Tyneside,Northumberland,4.817704827257823e-5
+North Tyneside,Gateshead,4.1053988196219476e-5
+North Tyneside,South Tyneside,2.9247607790373812e-5
+North Tyneside,Sunderland,1.3146823434504082e-5
+North Tyneside,Durham,7.974478266244198e-6
+North Tyneside,Hartlepool,3.987350155757065e-6
+North Tyneside,Middlesbrough,2.7516966614706546e-6
+North Tyneside,Redcar and Cleveland,2.6264591965727077e-6
+North Tyneside,Stockton-on-Tees,2.385873430223425e-6
+North Yorkshire,York,3.1938523990841675e-5
+North Yorkshire,Darlington,1.6771095180736857e-5
+North Yorkshire,East Riding of Yorkshire,1.1804777164918092e-5
+North Yorkshire,Leeds,9.420275836555313e-6
+North Yorkshire,Middlesbrough,8.923693149313919e-6
+North Yorkshire,Redcar and Cleveland,8.82936352412691e-6
+North Yorkshire,Bradford,7.618575764712898e-6
+North Yorkshire,Wakefield,7.246519711051888e-6
+North Yorkshire,Stockton-on-Tees,6.3314297481257225e-6
+North Yorkshire,Kingston upon Hull,4.176945704048267e-6
+Northamptonshire,Milton Keynes,1.3540872556764554e-5
+Northamptonshire,Bedfordshire,1.1560546423890914e-5
+Northamptonshire,Rutland,1.0082444557149547e-5
+Northamptonshire,Leicester,5.45382472557529e-6
+Northamptonshire,Peterborough,5.125380511615421e-6
+Northamptonshire,Warwickshire,5.035907051649251e-6
+Northamptonshire,Coventry,4.635384997153833e-6
+Northamptonshire,Oxfordshire,3.525155789220097e-6
+Northamptonshire,Leicestershire,3.5166741919548185e-6
+Northamptonshire,Central Bedfordshire,3.351855718779692e-6
+Northumberland,North Tyneside,4.817704827257823e-5
+Northumberland,Newcastle upon Tyne,3.9274211948589136e-5
+Northumberland,Gateshead,2.0255417482363406e-5
+Northumberland,South Tyneside,1.086809364367343e-5
+Northumberland,Isles of Scilly,1.0794889267870126e-5
+Northumberland,Scottish Borders,8.478791772881953e-6
+Northumberland,Sunderland,5.9387966720522395e-6
+Northumberland,Durham,4.824911157105865e-6
+Northumberland,Darlington,1.7738928046875174e-6
+Northumberland,Hartlepool,1.7633783283820494e-6
+Nottingham,Nottinghamshire,6.853983856923539e-5
+Nottingham,Derby,1.6318103906341114e-5
+Nottingham,Derbyshire,1.6241896078472873e-5
+Nottingham,Leicestershire,8.702448191543087e-6
+Nottingham,Leicester,4.3058263869416645e-6
+Nottingham,Lincolnshire,2.710937533012816e-6
+Nottingham,Rutland,2.221418059722774e-6
+Nottingham,Sheffield,1.4679829566265136e-6
+Nottingham,Staffordshire,1.3563712185456417e-6
+Nottingham,Coventry,1.3437064243407651e-6
+Nottinghamshire,Nottingham,6.853983856923539e-5
+Nottinghamshire,Derbyshire,1.8811709072468134e-5
+Nottinghamshire,Derby,8.916300948451058e-6
+Nottinghamshire,Doncaster,4.8654959956239975e-6
+Nottinghamshire,Lincolnshire,4.806258383508825e-6
+Nottinghamshire,Rotherham,4.351651723342051e-6
+Nottinghamshire,Leicestershire,3.375381135439086e-6
+Nottinghamshire,Sheffield,2.9223752484732836e-6
+Nottinghamshire,Leicester,2.101214502187945e-6
+Nottinghamshire,Barnsley,1.5662366093702627e-6
+Oldham,Rochdale,7.409334608701584e-5
+Oldham,Tameside,5.058398577145833e-5
+Oldham,Manchester,4.821418093516827e-5
+Oldham,Salford,2.246682379120119e-5
+Oldham,Bury,1.9805728489421487e-5
+Oldham,Stockport,1.9077565770387232e-5
+Oldham,Trafford,1.4539366813582946e-5
+Oldham,Bolton,8.043503817187616e-6
+Oldham,Wigan,5.533544038192708e-6
+Oldham,Calderdale,4.558594694654095e-6
+Oxfordshire,Reading,1.2452201957496857e-5
+Oxfordshire,Buckinghamshire,8.760222236007862e-6
+Oxfordshire,Swindon,7.931286087717102e-6
+Oxfordshire,West Berkshire,7.138785920296192e-6
+Oxfordshire,Wokingham,5.1728379175943936e-6
+Oxfordshire,Windsor and Maidenhead,3.5704078051515126e-6
+Oxfordshire,Northamptonshire,3.525155789220097e-6
+Oxfordshire,Slough,3.0641822149822625e-6
+Oxfordshire,Warwickshire,2.9446429751173487e-6
+Oxfordshire,Milton Keynes,2.657009601381756e-6
+Pembrokeshire,Carmarthenshire,2.04638992798201e-5
+Pembrokeshire,Ceredigion,1.7810408879660026e-5
+Pembrokeshire,Swansea,5.78576028018415e-6
+Pembrokeshire,Neath Port Talbot,2.8139925899041177e-6
+Pembrokeshire,Cardiff,2.572140078150844e-6
+Pembrokeshire,Bridgend,1.8477799961923207e-6
+Pembrokeshire,"Rhondda, Cynon, Taff",1.7622011442227019e-6
+Pembrokeshire,Vale of Glamorgan,1.5572578006671243e-6
+Pembrokeshire,Caerphilly,1.5524835402542087e-6
+Pembrokeshire,Merthyr Tydfil,1.5499692669388402e-6
+Perthshire and Kinross,Dundee,5.586743380188339e-5
+Perthshire and Kinross,Angus,1.908333277111019e-5
+Perthshire and Kinross,Fife,1.252227179416346e-5
+Perthshire and Kinross,Stirling,9.701051886686227e-6
+Perthshire and Kinross,Clackmannanshire,7.75372016779245e-6
+Perthshire and Kinross,Edinburgh,4.084930608873746e-6
+Perthshire and Kinross,Falkirk,3.4826507615886207e-6
+Perthshire and Kinross,Glasgow,2.6221990451233236e-6
+Perthshire and Kinross,Midlothian,2.622198603777297e-6
+Perthshire and Kinross,North Lanarkshire,2.6096597580883647e-6
+Peterborough,Cambridgeshire,4.321498646506155e-5
+Peterborough,Rutland,2.372578990419425e-5
+Peterborough,Lincolnshire,1.790577037534826e-5
+Peterborough,Northamptonshire,5.125380511615421e-6
+Peterborough,Bedfordshire,3.5433134349167957e-6
+Peterborough,Norfolk,2.1444884981931468e-6
+Peterborough,Central Bedfordshire,1.442170562937703e-6
+Peterborough,Luton,1.4374969925228155e-6
+Peterborough,Leicester,1.0911963607153203e-6
+Peterborough,Leicestershire,9.832675976643123e-7
+Plymouth,Cornwall,2.633756040215951e-5
+Plymouth,Devon,2.3600752832314057e-5
+Plymouth,Torbay,1.2878821180307844e-5
+Plymouth,Somerset,1.7009070616196169e-6
+Plymouth,North Somerset,1.2085497149952433e-6
+Plymouth,Bristol,1.2043775925042047e-6
+Plymouth,Dorset,9.479317154610574e-7
+Plymouth,South Gloucestershire,8.414146291116355e-7
+Plymouth,Bath and North East Somerset,7.299812554863543e-7
+Plymouth,Bournemouth,6.067832823368543e-7
+Poole,Bournemouth,2.6118791589847806e-4
+Poole,Dorset,8.103031540372026e-5
+Poole,Southampton,7.357299474443886e-6
+Poole,Hampshire,4.074494267364848e-6
+Poole,Wiltshire,2.3975089454913783e-6
+Poole,Portsmouth,2.384949657463177e-6
+Poole,Bath and North East Somerset,1.0897712113281916e-6
+Poole,Somerset,1.068927596939054e-6
+Poole,Reading,9.619985389180406e-7
+Poole,Windsor and Maidenhead,8.031090229218535e-7
+Portsmouth,Hampshire,5.3133759517889826e-5
+Portsmouth,Southampton,2.5824374689831508e-5
+Portsmouth,West Sussex,1.131555604600614e-5
+Portsmouth,Isle of Wight,6.449794181043214e-6
+Portsmouth,Bournemouth,3.3329889082968326e-6
+Portsmouth,Brighton and Hove,3.0408850092526023e-6
+Portsmouth,Poole,2.384949657463177e-6
+Portsmouth,Surrey,2.120697322018562e-6
+Portsmouth,Reading,1.6813308287299443e-6
+Portsmouth,Dorset,1.6265300676901367e-6
+Powys,Ceredigion,2.1063873816935796e-5
+Powys,Shropshire,2.0817048969266353e-5
+Powys,Neath Port Talbot,1.4212538101039071e-5
+Powys,Herefordshire,1.1747708524826669e-5
+Powys,Merthyr Tydfil,1.0332367243165459e-5
+Powys,Monmouthshire,8.756600104614527e-6
+Powys,Blaenau Gwent,8.266127360939627e-6
+Powys,Swansea,8.015299190149782e-6
+Powys,Gwynedd,5.159539560278307e-6
+Powys,Telford and Wrekin,5.0258427456133744e-6
+Reading,Wokingham,2.0081264541574724e-4
+Reading,West Berkshire,1.3151105371892214e-4
+Reading,Bracknell Forest,4.321724345734505e-5
+Reading,Windsor and Maidenhead,2.320443523610476e-5
+Reading,Slough,2.0325442054548117e-5
+Reading,Oxfordshire,1.2452201957496857e-5
+Reading,Hampshire,7.239100175346449e-6
+Reading,Swindon,6.120226583194431e-6
+Reading,Buckinghamshire,4.794790654374361e-6
+Reading,Surrey,3.8020622143582237e-6
+Redcar and Cleveland,Middlesbrough,1.4868878515017682e-4
+Redcar and Cleveland,Stockton-on-Tees,5.4051456870116576e-5
+Redcar and Cleveland,Darlington,2.0415055760722096e-5
+Redcar and Cleveland,Hartlepool,1.585137661554304e-5
+Redcar and Cleveland,North Yorkshire,8.82936352412691e-6
+Redcar and Cleveland,Durham,3.930693994452379e-6
+Redcar and Cleveland,Sunderland,2.7252250607241446e-6
+Redcar and Cleveland,North Tyneside,2.6264591965727077e-6
+Redcar and Cleveland,Gateshead,2.1856214515234836e-6
+Redcar and Cleveland,York,2.1317166607088918e-6
+Renfrewshire,East Renfrewshire,7.435870531089028e-5
+Renfrewshire,Glasgow,5.8132155086554566e-5
+Renfrewshire,Inverclyde,4.1850451517678736e-5
+Renfrewshire,West Dunbartonshire,3.9464304274448174e-5
+Renfrewshire,East Dunbartonshire,2.8365143521785135e-5
+Renfrewshire,North Ayrshire,2.443513817837552e-5
+Renfrewshire,South Lanarkshire,1.8288784001517768e-5
+Renfrewshire,North Lanarkshire,1.472813505645705e-5
+Renfrewshire,East Ayrshire,1.0959969908493125e-5
+Renfrewshire,Argyll and Bute,1.0515158167148809e-5
+"Rhondda, Cynon, Taff",Merthyr Tydfil,6.44943589094521e-5
+"Rhondda, Cynon, Taff",Cardiff,5.3259754221900286e-5
+"Rhondda, Cynon, Taff",Bridgend,3.190122634728846e-5
+"Rhondda, Cynon, Taff",Caerphilly,2.7011959332567564e-5
+"Rhondda, Cynon, Taff",Vale of Glamorgan,2.4628305536958973e-5
+"Rhondda, Cynon, Taff",Neath Port Talbot,1.2986014510816015e-5
+"Rhondda, Cynon, Taff",Newport,1.2959124225933055e-5
+"Rhondda, Cynon, Taff",Blaenau Gwent,1.2025055879644784e-5
+"Rhondda, Cynon, Taff",Torfaen,9.782177200930779e-6
+"Rhondda, Cynon, Taff",Swansea,7.3672776479797805e-6
+Rochdale,Oldham,7.409334608701584e-5
+Rochdale,Bury,5.427896556030025e-5
+Rochdale,Manchester,3.567501406180827e-5
+Rochdale,Salford,2.037492206324604e-5
+Rochdale,Tameside,1.6309154676619934e-5
+Rochdale,Trafford,1.18433275821945e-5
+Rochdale,Bolton,1.0280103046743027e-5
+Rochdale,Stockport,9.870914531719719e-6
+Rochdale,Calderdale,8.33128563823338e-6
+Rochdale,Lancashire,6.075673216879864e-6
+Rotherham,Sheffield,4.7214526246412135e-5
+Rotherham,Barnsley,3.239175216622001e-5
+Rotherham,Doncaster,2.7753283597249952e-5
+Rotherham,Derbyshire,4.846882078897731e-6
+Rotherham,Nottinghamshire,4.351651723342051e-6
+Rotherham,Wakefield,3.7389045046989578e-6
+Rotherham,Leeds,2.245751205870099e-6
+Rotherham,North Lincolnshire,1.951496239992721e-6
+Rotherham,York,1.6336004158107336e-6
+Rotherham,Kirklees,1.5920505643760293e-6
+Rutland,Peterborough,2.372578990419425e-5
+Rutland,Leicestershire,1.5975435558456522e-5
+Rutland,Leicester,1.3921865861711199e-5
+Rutland,Lincolnshire,1.359068913537803e-5
+Rutland,Northamptonshire,1.0082444557149547e-5
+Rutland,Cambridgeshire,3.3500084573614495e-6
+Rutland,Nottingham,2.221418059722774e-6
+Rutland,North Lincolnshire,1.4912674374730935e-6
+Rutland,Nottinghamshire,1.2449067422667949e-6
 Rutland,Bournemouth,1.1898390777516266e-06
-Saint Helens,Knowsley,7.28171699568534e-5
-Saint Helens,Warrington,5.056288720623266e-5
-Saint Helens,Halton,3.1201736673321874e-5
-Saint Helens,Wigan,3.018348828055599e-5
-Saint Helens,Sefton,1.5147768749515642e-5
-Saint Helens,Salford,7.521758479616797e-6
-Saint Helens,Wirral,5.571308329842041e-6
-Saint Helens,Manchester,5.0397152427967635e-6
-Saint Helens,Trafford,4.11734692454171e-6
-Saint Helens,Bolton,3.945733685246595e-6
-Salford,Manchester,7.454879242336672e-5
-Salford,Trafford,6.425371054003032e-5
-Salford,Bury,4.407699736715288e-5
-Salford,Bolton,4.151130842216765e-5
-Salford,Wigan,2.399068183842349e-5
-Salford,Oldham,2.241644516192496e-5
-Salford,Tameside,2.148371901819734e-5
-Salford,Stockport,2.119160418352475e-5
-Salford,Rochdale,2.0254602412809333e-5
-Salford,Warrington,1.4709266112576671e-5
-Sandwell,Dudley,7.486746573294142e-5
-Sandwell,Birmingham,4.3201887233273824e-5
-Sandwell,Walsall,4.189358413018534e-5
-Sandwell,Wolverhampton,3.273402393968594e-5
-Sandwell,Solihull,1.2513887182209504e-5
-Sandwell,Worcestershire,7.176774744445012e-6
-Sandwell,Staffordshire,5.296093895733483e-6
-Sandwell,Coventry,4.243885919700466e-6
-Sandwell,Telford and Wrekin,3.913874529438162e-6
-Sandwell,Warwickshire,2.956726251383114e-6
-Scottish Borders,Midlothian,2.167632881625422e-5
-Scottish Borders,Edinburgh,1.241404550614224e-5
-Scottish Borders,East Lothian,1.0497857905476512e-5
-Scottish Borders,Northumberland,8.360814462844094e-6
-Scottish Borders,West Lothian,4.0466043179899425e-6
-Scottish Borders,Dumfries and Galloway,2.893726876866044e-6
+Saint Helens,Knowsley,7.375251368721212e-5
+Saint Helens,Warrington,5.1211139231497745e-5
+Saint Helens,Halton,3.138824457745262e-5
+Saint Helens,Wigan,3.0393846987036956e-5
+Saint Helens,Sefton,1.517499184654568e-5
+Saint Helens,Salford,7.487534161366432e-6
+Saint Helens,Wirral,5.610671725267177e-6
+Saint Helens,Manchester,5.035090728137922e-6
+Saint Helens,Trafford,4.150295063579393e-6
+Saint Helens,Bolton,4.03071600482817e-6
+Salford,Manchester,7.487834933954919e-5
+Salford,Trafford,6.441851963708621e-5
+Salford,Bury,4.42116849441033e-5
+Salford,Bolton,4.1762699497013255e-5
+Salford,Wigan,2.4095330295316948e-5
+Salford,Oldham,2.246682379120119e-5
+Salford,Tameside,2.157466534061057e-5
+Salford,Stockport,2.099375905384952e-5
+Salford,Rochdale,2.037492206324604e-5
+Salford,Warrington,1.470383451698354e-5
+Sandwell,Dudley,7.587408248200564e-5
+Sandwell,Birmingham,4.336208112623581e-5
+Sandwell,Walsall,4.2561322846947535e-5
+Sandwell,Wolverhampton,3.316566841440221e-5
+Sandwell,Solihull,1.2509553759574611e-5
+Sandwell,Worcestershire,7.255071686425657e-6
+Sandwell,Staffordshire,5.310589740849253e-6
+Sandwell,Coventry,4.265969614360619e-6
+Sandwell,Telford and Wrekin,3.950877158473498e-6
+Sandwell,Warwickshire,2.981275637986128e-6
+Scottish Borders,Midlothian,2.2217215513636248e-5
+Scottish Borders,Edinburgh,1.2486363690601244e-5
+Scottish Borders,East Lothian,1.0771408953465595e-5
+Scottish Borders,Northumberland,8.478791772881953e-6
+Scottish Borders,West Lothian,3.984033489436688e-6
+Scottish Borders,Dumfries and Galloway,2.9053075865879736e-6
 Scottish Borders,Orkney Islands,2.596344874358105e-6
-Scottish Borders,Falkirk,1.846416347430783e-6
-Scottish Borders,Stirling,1.4837914405221469e-6
-Scottish Borders,Fife,1.4813185554054204e-6
-Sefton,Knowsley,4.6586571176549875e-5
-Sefton,Wirral,1.740439918821169e-5
-Sefton,Saint Helens,1.5147768749515642e-5
-Sefton,Lancashire,9.573186101078175e-6
-Sefton,Halton,8.19575110226289e-6
-Sefton,Warrington,6.7851272944056955e-6
-Sefton,Wigan,5.037880161191315e-6
-Sefton,Cheshire West and Chester,4.160888059113827e-6
-Sefton,Blackburn with Darwen,3.2076570667556408e-6
-Sefton,Salford,2.9827587570697716e-6
-Sheffield,Rotherham,4.7251640784786884e-5
-Sheffield,Barnsley,2.1229992812206662e-5
-Sheffield,Derbyshire,1.1094359992777025e-5
-Sheffield,Doncaster,9.570104542270618e-6
-Sheffield,Wakefield,3.3866279441513373e-6
-Sheffield,Nottinghamshire,2.9147096454763522e-6
-Sheffield,Leeds,2.4647743803259488e-6
-Sheffield,Kirklees,2.096090023481006e-6
-Sheffield,North Lincolnshire,1.785462756590787e-6
-Sheffield,Derby,1.5169170630458397e-6
-Shetland Islands,Orkney Islands,7.733205876579326e-6
-Shetland Islands,Aberdeen,7.705396989095827e-6
-Shetland Islands,Glasgow,5.579797976749519e-6
-Shetland Islands,Edinburgh,3.6688001078100278e-6
+Scottish Borders,Falkirk,1.8714844329604905e-6
+Scottish Borders,Stirling,1.4680027120800671e-6
+Scottish Borders,Fife,1.4670409781383278e-6
+Sefton,Knowsley,4.711597050768609e-5
+Sefton,Wirral,1.7352861827897695e-5
+Sefton,Saint Helens,1.517499184654568e-5
+Sefton,Lancashire,9.656291348183137e-6
+Sefton,Halton,8.416589399911742e-6
+Sefton,Warrington,6.740706210837302e-6
+Sefton,Wigan,5.191921794636657e-6
+Sefton,Cheshire West and Chester,4.093514616935378e-6
+Sefton,Blackburn with Darwen,3.1715712600504e-6
+Sefton,Salford,2.957294461909089e-6
+Sheffield,Rotherham,4.7214526246412135e-5
+Sheffield,Barnsley,2.123421953889639e-5
+Sheffield,Derbyshire,1.1105559410941608e-5
+Sheffield,Doncaster,9.556768600949561e-6
+Sheffield,Wakefield,3.4426496722454736e-6
+Sheffield,Nottinghamshire,2.9223752484732836e-6
+Sheffield,Leeds,2.4450484776108157e-6
+Sheffield,Kirklees,2.1097456952765187e-6
+Sheffield,North Lincolnshire,1.8367050897192748e-6
+Sheffield,Derby,1.5163795671101353e-6
+Shetland Islands,Aberdeen,7.863605247335656e-6
+Shetland Islands,Orkney Islands,7.435450803584813e-6
+Shetland Islands,Glasgow,4.651174477239321e-6
 Shetland Islands,East Renfrewshire,3.5125538539729345e-6
-Shetland Islands,Highland,3.2554724002719537e-6
+Shetland Islands,Highland,3.144116007372309e-6
+Shetland Islands,Edinburgh,3.0575730985834996e-6
 Shetland Islands,West Dunbartonshire,2.6217992002433666e-6
 Shetland Islands,East Dunbartonshire,2.322941100365431e-6
 Shetland Islands,Renfrewshire,1.733900552478164e-6
-Shetland Islands,South Lanarkshire,1.402294938296403e-6
-Shropshire,Telford and Wrekin,4.6989009919183374e-5
-Shropshire,Powys,2.051918943707395e-5
-Shropshire,Wrexham,2.0265015391658258e-5
-Shropshire,Wolverhampton,8.498690139870493e-6
-Shropshire,Herefordshire,6.402583750583488e-6
-Shropshire,Dudley,3.938588316536849e-6
-Shropshire,Worcestershire,3.7149859913919413e-6
-Shropshire,Cheshire West and Chester,3.0696164318017216e-6
-Shropshire,Cheshire East,2.892341265560633e-6
-Shropshire,Denbighshire,2.6956365435974405e-6
-Slough,Windsor and Maidenhead,1.4183963921577942e-4
-Slough,Buckinghamshire,4.1338680743083366e-5
-Slough,Bracknell Forest,3.188276761997596e-5
-Slough,Reading,2.0320444541466533e-5
-Slough,Wokingham,1.6850541298427864e-5
-Slough,Surrey,9.459091582776992e-6
-Slough,Greater London,9.02350674591655e-6
-Slough,West Berkshire,6.3578104216495175e-6
-Slough,Luton,3.3405988800899977e-6
-Slough,Hertfordshire,3.052436608480513e-6
-Solihull,Birmingham,6.525750432121874e-5
-Solihull,Coventry,1.4714721369128089e-5
-Solihull,Warwickshire,1.3433932497322259e-5
-Solihull,Sandwell,1.2513887182209504e-5
-Solihull,Walsall,7.331357687787139e-6
-Solihull,Worcestershire,7.1381528495222204e-6
-Solihull,Dudley,6.767207884892359e-6
-Solihull,Wolverhampton,5.53848346498329e-6
-Solihull,Staffordshire,4.392702081928204e-6
-Solihull,Telford and Wrekin,1.7817065751932697e-6
-Somerset,North Somerset,2.0167223025308137e-5
-Somerset,Bath and North East Somerset,1.4249046142434575e-5
-Somerset,Dorset,9.966275260243932e-6
-Somerset,Bristol,7.842384196642096e-6
-Somerset,Devon,5.939198957671948e-6
-Somerset,South Gloucestershire,4.768147607489615e-6
-Somerset,Wiltshire,4.37111055225389e-6
-Somerset,Torbay,2.0519922229428505e-6
-Somerset,Plymouth,1.6685356581261513e-6
-Somerset,Monmouthshire,1.374048627487572e-6
-South Ayrshire,East Ayrshire,1.0445766257225602e-4
-South Ayrshire,North Ayrshire,5.187135933372171e-5
-South Ayrshire,Glasgow,1.3168090274292992e-5
-South Ayrshire,East Renfrewshire,1.1250100416500221e-5
-South Ayrshire,Renfrewshire,8.594879561306138e-6
-South Ayrshire,South Lanarkshire,7.150515683081036e-6
-South Ayrshire,East Dunbartonshire,7.038903766728643e-6
-South Ayrshire,Dumfries and Galloway,5.828711503914081e-6
-South Ayrshire,West Dunbartonshire,5.295152246614711e-6
-South Ayrshire,North Lanarkshire,4.73604455574288e-6
-South Gloucestershire,Bristol,1.4377425401543252e-4
-South Gloucestershire,Bath and North East Somerset,4.254634773120756e-5
-South Gloucestershire,North Somerset,2.896885075695618e-5
-South Gloucestershire,Newport,1.8285325186827337e-5
-South Gloucestershire,Monmouthshire,1.2234686775093882e-5
-South Gloucestershire,Gloucestershire,7.3908723763901895e-6
-South Gloucestershire,Wiltshire,6.202859357655468e-6
-South Gloucestershire,Somerset,4.768147607489615e-6
-South Gloucestershire,Swindon,4.330866422647767e-6
-South Gloucestershire,Torfaen,3.896239295971195e-6
-South Lanarkshire,Glasgow,4.912571988546675e-5
-South Lanarkshire,North Lanarkshire,3.968276459213272e-5
-South Lanarkshire,East Renfrewshire,3.812401317931861e-5
-South Lanarkshire,East Dunbartonshire,2.3480051366789293e-5
-South Lanarkshire,Renfrewshire,1.8597903942930486e-5
-South Lanarkshire,West Dunbartonshire,1.6185269822576617e-5
-South Lanarkshire,Inverclyde,9.154585987368818e-6
-South Lanarkshire,East Ayrshire,8.452704633471932e-6
-South Lanarkshire,North Ayrshire,8.006670226564878e-6
-South Lanarkshire,West Lothian,7.2753190848513094e-6
-South Tyneside,Gateshead,5.3368421293272865e-5
-South Tyneside,Sunderland,5.083450850506174e-5
-South Tyneside,Newcastle upon Tyne,4.464638823930786e-5
-South Tyneside,North Tyneside,2.9154328215084287e-5
-South Tyneside,Durham,1.155739786288858e-5
-South Tyneside,Northumberland,1.083496280151602e-5
-South Tyneside,Hartlepool,3.529453993088934e-6
-South Tyneside,Stockton-on-Tees,3.134334700055403e-6
-South Tyneside,Middlesbrough,2.570852008706866e-6
-South Tyneside,Darlington,2.051746308195222e-6
-Southampton,Hampshire,5.027233791115045e-5
-Southampton,Portsmouth,2.5553076893840898e-5
-Southampton,Bournemouth,1.391707122989485e-5
-Southampton,Poole,7.11164830648061e-6
-Southampton,Dorset,6.394073295428222e-6
-Southampton,Isle of Wight,6.123121811732275e-6
-Southampton,Wiltshire,5.260203161599281e-6
-Southampton,West Berkshire,3.516693714396724e-6
-Southampton,West Sussex,2.1630625280372806e-6
-Southampton,Reading,1.7635295242979774e-6
-Southend-on-Sea,Essex,3.6605019341288166e-5
-Southend-on-Sea,Thurrock,2.4897588459860364e-5
-Southend-on-Sea,Greater London,4.844947577287742e-6
-Southend-on-Sea,Medway,1.8440514041465837e-6
-Southend-on-Sea,Hertfordshire,1.805119602857302e-6
-Southend-on-Sea,Kent,1.4487447677784765e-6
-Southend-on-Sea,Suffolk,9.371640039119495e-7
-Southend-on-Sea,Luton,9.155793414655289e-7
-Southend-on-Sea,Central Bedfordshire,7.807127091958779e-7
-Southend-on-Sea,Surrey,7.781994613939094e-7
-Staffordshire,Stoke-on-Trent,4.8030506686541756e-5
-Staffordshire,Wolverhampton,2.005034743621022e-5
-Staffordshire,Walsall,1.6784882599799544e-5
-Staffordshire,Derby,8.182634524136845e-6
-Staffordshire,Cheshire East,7.5407351645122836e-6
-Staffordshire,Birmingham,5.94499180384158e-6
-Staffordshire,Sandwell,5.296093895733483e-6
-Staffordshire,Dudley,5.221507916891199e-6
-Staffordshire,Telford and Wrekin,5.1289882654761516e-6
-Staffordshire,Warwickshire,5.040074495565106e-6
-Stirling,Clackmannanshire,1.6099650509191702e-4
-Stirling,Falkirk,6.837247158151764e-5
-Stirling,East Dunbartonshire,1.172384282516695e-5
-Stirling,Perthshire and Kinross,9.872067710699533e-6
-Stirling,Glasgow,9.729622096564506e-6
-Stirling,West Dunbartonshire,8.691161035473866e-6
-Stirling,North Lanarkshire,8.222504581290911e-6
-Stirling,Edinburgh,7.3264735793085225e-6
-Stirling,West Lothian,6.29552774483615e-6
-Stirling,East Renfrewshire,6.121950401117542e-6
-Stockport,Manchester,6.359869032245672e-5
-Stockport,Tameside,5.523678389849142e-5
-Stockport,Trafford,2.6542157027240058e-5
-Stockport,Salford,2.119160418352475e-5
-Stockport,Oldham,1.917327884524356e-5
-Stockport,Cheshire East,1.713910961682056e-5
-Stockport,Bury,1.3511055070818021e-5
-Stockport,Rochdale,9.80903302921026e-6
-Stockport,Warrington,5.380624126095755e-6
-Stockport,Bolton,5.379478051235297e-6
-Stockton-on-Tees,Middlesbrough,1.1958798671094837e-4
-Stockton-on-Tees,Hartlepool,6.657168104922255e-5
-Stockton-on-Tees,Redcar and Cleveland,5.360861424445415e-5
-Stockton-on-Tees,Darlington,4.3873748197636576e-5
-Stockton-on-Tees,Durham,1.1504954967332671e-5
-Stockton-on-Tees,North Yorkshire,6.276731606697871e-6
-Stockton-on-Tees,Sunderland,5.64208333568186e-6
-Stockton-on-Tees,Newcastle upon Tyne,4.005761540278697e-6
-Stockton-on-Tees,Gateshead,3.4688252556878953e-6
-Stockton-on-Tees,South Tyneside,3.134334700055403e-6
-Stoke-on-Trent,Staffordshire,4.8030506686541756e-5
-Stoke-on-Trent,Cheshire East,1.4719813001621243e-5
-Stoke-on-Trent,Telford and Wrekin,2.542918685542745e-6
-Stoke-on-Trent,Wolverhampton,1.985151294748628e-6
-Stoke-on-Trent,Derby,1.928399858239034e-6
-Stoke-on-Trent,Shropshire,1.91371275097305e-6
-Stoke-on-Trent,Cheshire West and Chester,1.8940204788758615e-6
-Stoke-on-Trent,Manchester,1.4784798604859334e-6
-Stoke-on-Trent,Walsall,1.4353689468620384e-6
-Stoke-on-Trent,Wrexham,1.2545392146821035e-6
-Suffolk,Norfolk,1.1300539094884427e-5
-Suffolk,Cambridgeshire,9.729580365146138e-6
-Suffolk,Essex,5.522441624026532e-6
-Suffolk,Thurrock,9.991435096280943e-7
-Suffolk,Bedfordshire,9.86297366345223e-7
-Suffolk,Peterborough,9.410247578193197e-7
-Suffolk,Southend-on-Sea,9.371640039119495e-7
-Suffolk,Hertfordshire,6.887431162038011e-7
-Suffolk,Greater London,5.949002928568609e-7
-Suffolk,Central Bedfordshire,4.4075606874311213e-7
-Sunderland,South Tyneside,5.083450850506174e-5
-Sunderland,Gateshead,3.849690552986566e-5
-Sunderland,Durham,2.777239625536661e-5
-Sunderland,Newcastle upon Tyne,2.0854215652243134e-5
-Sunderland,North Tyneside,1.3169780890119386e-5
-Sunderland,Hartlepool,8.188135386899462e-6
-Sunderland,Northumberland,5.934962471924524e-6
-Sunderland,Stockton-on-Tees,5.64208333568186e-6
-Sunderland,Darlington,3.5218504421474076e-6
-Sunderland,Middlesbrough,3.4888545380342796e-6
-Surrey,Bracknell Forest,1.3407642352336465e-5
-Surrey,Slough,9.459091582776992e-6
-Surrey,West Sussex,9.367053937806272e-6
-Surrey,Hampshire,8.322046604967348e-6
-Surrey,Windsor and Maidenhead,7.692756914937586e-6
-Surrey,Greater London,6.9211864753084285e-6
-Surrey,Wokingham,4.5198372384205714e-6
-Surrey,Reading,3.829033000807722e-6
-Surrey,Brighton and Hove,3.004828390903023e-6
-Surrey,Portsmouth,2.105794481283794e-6
-Swansea,Neath Port Talbot,1.2183293261593371e-4
-Swansea,Carmarthenshire,6.145128240183695e-5
-Swansea,Bridgend,1.7218269300008776e-5
-Swansea,Powys,7.99293998763335e-6
-Swansea,Cardiff,7.484907905136413e-6
-Swansea,"Rhondda, Cynon, Taff",7.313045782906713e-6
-Swansea,Pembrokeshire,5.779020309006419e-6
-Swansea,Vale of Glamorgan,5.732291242224481e-6
-Swansea,Merthyr Tydfil,5.419216390699139e-6
-Swansea,Ceredigion,4.7016550228543106e-6
-Swindon,Wiltshire,3.1752373375639716e-5
-Swindon,West Berkshire,1.1273757166810609e-5
-Swindon,Oxfordshire,7.7739481480813e-6
-Swindon,Gloucestershire,7.4794274815525585e-6
-Swindon,Reading,6.0671986317237125e-6
-Swindon,South Gloucestershire,4.330866422647767e-6
-Swindon,Bristol,3.820774719842982e-6
-Swindon,Bath and North East Somerset,3.762494046151905e-6
-Swindon,Wokingham,2.2740157810991796e-6
-Swindon,North Somerset,2.222976648506898e-6
-Tameside,Stockport,5.523678389849142e-5
-Tameside,Manchester,5.146531052008019e-5
-Tameside,Oldham,5.019970153458841e-5
-Tameside,Salford,2.148371901819734e-5
-Tameside,Trafford,1.9177085958416976e-5
-Tameside,Rochdale,1.5925887473998333e-5
-Tameside,Bury,1.5280531501594675e-5
-Tameside,Bolton,6.603264161411749e-6
-Tameside,Derbyshire,5.483162119487432e-6
-Tameside,Wigan,4.752822927002059e-6
-Telford and Wrekin,Shropshire,4.6989009919183374e-5
-Telford and Wrekin,Wolverhampton,1.932314247854407e-5
-Telford and Wrekin,Dudley,5.171715398343412e-6
-Telford and Wrekin,Staffordshire,5.1289882654761516e-6
-Telford and Wrekin,Powys,5.011716554385712e-6
-Telford and Wrekin,Walsall,4.6718619735376755e-6
-Telford and Wrekin,Sandwell,3.913874529438162e-6
-Telford and Wrekin,Birmingham,3.2054911062369767e-6
-Telford and Wrekin,Stoke-on-Trent,2.542918685542745e-6
-Telford and Wrekin,Solihull,1.7817065751932697e-6
-Thurrock,Southend-on-Sea,2.4897588459860364e-5
-Thurrock,Essex,2.0833313386231643e-5
-Thurrock,Greater London,1.3382915582232948e-5
-Thurrock,Medway,4.62860725858411e-6
-Thurrock,Kent,4.585276376791619e-6
-Thurrock,Hertfordshire,2.2791890444112063e-6
-Thurrock,Luton,1.4898630012370765e-6
-Thurrock,Slough,1.3855286440535459e-6
-Thurrock,Surrey,1.3601094898116783e-6
-Thurrock,Central Bedfordshire,1.1234775229146142e-6
-Torbay,Devon,4.834570867568259e-5
-Torbay,Plymouth,1.2503909586596119e-5
-Torbay,Cornwall,2.9298947473257424e-6
-Torbay,Somerset,2.0519922229428505e-6
-Torbay,North Somerset,1.7264733046379698e-6
-Torbay,Bristol,1.5454569329541152e-6
-Torbay,South Gloucestershire,1.1312191336222369e-6
-Torbay,Bath and North East Somerset,9.19114808013504e-7
-Torbay,Bournemouth,8.340264059582736e-7
-Torbay,Wiltshire,7.192847208411744e-7
-Torfaen,Newport,1.1182475460868984e-4
-Torfaen,Monmouthshire,6.256419771417597e-5
-Torfaen,Blaenau Gwent,6.180619602161124e-5
-Torfaen,Caerphilly,3.896346823984723e-5
-Torfaen,Cardiff,2.2711902845643946e-5
-Torfaen,Merthyr Tydfil,1.2598029573900709e-5
-Torfaen,"Rhondda, Cynon, Taff",9.949043076571555e-6
-Torfaen,Vale of Glamorgan,9.20530897404686e-6
-Torfaen,Bridgend,4.998998693658798e-6
-Torfaen,Bristol,4.61057965771021e-6
-Trafford,Manchester,8.020360817870743e-5
-Trafford,Salford,6.425371054003032e-5
-Trafford,Stockport,2.6542157027240058e-5
-Trafford,Tameside,1.9177085958416976e-5
-Trafford,Bury,1.721608532289304e-5
-Trafford,Warrington,1.640980431745983e-5
-Trafford,Oldham,1.455604205163564e-5
-Trafford,Bolton,1.2572360874736504e-5
-Trafford,Rochdale,1.1920749688900836e-5
-Trafford,Wigan,1.0013370460055831e-5
-Vale of Glamorgan,Cardiff,1.1656802276053411e-4
-Vale of Glamorgan,Bridgend,4.1215472879994844e-05
-Vale of Glamorgan,"Rhondda, Cynon, Taff",2.4806776213718524e-5
-Vale of Glamorgan,Caerphilly,2.0329747488988104e-5
-Vale of Glamorgan,Newport,1.59400008153377e-5
-Vale of Glamorgan,Merthyr Tydfil,1.3708636883323364e-5
-Vale of Glamorgan,Neath Port Talbot,9.461257927308475e-6
-Vale of Glamorgan,Torfaen,9.20530897404686e-6
-Vale of Glamorgan,Swansea,5.732291242224481e-6
-Vale of Glamorgan,Blaenau Gwent,5.29345467499699e-6
-Wakefield,Leeds,2.5994035226797484e-5
-Wakefield,Barnsley,2.1999912635172567e-5
-Wakefield,Kirklees,2.1230011542331085e-5
-Wakefield,Doncaster,9.499960649971692e-6
-Wakefield,North Yorkshire,7.1749953110559986e-6
-Wakefield,Bradford,7.0066355728371996e-6
-Wakefield,Calderdale,6.084639898957307e-6
-Wakefield,York,4.7168938460400405e-6
-Wakefield,Rotherham,3.7045920666281616e-6
-Wakefield,Sheffield,3.3866279441513373e-6
-Walsall,Wolverhampton,5.5705662228041795e-5
-Walsall,Sandwell,4.189358413018534e-5
-Walsall,Birmingham,1.963080750019311e-5
-Walsall,Staffordshire,1.6784882599799544e-5
-Walsall,Dudley,1.5812841316581513e-5
-Walsall,Solihull,7.331357687787139e-6
-Walsall,Telford and Wrekin,4.6718619735376755e-6
-Walsall,Coventry,3.6568835568551794e-6
-Walsall,Worcestershire,2.710371267013307e-6
-Walsall,Warwickshire,2.566279768789813e-6
-Warrington,Halton,5.986010376006367e-5
-Warrington,Saint Helens,5.056288720623266e-5
-Warrington,Wigan,2.0618445611062737e-5
-Warrington,Knowsley,1.76895903952808e-5
-Warrington,Trafford,1.640980431745983e-5
-Warrington,Salford,1.4709266112576671e-5
-Warrington,Cheshire West and Chester,1.1563711672617778e-5
-Warrington,Manchester,9.711429495999057e-6
-Warrington,Sefton,6.7851272944056955e-6
-Warrington,Bury,5.750297084852449e-6
-Warwickshire,Coventry,6.003389505639493e-5
-Warwickshire,Solihull,1.3433932497322259e-5
-Warwickshire,Leicestershire,9.106428080723988e-6
-Warwickshire,Birmingham,8.362228247523508e-6
-Warwickshire,Worcestershire,6.039706035502574e-6
-Warwickshire,Staffordshire,5.040074495565106e-6
-Warwickshire,Northamptonshire,4.997582433474117e-6
-Warwickshire,Leicester,4.83777831302245e-6
-Warwickshire,Sandwell,2.956726251383114e-6
-Warwickshire,Oxfordshire,2.9151921102724177e-6
-West Berkshire,Reading,1.3072895738300793e-4
-West Berkshire,Wokingham,3.450651795271088e-5
-West Berkshire,Swindon,1.1273757166810609e-5
-West Berkshire,Bracknell Forest,1.125106288259586e-5
-West Berkshire,Hampshire,8.856207121893505e-6
-West Berkshire,Windsor and Maidenhead,7.5756679601574016e-6
-West Berkshire,Oxfordshire,7.0668271167556164e-6
-West Berkshire,Slough,6.3578104216495175e-6
-West Berkshire,Southampton,3.516693714396724e-6
-West Berkshire,Wiltshire,3.414644908159878e-6
-West Dunbartonshire,Glasgow,5.878146956797087e-5
-West Dunbartonshire,East Dunbartonshire,4.352751169245237e-5
-West Dunbartonshire,Renfrewshire,3.955431092626925e-5
-West Dunbartonshire,Argyll and Bute,3.466953064592023e-5
-West Dunbartonshire,East Renfrewshire,2.898927572007193e-5
-West Dunbartonshire,Inverclyde,1.8856457505570172e-5
-West Dunbartonshire,South Lanarkshire,1.6185269822576617e-5
-West Dunbartonshire,North Lanarkshire,1.1347361309317576e-5
-West Dunbartonshire,North Ayrshire,9.330756582344255e-6
-West Dunbartonshire,Stirling,8.691161035473866e-6
-West Lothian,Edinburgh,3.8748414361431664e-5
-West Lothian,Falkirk,2.346513060574862e-5
-West Lothian,Midlothian,1.7803337681941395e-5
-West Lothian,North Lanarkshire,1.22157120348334e-5
-West Lothian,East Lothian,1.1333798879162223e-5
-West Lothian,Fife,7.3232825018878606e-6
-West Lothian,South Lanarkshire,7.2753190848513094e-6
-West Lothian,Clackmannanshire,6.324645563955383e-6
-West Lothian,Stirling,6.29552774483615e-6
-West Lothian,Glasgow,6.19642544675315e-6
-West Sussex,Brighton and Hove,5.163212357044648e-5
-West Sussex,Portsmouth,1.1194610630199311e-5
-West Sussex,Surrey,9.367053937806272e-6
-West Sussex,East Sussex,7.563741017148502e-6
-West Sussex,Hampshire,3.1245402793864406e-6
-West Sussex,Southampton,2.1630625280372806e-6
-West Sussex,Greater London,1.6016185246112913e-6
-West Sussex,Kent,1.1129993359278498e-6
-West Sussex,Medway,9.772743150334905e-7
-West Sussex,Bournemouth,9.486586529948719e-7
-Wigan,Bolton,3.5113736670117066e-5
-Wigan,Saint Helens,3.018348828055599e-5
-Wigan,Salford,2.399068183842349e-5
-Wigan,Warrington,2.0618445611062737e-5
-Wigan,Manchester,1.0789994951290845e-5
-Wigan,Trafford,1.0013370460055831e-5
-Wigan,Bury,8.430537989718937e-6
-Wigan,Knowsley,8.168456604077766e-6
-Wigan,Lancashire,7.077447301596558e-6
-Wigan,Halton,5.5823299674199995e-6
-Wiltshire,Swindon,3.1752373375639716e-5
-Wiltshire,Bath and North East Somerset,2.8832277781232723e-5
-Wiltshire,South Gloucestershire,6.202859357655468e-6
-Wiltshire,Bristol,6.184358264732812e-6
-Wiltshire,Southampton,5.260203161599281e-6
-Wiltshire,Dorset,4.668477699176021e-6
-Wiltshire,Somerset,4.37111055225389e-6
-Wiltshire,Hampshire,3.937208865124167e-6
-Wiltshire,West Berkshire,3.414644908159878e-6
-Wiltshire,Bournemouth,3.1294423886056757e-06
-Windsor and Maidenhead,Slough,1.4183963921577942e-4
-Windsor and Maidenhead,Bracknell Forest,4.291551612648071e-5
-Windsor and Maidenhead,Wokingham,2.735379652876094e-5
-Windsor and Maidenhead,Buckinghamshire,2.7027337838240395e-5
-Windsor and Maidenhead,Reading,2.323238214242778e-5
-Windsor and Maidenhead,Surrey,7.692756914937586e-6
-Windsor and Maidenhead,West Berkshire,7.5756679601574016e-6
-Windsor and Maidenhead,Greater London,3.674080722442601e-6
-Windsor and Maidenhead,Oxfordshire,3.5360121717923344e-6
-Windsor and Maidenhead,Hampshire,2.0872842165629214e-6
-Wirral,Cheshire West and Chester,2.534915073200442e-5
-Wirral,Sefton,1.740439918821169e-5
-Wirral,Knowsley,1.7120757909321666e-5
-Wirral,Flintshire,1.158281702414861e-5
-Wirral,Halton,7.156067006124236e-6
-Wirral,Saint Helens,5.571308329842041e-6
-Wirral,Wrexham,5.038864049140291e-6
-Wirral,Warrington,4.247326679601549e-6
-Wirral,Denbighshire,3.426410032503652e-6
-Wirral,Wigan,2.0816638830506795e-6
-Wokingham,Reading,2.0172498803203024e-4
-Wokingham,Bracknell Forest,7.324614353538347e-5
-Wokingham,West Berkshire,3.450651795271088e-5
-Wokingham,Windsor and Maidenhead,2.735379652876094e-5
-Wokingham,Slough,1.6850541298427864e-5
-Wokingham,Hampshire,5.349277949392494e-6
-Wokingham,Oxfordshire,5.16327572012895e-6
-Wokingham,Surrey,4.5198372384205714e-6
-Wokingham,Buckinghamshire,4.398596350788248e-6
-Wokingham,Swindon,2.2740157810991796e-6
-Wolverhampton,Walsall,5.5705662228041795e-5
-Wolverhampton,Dudley,3.788626869443759e-5
-Wolverhampton,Sandwell,3.273402393968594e-5
-Wolverhampton,Staffordshire,2.005034743621022e-5
-Wolverhampton,Telford and Wrekin,1.932314247854407e-5
-Wolverhampton,Birmingham,1.1525814248093357e-5
-Wolverhampton,Shropshire,8.498690139870493e-6
-Wolverhampton,Solihull,5.53848346498329e-6
-Wolverhampton,Worcestershire,3.0957691189329886e-6
-Wolverhampton,Coventry,2.753727812612591e-6
-Worcestershire,Birmingham,1.26367405157925e-5
-Worcestershire,Dudley,1.1758349662197029e-5
-Worcestershire,Herefordshire,8.326802686325573e-6
-Worcestershire,Sandwell,7.176774744445012e-6
-Worcestershire,Solihull,7.1381528495222204e-6
-Worcestershire,Warwickshire,6.039706035502574e-6
-Worcestershire,Gloucestershire,5.5170681859758135e-6
-Worcestershire,Shropshire,3.7149859913919413e-6
-Worcestershire,Wolverhampton,3.0957691189329886e-6
-Worcestershire,Walsall,2.710371267013307e-6
-Wrexham,Flintshire,5.014313719293399e-5
-Wrexham,Denbighshire,3.2615971871286273e-5
-Wrexham,Shropshire,2.0265015391658258e-5
-Wrexham,Cheshire West and Chester,1.7205708663215856e-5
-Wrexham,Conwy,5.593011888302416e-6
-Wrexham,Wirral,5.038864049140291e-6
-Wrexham,Gwynedd,4.069288233127915e-6
-Wrexham,Powys,3.400447278446079e-6
-Wrexham,Cheshire East,2.314200502768354e-6
-Wrexham,Halton,2.1763983007381013e-6
-York,North Yorkshire,3.154896286200863e-5
-York,East Riding of Yorkshire,1.7475125717302563e-5
-York,Leeds,9.92081831680842e-6
-York,Wakefield,4.7168938460400405e-6
-York,Kingston upon Hull,4.15296516878352e-6
-York,Middlesbrough,2.6785265046694405e-6
-York,Darlington,2.6101065881845295e-6
-York,Stockton-on-Tees,2.4411193919472966e-6
-York,Doncaster,2.4256029591284495e-6
-York,Kirklees,2.4123935049759464e-6
+Shetland Islands,Aberdeenshire,1.266278755400725e-6
+Shropshire,Telford and Wrekin,4.742358395365542e-5
+Shropshire,Powys,2.0817048969266353e-5
+Shropshire,Wrexham,2.076231299408911e-5
+Shropshire,Wolverhampton,8.641968218702886e-6
+Shropshire,Herefordshire,6.5204638621595785e-6
+Shropshire,Dudley,3.995122113851384e-6
+Shropshire,Worcestershire,3.7151299533895144e-6
+Shropshire,Cheshire West and Chester,3.071507000872736e-6
+Shropshire,Cheshire East,2.9163469884013633e-6
+Shropshire,Staffordshire,2.731756264161087e-6
+Slough,Windsor and Maidenhead,1.433431277016334e-4
+Slough,Buckinghamshire,4.199154604201047e-5
+Slough,Bracknell Forest,3.2257672110688766e-5
+Slough,Reading,2.0325442054548117e-5
+Slough,Wokingham,1.6895893144065454e-5
+Slough,Surrey,9.514240153632865e-6
+Slough,Greater London,9.0723399896633e-6
+Slough,West Berkshire,6.567693334281973e-6
+Slough,Luton,3.501498691216817e-6
+Slough,Hertfordshire,3.1342776772772064e-6
+Solihull,Birmingham,6.589621033388885e-5
+Solihull,Coventry,1.4783430660396198e-5
+Solihull,Warwickshire,1.3552951821779275e-5
+Solihull,Sandwell,1.2509553759574611e-5
+Solihull,Walsall,7.369999175005312e-6
+Solihull,Worcestershire,7.186432900033218e-6
+Solihull,Dudley,6.74224713675595e-6
+Solihull,Wolverhampton,5.53147840009401e-6
+Solihull,Staffordshire,4.417949734680409e-6
+Solihull,Telford and Wrekin,1.799293114082526e-6
+Somerset,North Somerset,2.0372794043546678e-5
+Somerset,Bath and North East Somerset,1.450573653503756e-5
+Somerset,Dorset,1.022053072210836e-5
+Somerset,Bristol,7.920246905040965e-6
+Somerset,Devon,6.0075852754751964e-6
+Somerset,South Gloucestershire,4.843329476901525e-6
+Somerset,Wiltshire,4.466954110473562e-6
+Somerset,Torbay,2.1405105185867193e-6
+Somerset,Plymouth,1.7009070616196169e-6
+Somerset,Monmouthshire,1.4449350469931925e-6
+South Ayrshire,East Ayrshire,1.0493830706714369e-4
+South Ayrshire,North Ayrshire,5.224891819446196e-5
+South Ayrshire,Glasgow,1.2967055891031611e-5
+South Ayrshire,East Renfrewshire,1.0983744837981185e-5
+South Ayrshire,Renfrewshire,8.478953327900675e-6
+South Ayrshire,South Lanarkshire,7.1627142269038415e-6
+South Ayrshire,East Dunbartonshire,6.906564984984463e-6
+South Ayrshire,Dumfries and Galloway,5.937876267380222e-6
+South Ayrshire,West Dunbartonshire,5.178109339381452e-6
+South Ayrshire,North Lanarkshire,4.753502790865797e-6
+South Gloucestershire,Bristol,1.4438376437790558e-4
+South Gloucestershire,Bath and North East Somerset,4.2383800522076454e-5
+South Gloucestershire,North Somerset,2.9246760845399705e-5
+South Gloucestershire,Newport,1.850529694410675e-5
+South Gloucestershire,Monmouthshire,1.2323812539826249e-5
+South Gloucestershire,Gloucestershire,7.383164140835683e-6
+South Gloucestershire,Wiltshire,6.162467954651306e-6
+South Gloucestershire,Somerset,4.843329476901525e-6
+South Gloucestershire,Swindon,4.33027661440043e-6
+South Gloucestershire,Torfaen,3.84060175300024e-6
+South Lanarkshire,Glasgow,4.884581967314474e-5
+South Lanarkshire,North Lanarkshire,3.957883903554048e-5
+South Lanarkshire,East Renfrewshire,3.746710517308213e-5
+South Lanarkshire,East Dunbartonshire,2.297136430611214e-5
+South Lanarkshire,Renfrewshire,1.8288784001517768e-5
+South Lanarkshire,West Dunbartonshire,1.5911378002423142e-5
+South Lanarkshire,Inverclyde,9.024043059776517e-6
+South Lanarkshire,East Ayrshire,8.48660131665837e-6
+South Lanarkshire,North Ayrshire,7.87339910288328e-6
+South Lanarkshire,West Lothian,7.3038404800373835e-6
+South Tyneside,Gateshead,5.3891665241959415e-5
+South Tyneside,Sunderland,5.134124758208673e-5
+South Tyneside,Newcastle upon Tyne,4.45723459280735e-5
+South Tyneside,North Tyneside,2.9247607790373812e-5
+South Tyneside,Durham,1.1645991203897092e-5
+South Tyneside,Northumberland,1.086809364367343e-5
+South Tyneside,Hartlepool,3.6974169622984625e-6
+South Tyneside,Stockton-on-Tees,3.225398685617827e-6
+South Tyneside,Middlesbrough,2.557338300375512e-6
+South Tyneside,Darlington,2.1769715261371058e-6
+Southampton,Hampshire,5.058825512322336e-5
+Southampton,Portsmouth,2.5824374689831508e-5
+Southampton,Bournemouth,1.4014855502123514e-5
+Southampton,Poole,7.357299474443886e-6
+Southampton,Dorset,6.428792910646358e-6
+Southampton,Isle of Wight,6.314350688360487e-6
+Southampton,Wiltshire,5.382390292935806e-6
+Southampton,West Berkshire,3.549896150698796e-6
+Southampton,West Sussex,2.190445571025305e-6
+Southampton,Reading,1.7569975678637433e-6
+Southend-on-Sea,Essex,3.68343299253194e-5
+Southend-on-Sea,Thurrock,2.4901518595027602e-5
+Southend-on-Sea,Greater London,4.846611977862562e-6
+Southend-on-Sea,Medway,1.8220794309692895e-6
+Southend-on-Sea,Hertfordshire,1.8128996930356214e-6
+Southend-on-Sea,Kent,1.4163203217105173e-6
+Southend-on-Sea,Suffolk,9.624746021879586e-7
+Southend-on-Sea,Luton,8.931483562301462e-7
+Southend-on-Sea,Central Bedfordshire,7.741549338867435e-7
+Southend-on-Sea,Surrey,7.720667627586935e-7
+Staffordshire,Stoke-on-Trent,4.833264250600591e-5
+Staffordshire,Wolverhampton,2.0160078245391642e-5
+Staffordshire,Walsall,1.6987041379173185e-5
+Staffordshire,Derby,8.23293547639426e-6
+Staffordshire,Cheshire East,7.604757099262662e-6
+Staffordshire,Birmingham,5.94821420108269e-6
+Staffordshire,Sandwell,5.310589740849253e-6
+Staffordshire,Dudley,5.284465125910432e-6
+Staffordshire,Telford and Wrekin,5.200033139963268e-6
+Staffordshire,Warwickshire,5.0669912719295544e-6
+Stirling,Clackmannanshire,1.6040725995755963e-4
+Stirling,Falkirk,6.849301907860883e-5
+Stirling,East Dunbartonshire,1.165051625490164e-5
+Stirling,Perthshire and Kinross,9.701051886686227e-6
+Stirling,Glasgow,9.616397050098941e-6
+Stirling,West Dunbartonshire,8.652003839303461e-6
+Stirling,North Lanarkshire,8.151965299546568e-6
+Stirling,Edinburgh,7.2988558115531985e-6
+Stirling,West Lothian,6.391566599782932e-6
+Stirling,East Renfrewshire,6.017055082194798e-6
+Stockport,Manchester,6.387086819423777e-5
+Stockport,Tameside,5.586555371508735e-5
+Stockport,Trafford,2.66518090360468e-5
+Stockport,Salford,2.099375905384952e-5
+Stockport,Oldham,1.9077565770387232e-5
+Stockport,Cheshire East,1.7142421144004452e-5
+Stockport,Bury,1.3361956246827627e-5
+Stockport,Rochdale,9.870914531719719e-6
+Stockport,Warrington,5.390644048228699e-6
+Stockport,Bolton,5.3186626729870624e-6
+Stockton-on-Tees,Middlesbrough,1.2094537448966481e-4
+Stockton-on-Tees,Hartlepool,6.73354276178422e-5
+Stockton-on-Tees,Redcar and Cleveland,5.4051456870116576e-5
+Stockton-on-Tees,Darlington,4.4531468875299844e-5
+Stockton-on-Tees,Durham,1.16044142211037e-5
+Stockton-on-Tees,North Yorkshire,6.3314297481257225e-6
+Stockton-on-Tees,Sunderland,5.6409877436084856e-6
+Stockton-on-Tees,Newcastle upon Tyne,4.014057180382243e-6
+Stockton-on-Tees,Gateshead,3.488635489974789e-6
+Stockton-on-Tees,South Tyneside,3.225398685617827e-6
+Stoke-on-Trent,Staffordshire,4.833264250600591e-5
+Stoke-on-Trent,Cheshire East,1.501638007970644e-5
+Stoke-on-Trent,Telford and Wrekin,2.5554038225568338e-6
+Stoke-on-Trent,Wolverhampton,1.981114649400059e-6
+Stoke-on-Trent,Shropshire,1.97037958785599e-6
+Stoke-on-Trent,Derby,1.9576073455463837e-6
+Stoke-on-Trent,Cheshire West and Chester,1.90942374058713e-6
+Stoke-on-Trent,Manchester,1.4872917438659251e-6
+Stoke-on-Trent,Walsall,1.4468455607875146e-6
+Stoke-on-Trent,Wrexham,1.2533428072820921e-6
+Suffolk,Norfolk,1.1441787966873371e-5
+Suffolk,Cambridgeshire,9.702004742665363e-6
+Suffolk,Essex,5.620905500112087e-6
+Suffolk,Thurrock,1.0387840639174735e-6
+Suffolk,Bedfordshire,1.001181310237155e-6
+Suffolk,Southend-on-Sea,9.624746021879586e-7
+Suffolk,Peterborough,9.427878731077828e-7
+Suffolk,Hertfordshire,6.973938964382328e-7
+Suffolk,Greater London,5.937211152814014e-7
+Suffolk,Central Bedfordshire,4.479272721029667e-7
+Sunderland,South Tyneside,5.134124758208673e-5
+Sunderland,Gateshead,3.879613203828399e-5
+Sunderland,Durham,2.80353210039148e-5
+Sunderland,Newcastle upon Tyne,2.0839355196316094e-5
+Sunderland,North Tyneside,1.3146823434504082e-5
+Sunderland,Hartlepool,8.277838422028643e-6
+Sunderland,Northumberland,5.9387966720522395e-6
+Sunderland,Stockton-on-Tees,5.6409877436084856e-6
+Sunderland,Middlesbrough,3.5362997785058038e-6
+Sunderland,Darlington,3.4603481530991806e-6
+Surrey,Bracknell Forest,1.3607848258261557e-5
+Surrey,Slough,9.514240153632865e-6
+Surrey,West Sussex,9.432080402522326e-6
+Surrey,Hampshire,8.41043416273325e-6
+Surrey,Windsor and Maidenhead,7.740221098211802e-6
+Surrey,Greater London,6.9386101493286e-6
+Surrey,Wokingham,4.570968006976841e-6
+Surrey,Reading,3.8020622143582237e-6
+Surrey,Brighton and Hove,3.0237128673899525e-6
+Surrey,Portsmouth,2.120697322018562e-6
+Swansea,Neath Port Talbot,1.2170436177755175e-4
+Swansea,Carmarthenshire,6.20450324502817e-5
+Swansea,Bridgend,1.7249602321601768e-5
+Swansea,Powys,8.015299190149782e-6
+Swansea,Cardiff,7.444992176412507e-6
+Swansea,"Rhondda, Cynon, Taff",7.3672776479797805e-6
+Swansea,Pembrokeshire,5.78576028018415e-6
+Swansea,Vale of Glamorgan,5.619745606090677e-6
+Swansea,Merthyr Tydfil,5.341414369519403e-6
+Swansea,Ceredigion,4.720393810767307e-6
+Swindon,Wiltshire,3.1977731096145065e-5
+Swindon,West Berkshire,1.1340854687164451e-5
+Swindon,Oxfordshire,7.931286087717102e-6
+Swindon,Gloucestershire,7.622165299548308e-6
+Swindon,Reading,6.120226583194431e-6
+Swindon,South Gloucestershire,4.33027661440043e-6
+Swindon,Bristol,3.976612917005417e-6
+Swindon,Bath and North East Somerset,3.822341691934549e-6
+Swindon,Wokingham,2.298512035984419e-6
+Swindon,North Somerset,2.2741504058545056e-6
+Tameside,Stockport,5.586555371508735e-5
+Tameside,Manchester,5.1813358222200465e-5
+Tameside,Oldham,5.058398577145833e-5
+Tameside,Salford,2.157466534061057e-5
+Tameside,Trafford,1.917971041556244e-5
+Tameside,Rochdale,1.6309154676619934e-5
+Tameside,Bury,1.511438600784948e-5
+Tameside,Bolton,6.600253750805986e-6
+Tameside,Derbyshire,5.518815467555389e-6
+Tameside,Wigan,4.742128617368984e-6
+Telford and Wrekin,Shropshire,4.742358395365542e-5
+Telford and Wrekin,Wolverhampton,1.9378218123213718e-5
+Telford and Wrekin,Dudley,5.210739159923898e-6
+Telford and Wrekin,Staffordshire,5.200033139963268e-6
+Telford and Wrekin,Powys,5.0258427456133744e-6
+Telford and Wrekin,Walsall,4.687084392545395e-6
+Telford and Wrekin,Sandwell,3.950877158473498e-6
+Telford and Wrekin,Birmingham,3.189285127588227e-6
+Telford and Wrekin,Stoke-on-Trent,2.5554038225568338e-6
+Telford and Wrekin,Solihull,1.799293114082526e-6
+Thurrock,Southend-on-Sea,2.4901518595027602e-5
+Thurrock,Essex,2.1022909520477073e-5
+Thurrock,Greater London,1.3465957706432592e-5
+Thurrock,Medway,4.650635482503504e-6
+Thurrock,Kent,4.63815989570944e-6
+Thurrock,Hertfordshire,2.2768860202508944e-6
+Thurrock,Luton,1.4840944601141656e-6
+Thurrock,Slough,1.4254956242826445e-6
+Thurrock,Surrey,1.353755465144325e-6
+Thurrock,Central Bedfordshire,1.1056749987622204e-6
+Torbay,Devon,4.9088301511002466e-5
+Torbay,Plymouth,1.2878821180307844e-5
+Torbay,Cornwall,2.998067863978611e-6
+Torbay,Somerset,2.1405105185867193e-6
+Torbay,North Somerset,1.766477328323653e-6
+Torbay,Bristol,1.6573390153462636e-6
+Torbay,South Gloucestershire,1.2073730117003234e-6
+Torbay,Bournemouth,9.837256320860084e-7
+Torbay,Bath and North East Somerset,8.762112262398758e-7
+Torbay,Wiltshire,7.98220924477641e-7
+Torfaen,Newport,1.1279134616824156e-4
+Torfaen,Monmouthshire,6.299703391638125e-5
+Torfaen,Blaenau Gwent,6.283664708491974e-5
+Torfaen,Caerphilly,3.937591868068254e-5
+Torfaen,Cardiff,2.251455335247762e-5
+Torfaen,Merthyr Tydfil,1.2522857306797408e-5
+Torfaen,"Rhondda, Cynon, Taff",9.782177200930779e-6
+Torfaen,Vale of Glamorgan,9.296918768015583e-6
+Torfaen,Bridgend,5.109801854207686e-6
+Torfaen,Bristol,4.60679721087979e-6
+Trafford,Manchester,8.029022272886524e-5
+Trafford,Salford,6.441851963708621e-5
+Trafford,Stockport,2.66518090360468e-5
+Trafford,Tameside,1.917971041556244e-5
+Trafford,Bury,1.7212325437551907e-5
+Trafford,Warrington,1.6689757669685552e-5
+Trafford,Oldham,1.4539366813582946e-5
+Trafford,Bolton,1.2750416445058403e-5
+Trafford,Rochdale,1.18433275821945e-5
+Trafford,Wigan,1.0145486775755434e-5
+Vale of Glamorgan,Cardiff,1.1666573273561355e-4
+Vale of Glamorgan,Bridgend,4.12904526080283e-5
+Vale of Glamorgan,"Rhondda, Cynon, Taff",2.4628305536958973e-5
+Vale of Glamorgan,Caerphilly,2.0163901805822122e-5
+Vale of Glamorgan,Newport,1.6146475590646323e-5
+Vale of Glamorgan,Merthyr Tydfil,1.3428973397867487e-5
+Vale of Glamorgan,Neath Port Talbot,9.335181322700913e-6
+Vale of Glamorgan,Torfaen,9.296918768015583e-6
+Vale of Glamorgan,Swansea,5.619745606090677e-6
+Vale of Glamorgan,Blaenau Gwent,5.327140369460271e-6
+Wakefield,Leeds,2.5979505094303222e-5
+Wakefield,Barnsley,2.215967159836733e-5
+Wakefield,Kirklees,2.1353581558674627e-5
+Wakefield,Doncaster,9.560302057320157e-6
+Wakefield,North Yorkshire,7.246519711051888e-6
+Wakefield,Bradford,6.965876329582706e-6
+Wakefield,Calderdale,6.094547432090547e-6
+Wakefield,York,4.714126154360864e-6
+Wakefield,Rotherham,3.7389045046989578e-6
+Wakefield,Sheffield,3.4426496722454736e-6
+Walsall,Wolverhampton,5.6179979540188916e-5
+Walsall,Sandwell,4.2561322846947535e-5
+Walsall,Birmingham,1.9765158345824975e-5
+Walsall,Staffordshire,1.6987041379173185e-5
+Walsall,Dudley,1.592737179079082e-5
+Walsall,Solihull,7.369999175005312e-6
+Walsall,Telford and Wrekin,4.687084392545395e-6
+Walsall,Coventry,3.7613033838257173e-6
+Walsall,Worcestershire,2.7608758248197823e-6
+Walsall,Warwickshire,2.619462661859601e-6
+Warrington,Halton,6.009758057346071e-5
+Warrington,Saint Helens,5.1211139231497745e-5
+Warrington,Wigan,2.0705272088570806e-5
+Warrington,Knowsley,1.7687877821499103e-5
+Warrington,Trafford,1.6689757669685552e-5
+Warrington,Salford,1.470383451698354e-5
+Warrington,Cheshire West and Chester,1.1610786154564615e-5
+Warrington,Manchester,9.656762649251735e-6
+Warrington,Sefton,6.740706210837302e-6
+Warrington,Bury,5.806774457331025e-6
+Warwickshire,Coventry,6.033362131976366e-5
+Warwickshire,Solihull,1.3552951821779275e-5
+Warwickshire,Leicestershire,9.203352451200344e-6
+Warwickshire,Birmingham,8.425696525411819e-6
+Warwickshire,Worcestershire,6.105944095933301e-6
+Warwickshire,Staffordshire,5.0669912719295544e-6
+Warwickshire,Northamptonshire,5.035907051649251e-6
+Warwickshire,Leicester,4.841561348918863e-6
+Warwickshire,Sandwell,2.981275637986128e-6
+Warwickshire,Oxfordshire,2.9446429751173487e-6
+West Berkshire,Reading,1.3151105371892214e-4
+West Berkshire,Wokingham,3.475583829117024e-5
+West Berkshire,Swindon,1.1340854687164451e-5
+West Berkshire,Bracknell Forest,1.1302073743180708e-5
+West Berkshire,Hampshire,8.916810151552453e-6
+West Berkshire,Windsor and Maidenhead,7.7523446862415e-6
+West Berkshire,Oxfordshire,7.138785920296192e-6
+West Berkshire,Slough,6.567693334281973e-6
+West Berkshire,Southampton,3.549896150698796e-6
+West Berkshire,Wiltshire,3.4346750874195586e-6
+West Dunbartonshire,Glasgow,5.846397799647023e-5
+West Dunbartonshire,East Dunbartonshire,4.3566638324979336e-5
+West Dunbartonshire,Renfrewshire,3.9464304274448174e-5
+West Dunbartonshire,Argyll and Bute,3.536698551514003e-5
+West Dunbartonshire,East Renfrewshire,2.8467000992977714e-5
+West Dunbartonshire,Inverclyde,1.9121183624412102e-5
+West Dunbartonshire,South Lanarkshire,1.5911378002423142e-5
+West Dunbartonshire,North Lanarkshire,1.1189325594844732e-5
+West Dunbartonshire,North Ayrshire,9.227097920932096e-6
+West Dunbartonshire,Stirling,8.652003839303461e-6
+West Lothian,Edinburgh,3.861475103216099e-5
+West Lothian,Falkirk,2.3405850280150732e-5
+West Lothian,Midlothian,1.7786262440190997e-5
+West Lothian,North Lanarkshire,1.2228463290546062e-5
+West Lothian,East Lothian,1.1336972451173766e-5
+West Lothian,South Lanarkshire,7.3038404800373835e-6
+West Lothian,Fife,7.2658228836114715e-6
+West Lothian,Stirling,6.391566599782932e-6
+West Lothian,Clackmannanshire,6.333310484268534e-6
+West Lothian,Glasgow,6.180708785659084e-6
+West Sussex,Brighton and Hove,5.2381744509505755e-5
+West Sussex,Portsmouth,1.131555604600614e-5
+West Sussex,Surrey,9.432080402522326e-6
+West Sussex,East Sussex,7.598137024503659e-6
+West Sussex,Hampshire,3.1715181592301117e-6
+West Sussex,Southampton,2.190445571025305e-6
+West Sussex,Greater London,1.6014378307637677e-6
+West Sussex,Kent,1.120921288560916e-6
+West Sussex,Medway,9.82199685468629e-7
+West Sussex,Bournemouth,9.250944425053638e-7
+Wigan,Bolton,3.530008179417444e-5
+Wigan,Saint Helens,3.0393846987036956e-5
+Wigan,Salford,2.4095330295316948e-5
+Wigan,Warrington,2.0705272088570806e-5
+Wigan,Manchester,1.0747835582136642e-5
+Wigan,Trafford,1.0145486775755434e-5
+Wigan,Bury,8.55341974047931e-6
+Wigan,Knowsley,8.205413669385801e-6
+Wigan,Lancashire,7.1186337697215195e-6
+Wigan,Halton,5.616982487774776e-6
+Wiltshire,Swindon,3.1977731096145065e-5
+Wiltshire,Bath and North East Somerset,2.9132058563277747e-5
+Wiltshire,Bristol,6.237653370432838e-6
+Wiltshire,South Gloucestershire,6.162467954651306e-6
+Wiltshire,Southampton,5.382390292935806e-6
+Wiltshire,Dorset,4.729278090102722e-6
+Wiltshire,Somerset,4.466954110473562e-6
+Wiltshire,Hampshire,3.965559533669456e-6
+Wiltshire,West Berkshire,3.4346750874195586e-6
+Wiltshire,Bournemouth,3.2053967784369168e-6
+Windsor and Maidenhead,Slough,1.433431277016334e-4
+Windsor and Maidenhead,Bracknell Forest,4.3452031325161706e-5
+Windsor and Maidenhead,Wokingham,2.7619922233149434e-5
+Windsor and Maidenhead,Buckinghamshire,2.733706499959751e-5
+Windsor and Maidenhead,Reading,2.320443523610476e-5
+Windsor and Maidenhead,West Berkshire,7.7523446862415e-6
+Windsor and Maidenhead,Surrey,7.740221098211802e-6
+Windsor and Maidenhead,Greater London,3.7001622623450895e-6
+Windsor and Maidenhead,Oxfordshire,3.5704078051515126e-6
+Windsor and Maidenhead,Hampshire,2.118228721765683e-6
+Wirral,Cheshire West and Chester,2.536644747357078e-5
+Wirral,Sefton,1.7352861827897695e-5
+Wirral,Knowsley,1.7004110671084542e-5
+Wirral,Flintshire,1.173194607896387e-5
+Wirral,Halton,7.24722747014208e-6
+Wirral,Saint Helens,5.610671725267177e-6
+Wirral,Wrexham,5.029727391590571e-6
+Wirral,Warrington,4.383819008653294e-6
+Wirral,Denbighshire,3.5051428497389202e-6
+Wirral,Wigan,2.0634898452556156e-6
+Wokingham,Reading,2.0081264541574724e-4
+Wokingham,Bracknell Forest,7.368290035858599e-5
+Wokingham,West Berkshire,3.475583829117024e-5
+Wokingham,Windsor and Maidenhead,2.7619922233149434e-5
+Wokingham,Slough,1.6895893144065454e-5
+Wokingham,Hampshire,5.352956897463985e-6
+Wokingham,Oxfordshire,5.1728379175943936e-6
+Wokingham,Surrey,4.570968006976841e-6
+Wokingham,Buckinghamshire,4.432695463296816e-6
+Wokingham,Swindon,2.298512035984419e-6
+Wolverhampton,Walsall,5.6179979540188916e-5
+Wolverhampton,Dudley,3.835536691226073e-5
+Wolverhampton,Sandwell,3.316566841440221e-5
+Wolverhampton,Staffordshire,2.0160078245391642e-5
+Wolverhampton,Telford and Wrekin,1.9378218123213718e-5
+Wolverhampton,Birmingham,1.1597534344163988e-5
+Wolverhampton,Shropshire,8.641968218702886e-6
+Wolverhampton,Solihull,5.53147840009401e-6
+Wolverhampton,Worcestershire,3.099719005765967e-6
+Wolverhampton,Coventry,2.8193396999327997e-6
+Worcestershire,Birmingham,1.2708447497078868e-5
+Worcestershire,Dudley,1.1950663680862336e-5
+Worcestershire,Herefordshire,8.42852923034439e-6
+Worcestershire,Sandwell,7.255071686425657e-6
+Worcestershire,Solihull,7.186432900033218e-6
+Worcestershire,Warwickshire,6.105944095933301e-6
+Worcestershire,Gloucestershire,5.564574806195427e-6
+Worcestershire,Shropshire,3.7151299533895144e-6
+Worcestershire,Wolverhampton,3.099719005765967e-6
+Worcestershire,Walsall,2.7608758248197823e-6
+Wrexham,Flintshire,5.043670967014855e-5
+Wrexham,Denbighshire,3.311983495045076e-5
+Wrexham,Shropshire,2.076231299408911e-5
+Wrexham,Cheshire West and Chester,1.754369157348975e-5
+Wrexham,Conwy,5.578591847383634e-6
+Wrexham,Wirral,5.029727391590571e-6
+Wrexham,Gwynedd,4.066728061983249e-6
+Wrexham,Powys,3.480917291966625e-6
+Wrexham,Cheshire East,2.291966031438649e-6
+Wrexham,Halton,2.1777907161405e-6
+York,North Yorkshire,3.1938523990841675e-5
+York,East Riding of Yorkshire,1.776481984386406e-5
+York,Leeds,9.897709751886803e-6
+York,Wakefield,4.714126154360864e-6
+York,Kingston upon Hull,4.241898405992265e-6
+York,Middlesbrough,2.665193223749396e-6
+York,Darlington,2.5677274982072406e-6
+York,Stockton-on-Tees,2.4667541897402348e-6
+York,Kirklees,2.3988136726969665e-6
+York,Doncaster,2.378888550138115e-6
