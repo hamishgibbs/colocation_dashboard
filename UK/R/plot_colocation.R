@@ -39,7 +39,8 @@ p_bw <- plot_data_bw %>%
   plot_default_theme +
   plot_custom_theme +
   theme(legend.position = 'right',
-        text = element_text(size = 12))
+        text = element_text(size = 12),
+        legend.key.height=unit(3,"line"))
 
 gutils::ggsave_pdf_png(p_bw, .args[length(.args)], 8, 6)
 print('Success.')

@@ -9,11 +9,17 @@ suppressPackageStartupMessages({
 
 colocation <- read_csv(.args[1])
 
+dates <- colocation %>% pull(ds) %>% unique() %>% sort()
+
+date_range <- dates[(length(dates) - 3): length(dates)]
+
 mean_top_10 <- colocation %>% 
   mutate(type = ifelse(polygon1_id == polygon2_id, 'Within', 'Between')) %>% 
   filter(type == 'Between') %>% 
+  filter(ds %in% date_range) %>% 
   group_by(polygon1_name, polygon2_name) %>% 
-  summarise(mean_colocation = mean(link_value, na.rm=T))
+  summarise(mean_colocation = mean(link_value, na.rm=T)) %>% 
+  mutate(release_date = max(dates))
 
 poly_names <- mean_top_10 %>% pull(polygon1_name) %>% unique()
 
