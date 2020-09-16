@@ -18,7 +18,7 @@ mean_top_10 <- colocation %>%
   filter(type == 'Between') %>% 
   filter(ds %in% date_range) %>% 
   group_by(polygon1_name, polygon2_name) %>% 
-  summarise(mean_colocation = mean(link_value, na.rm=T)) %>% 
+  summarise(mean_colocation = mean(link_value, na.rm=T), .groups = 'drop') %>% 
   mutate(release_date = max(dates))
 
 poly_names <- mean_top_10 %>% pull(polygon1_name) %>% unique()

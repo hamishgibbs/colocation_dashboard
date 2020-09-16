@@ -13,7 +13,8 @@ update_data: ${INPUTDIR}/colocation_country_referenced.csv \
 			${INPUTDIR}/colocation_gadm_names.csv
 
 create_plot_datasets: ${PLOTDIR}/data/mean_ts.csv \
-					${PLOTDIR}/data/top_n_between.csv
+					${PLOTDIR}/data/top_n_between.csv \
+					${PLOTDIR}/data/top_n_between_archive.csv
 
 transform_text_files: ${PLOTDIR}/text/blurb.html \
 					${PLOTDIR}/text/description.html \
@@ -47,6 +48,9 @@ ${PLOTDIR}/data/mean_ts.csv: ${PROJDIR}/UK/R/create_ts_data.R ${INPUTDIR}/coloca
 ${PLOTDIR}/data/top_n_between.csv: ${PROJDIR}/UK/R/create_top_n_data.R ${INPUTDIR}/colocation_gadm_names.csv
 	${R}
 
+${PLOTDIR}/data/top_n_between_archive.csv: ${PROJDIR}/UK/R/create_top_n_archive.R ${INPUTDIR}/colocation_gadm_names.csv
+	${R}
+
 ${PLOTDIR}/text/blurb.html: ${PLOTDIR}/js/write_md_to_html.js ${PLOTDIR}/text/blurb.md
 	${NODE}
 
@@ -64,4 +68,3 @@ ${PLOTDIR}/text/ac_fig_caption.html: ${PLOTDIR}/js/write_md_to_html.js ${PLOTDIR
 
 ${PLOTDIR}/images/colocation_plot.pdf: ${PLOTDIR}/R/plot_colocation.R ${INPUTDIR}/colocation_country_referenced.csv
 	${R}
-
